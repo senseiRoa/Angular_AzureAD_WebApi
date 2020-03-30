@@ -3,7 +3,8 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> El siguiente proyecto permite conectar una aplicacion Angular con el Active Directory de AzureAD mediante una pagina de login, obteniendo un JWT que posteriormente servira para acceder a los recursos protegidos por Active Directory en un WebApi Asp.Net Core
+> El siguiente proyecto permite conectar una aplicacion Angular con AzureAD , obteniendo un JWT que posteriormente servira para acceder a los recursos protegidos por Active Directory en un WebApi Asp.Net Core
+, cabe aclarar que este ejemplo se crea como apoyo al gran trabajo de ´Geert van der Cruijsen´ en su blog MOBILE FIRST CLOUD FIRST,  [Adding Azure Active Directory Authentication to connect an Angular app to Asp.Net Core Web API using MSAL](https://mobilefirstcloudfirst.net/2019/08/adding-azure-active-directory-authentication-connect-angular-app-asp-net-core-web-api-using-msal/)
 
 En este ejemplo encontrará:
 
@@ -13,9 +14,9 @@ En este ejemplo encontrará:
 Importante
 
 Para que los proyectos funcionen debe realizar la configuracion de Azure Active Directory , registrando dos aplicaciones.
-luego hay que realizar el ajuste de los aplicationIds de cada proyecto.
+luego hay que realizar el ajuste de los aplicationIds de cada proyecto, tal y como se mensiona en el blog antes citado.
 
-Puede encontrar una buena guia en este Ejemplo [Adding Azure Active Directory Authentication to connect an Angular app to Asp.Net Core Web API using MSAL](https://mobilefirstcloudfirst.net/2019/08/adding-azure-active-directory-authentication-connect-angular-app-asp-net-core-web-api-using-msal/)
+
 
 
 ## Author
