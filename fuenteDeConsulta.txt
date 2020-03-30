@@ -1,0 +1,8 @@
+https://mobilefirstcloudfirst.net/2019/08/adding-azure-active-directory-authentication-connect-angular-app-asp-net-core-web-api-using-msal/
+
+https://www.npmjs.com/package/@azure/msal-angular
+
+https://www.pshul.com/2020/03/29/authenticate-your-angular-9-to-azure-ad-using-msal/
+
+
+https://mykkon.work/how-to-setup-any-origin/
