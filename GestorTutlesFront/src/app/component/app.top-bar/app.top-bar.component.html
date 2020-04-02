@@ -1,0 +1,22 @@
+  <!-- <a class="topbar-button" [routerLink]="['/login']">Salir</a> -->
+
+  <div class="ui-g">
+    <div class="ui-g-12 second-header layout-topbar">
+      <div class="ui-g-4 site-info lema">
+
+        <div class="header-set">
+          <a class="logo navbar-btn" href="/es" title="Inicio">
+            <img src="../../../assets/images/Logo.png" alt="Inicio">
+          </a>
+
+        </div>
+        <a *ngIf="showMenu" href="#" class="menu-btn" (click)="app.onMenuButtonClick($event)">
+          <i class="fa fa-bars">Menu</i>
+        </a>
+      </div>
+      <div class="ui-g-8 site-info text-center titulo-sitio">
+        <a class="site-title" href="/es" title="Inicio">Expediente Digital</a>
+      </div>
+
+    </div>
+  </div>

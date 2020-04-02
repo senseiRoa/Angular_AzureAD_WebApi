@@ -6,5 +6,13 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'GestorTutlesFront';
+  title = 'Expendiente Digital';
+  value: Date;
+  sidebarActive: boolean;
+
+  onMenuButtonClick(event: Event) {
+      this.sidebarActive = !this.sidebarActive;
+
+      event.preventDefault();
+  }
 }

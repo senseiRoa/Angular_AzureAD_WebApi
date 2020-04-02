@@ -1,6 +1,45 @@
-<p>
-  Home works!
-</p>
+<div class="layout-wrapper" [ngClass]="{'layout-sidebar-active': sidebarActive}">
+  <app-topbar></app-topbar>
+  <div class="layout-main">
+    <div class="ui-g ">
+      <p-scrollPanel [style]="{width: '100%'}">
+
+        <p-panel header="Ventanilla virtual" class="ui-g-12">
+          <div class="ui-g">
+            <div class="ui-g-12">
+              <p>
+                Bogotá, D.C., viernes 27 de marzo de 2020. Para recibir a trámite acciones de tutela que busquen la
+                protección de los derechos fundamentales a la vida y a la salud, la Sala de Casación Civil de la Corte
+                Suprema de Justicia habilitó
+                xxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+              </p>
+            </div>
+            <div class="ui-g-12">
+              <p>
+                De igual manera, durante la presente etapa de aislamiento obligatorio en el país, la Sala tramitará y
+                resolverá las impugnaciones de la acciones constitucionales de hábeas corpus conforme a su competencia.
+              </p>
+            </div>
+            <div class="ui-g-12">
+              <p>
+                <a href="http://www.cortesuprema.gov.co/corte/wp-content/uploads/2020/03/ACUERDO-No.-15-Civil.pdf"
+                  target="_blank">Consulte
+                  aquí el Acuerdo No. 15, que reglamenta estos trámites:</a>
+              </p>
+            </div>
+
+            <div class="ui-g-12">
+              <app-formulario-publico></app-formulario-publico>
+            </div>
+          </div>
+        </p-panel>
+      </p-scrollPanel>
+    </div>
+    <app-footer></app-footer>
+  </div>
+</div>
+
+
 
 
 <div>

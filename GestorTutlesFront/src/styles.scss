@@ -1,1 +1,29 @@
+$footerBgColor:#f4f4f4;
+$footerBorderColor:#888888;
+
 /* You can add global styles to this file, and also import other style files */
+.layout-main {
+  .layout-content {
+      padding-top: 150px;
+      padding-left: 30px;
+  }
+
+  .layout-main-mask {
+      display: none;
+  }
+
+  .layout-footer {
+      width: 100%;
+      padding: 1em 1.5em;
+      background-color: $footerBgColor;
+      border-top: 2px dotted $footerBorderColor;
+
+      .footer-text-right {
+          margin-top: .5em;
+
+          span {
+              vertical-align: middle;
+          }
+      }
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id":1,
+    "value":"Civil"
+  },
+  {
+    "id":2,
+    "value":"Penal"
+  },
+  {
+    "id":3,
+    "value":"Laboral"
+  }
+]

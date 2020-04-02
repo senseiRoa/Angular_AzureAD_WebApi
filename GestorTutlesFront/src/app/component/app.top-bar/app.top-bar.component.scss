@@ -1,0 +1,25 @@
+.img-responsive,
+.thumbnail>img,
+.thumbnail a>img,
+.carousel-inner>.item>img,
+.carousel-inner>.item>a>img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+img {
+  vertical-align: middle;
+  border: 0;
+}
+.second-header a.site-title {
+    color: var(--texto);
+    margin-top: 10px;
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Gill Sans Std Light';
+    font-size: 36px;
+    line-height: 1;
+    font-weight: bold;
+}

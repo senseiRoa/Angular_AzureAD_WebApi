@@ -14,10 +14,9 @@ export class HomeComponent implements OnInit {
   constructor(private demoService: DemoPublicService) { }
 
   ngOnInit() {
-    debugger;
-    this.demoService.getPublic().subscribe(r => {
-      this.data = r;
-    });
+    // this.demoService.getPublic().subscribe(r => {
+    //   this.data = r;
+    // });
   }
 
 }

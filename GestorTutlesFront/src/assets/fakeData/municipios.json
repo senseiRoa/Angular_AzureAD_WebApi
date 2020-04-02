@@ -1,0 +1,5302 @@
+[
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "002",
+    "NOMMUNICIP": "ABEJORRAL"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "004",
+    "NOMMUNICIP": "ABRIAQUI"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "021",
+    "NOMMUNICIP": "ALEJANDRIA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "030",
+    "NOMMUNICIP": "AMAGA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "031",
+    "NOMMUNICIP": "AMALFI"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "034",
+    "NOMMUNICIP": "ANDES"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "036",
+    "NOMMUNICIP": "ANGELOPOLIS"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "038",
+    "NOMMUNICIP": "ANGOSTURA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "040",
+    "NOMMUNICIP": "ANORI"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "044",
+    "NOMMUNICIP": "ANZA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "045",
+    "NOMMUNICIP": "APARTADO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "051",
+    "NOMMUNICIP": "ARBOLETES"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "055",
+    "NOMMUNICIP": "ARGELIA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "059",
+    "NOMMUNICIP": "ARMENIA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "079",
+    "NOMMUNICIP": "BARBOSA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "088",
+    "NOMMUNICIP": "BELLO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "086",
+    "NOMMUNICIP": "BELMIRA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "091",
+    "NOMMUNICIP": "BETANIA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "093",
+    "NOMMUNICIP": "BETULIA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "101",
+    "NOMMUNICIP": "BOLIVAR"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "107",
+    "NOMMUNICIP": "BRICEÑO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "113",
+    "NOMMUNICIP": "BURITICA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "120",
+    "NOMMUNICIP": "CACERES"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "125",
+    "NOMMUNICIP": "CAICEDO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "129",
+    "NOMMUNICIP": "CALDAS"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "134",
+    "NOMMUNICIP": "CAMPAMENTO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "138",
+    "NOMMUNICIP": "CAÑASGORDAS"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "142",
+    "NOMMUNICIP": "CARACOLI"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "145",
+    "NOMMUNICIP": "CARAMANTA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "147",
+    "NOMMUNICIP": "CAREPA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "148",
+    "NOMMUNICIP": "CARMEN DE VIBORAL"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "150",
+    "NOMMUNICIP": "CAROLINA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "154",
+    "NOMMUNICIP": "CAUCASIA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "172",
+    "NOMMUNICIP": "CHIGORODO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "190",
+    "NOMMUNICIP": "CISNEROS"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "197",
+    "NOMMUNICIP": "COCORNA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "206",
+    "NOMMUNICIP": "CONCEPCION"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "209",
+    "NOMMUNICIP": "CONCORDIA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "212",
+    "NOMMUNICIP": "COPACABANA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "234",
+    "NOMMUNICIP": "DABEIBA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "237",
+    "NOMMUNICIP": "DON MATIAS"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "240",
+    "NOMMUNICIP": "EBEJICO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "250",
+    "NOMMUNICIP": "EL BAGRE"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "697",
+    "NOMMUNICIP": "EL SANTUARIO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "264",
+    "NOMMUNICIP": "ENTRERRIOS"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "266",
+    "NOMMUNICIP": "ENVIGADO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "282",
+    "NOMMUNICIP": "FREDONIA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "284",
+    "NOMMUNICIP": "FRONTINO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "306",
+    "NOMMUNICIP": "GIRALDO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "308",
+    "NOMMUNICIP": "GIRARDOTA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "310",
+    "NOMMUNICIP": "GOMEZ PLATA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "313",
+    "NOMMUNICIP": "GRANADA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "315",
+    "NOMMUNICIP": "GUADALUPE"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "318",
+    "NOMMUNICIP": "GUARNE"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "321",
+    "NOMMUNICIP": "GUATAPE"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "347",
+    "NOMMUNICIP": "HELICONIA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "353",
+    "NOMMUNICIP": "HISPANIA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "360",
+    "NOMMUNICIP": "ITAGUI"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "361",
+    "NOMMUNICIP": "ITUANGO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "364",
+    "NOMMUNICIP": "JARDIN"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "368",
+    "NOMMUNICIP": "JERICO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "376",
+    "NOMMUNICIP": "LA CEJA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "380",
+    "NOMMUNICIP": "LA ESTRELLA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "400",
+    "NOMMUNICIP": "LA UNION"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "411",
+    "NOMMUNICIP": "LIBORINA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "425",
+    "NOMMUNICIP": "MACEO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "440",
+    "NOMMUNICIP": "MARINILLA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "MEDELLÍN"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "467",
+    "NOMMUNICIP": "MONTEBELLO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "475",
+    "NOMMUNICIP": "MURINDO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "480",
+    "NOMMUNICIP": "MUTATA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "483",
+    "NOMMUNICIP": "NARIÑO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "495",
+    "NOMMUNICIP": "NECHI"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "490",
+    "NOMMUNICIP": "NECOCLI"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "501",
+    "NOMMUNICIP": "OLAYA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "541",
+    "NOMMUNICIP": "PEÑOL"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "543",
+    "NOMMUNICIP": "PEQUE"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "576",
+    "NOMMUNICIP": "PUEBLO RICO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "579",
+    "NOMMUNICIP": "PUERTO BERRIO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "585",
+    "NOMMUNICIP": "PUERTO NARE"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "591",
+    "NOMMUNICIP": "PUERTO TRIUNFO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "604",
+    "NOMMUNICIP": "REMEDIOS"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "607",
+    "NOMMUNICIP": "RETIRO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "615",
+    "NOMMUNICIP": "RIO NEGRO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "628",
+    "NOMMUNICIP": "SABANALARGA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "631",
+    "NOMMUNICIP": "SABANETA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "642",
+    "NOMMUNICIP": "SALGAR"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "647",
+    "NOMMUNICIP": "SAN ANDRES DE CUERQUIA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "649",
+    "NOMMUNICIP": "SAN CARLOS"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "652",
+    "NOMMUNICIP": "SAN FRANCISCO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "656",
+    "NOMMUNICIP": "SAN JERONIMO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "658",
+    "NOMMUNICIP": "SAN JOSE DE LA MONTAÑA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "659",
+    "NOMMUNICIP": "SAN JUAN DE URABA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "660",
+    "NOMMUNICIP": "SAN LUIS"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "664",
+    "NOMMUNICIP": "SAN PEDRO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "665",
+    "NOMMUNICIP": "SAN PEDRO DE URABA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "667",
+    "NOMMUNICIP": "SAN RAFAEL"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "670",
+    "NOMMUNICIP": "SAN ROQUE"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "674",
+    "NOMMUNICIP": "SAN VICENTE"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "679",
+    "NOMMUNICIP": "SANTA BARBARA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "042",
+    "NOMMUNICIP": "SANTA FE DE ANTIOQUIA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "686",
+    "NOMMUNICIP": "SANTA ROSA DE OSOS"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "690",
+    "NOMMUNICIP": "SANTO DOMINGO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "736",
+    "NOMMUNICIP": "SEGOVIA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "756",
+    "NOMMUNICIP": "SONSON"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "761",
+    "NOMMUNICIP": "SOPETRAN"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "789",
+    "NOMMUNICIP": "TAMESIS"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "790",
+    "NOMMUNICIP": "TARAZA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "792",
+    "NOMMUNICIP": "TARSO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "809",
+    "NOMMUNICIP": "TITIRIBI"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "819",
+    "NOMMUNICIP": "TOLEDO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "837",
+    "NOMMUNICIP": "TURBO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "842",
+    "NOMMUNICIP": "URAMITA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "847",
+    "NOMMUNICIP": "URRAO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "854",
+    "NOMMUNICIP": "VALDIVIA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "856",
+    "NOMMUNICIP": "VALPARAISO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "858",
+    "NOMMUNICIP": "VEGACHI"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "861",
+    "NOMMUNICIP": "VENECIA"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "873",
+    "NOMMUNICIP": "VIGIA DEL FUERTE"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "885",
+    "NOMMUNICIP": "YALI"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "887",
+    "NOMMUNICIP": "YARUMAL"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "890",
+    "NOMMUNICIP": "YOLOMBO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "893",
+    "NOMMUNICIP": "YONDO"
+  },
+  {
+    "CODDEPTO": "05",
+    "CODMUNICIP": "895",
+    "NOMMUNICIP": "ZARAGOZA"
+  },
+  {
+    "CODDEPTO": "07",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "ARAUCA"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "078",
+    "NOMMUNICIP": "BARANOA"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "BARRANQUILLA"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "137",
+    "NOMMUNICIP": "CAMPO DE LA CRUZ"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "141",
+    "NOMMUNICIP": "CANDELARIA"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "296",
+    "NOMMUNICIP": "GALAPA"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "372",
+    "NOMMUNICIP": "JUAN DE ACOSTA"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "421",
+    "NOMMUNICIP": "LURUACO"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "433",
+    "NOMMUNICIP": "MALAMBO"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "436",
+    "NOMMUNICIP": "MANATI"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "520",
+    "NOMMUNICIP": "PALMAR DE VARELA"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "549",
+    "NOMMUNICIP": "PIOJO"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "558",
+    "NOMMUNICIP": "POLONUEVO"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "560",
+    "NOMMUNICIP": "PONEDERA"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "573",
+    "NOMMUNICIP": "PUERTO COLOMBIA"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "606",
+    "NOMMUNICIP": "REPELON"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "634",
+    "NOMMUNICIP": "SABANAGRANDE"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "638",
+    "NOMMUNICIP": "SABANALARGA"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "675",
+    "NOMMUNICIP": "SANTA LUCIA"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "685",
+    "NOMMUNICIP": "SANTO TOMAS"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "758",
+    "NOMMUNICIP": "SOLEDAD"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "770",
+    "NOMMUNICIP": "SUAN"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "832",
+    "NOMMUNICIP": "TUBARA"
+  },
+  {
+    "CODDEPTO": "08",
+    "CODMUNICIP": "849",
+    "NOMMUNICIP": "USIACURI"
+  },
+  {
+    "CODDEPTO": "11",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "BOGOTA"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "006",
+    "NOMMUNICIP": "ACHI"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "030",
+    "NOMMUNICIP": "ALTOS DEL ROSARIO"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "052",
+    "NOMMUNICIP": "ARJONA"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "074",
+    "NOMMUNICIP": "BARRANCO DE LOBA"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "160",
+    "NOMMUNICIP": "CANTAGALLO"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "244",
+    "NOMMUNICIP": "CARMEN DE BOLIVAR"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "CARTAGENA"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "188",
+    "NOMMUNICIP": "CICUCO"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "222",
+    "NOMMUNICIP": "CLEMENCIA"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "212",
+    "NOMMUNICIP": "CORDOBA"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "248",
+    "NOMMUNICIP": "EL GUAMO"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "268",
+    "NOMMUNICIP": "EL PEÑON"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "300",
+    "NOMMUNICIP": "HATILLO DE LOBA"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "430",
+    "NOMMUNICIP": "MAGANGUE"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "433",
+    "NOMMUNICIP": "MAHATES"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "440",
+    "NOMMUNICIP": "MARGARITA"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "442",
+    "NOMMUNICIP": "MARIA LA BAJA"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "468",
+    "NOMMUNICIP": "MOMPOS"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "458",
+    "NOMMUNICIP": "MONTECRISTO"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "473",
+    "NOMMUNICIP": "MORALES"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "549",
+    "NOMMUNICIP": "PINILLOS"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "580",
+    "NOMMUNICIP": "REGIDOR"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "600",
+    "NOMMUNICIP": "RIO VIEJO"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "620",
+    "NOMMUNICIP": "SAN CRISTOBAL"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "647",
+    "NOMMUNICIP": "SAN ESTANISLAO"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "650",
+    "NOMMUNICIP": "SAN FERNANDO"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "654",
+    "NOMMUNICIP": "SAN JACINTO"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "657",
+    "NOMMUNICIP": "SAN JUAN DE NEPOMUCENO"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "667",
+    "NOMMUNICIP": "SAN MARTIN DE LOBA"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "670",
+    "NOMMUNICIP": "SAN PABLO"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "673",
+    "NOMMUNICIP": "SANTA CATALINA"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "683",
+    "NOMMUNICIP": "SANTA ROSA"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "688",
+    "NOMMUNICIP": "SANTA ROSA DEL SUR"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "744",
+    "NOMMUNICIP": "SIMITI"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "760",
+    "NOMMUNICIP": "SOPLA VIENTO"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "780",
+    "NOMMUNICIP": "TALAIGANUEVA"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "810",
+    "NOMMUNICIP": "TIQUISIO"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "836",
+    "NOMMUNICIP": "TURBACO"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "838",
+    "NOMMUNICIP": "TURBANA"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "873",
+    "NOMMUNICIP": "VILLA NUEVA"
+  },
+  {
+    "CODDEPTO": "13",
+    "CODMUNICIP": "894",
+    "NOMMUNICIP": "ZAMBRANO"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "022",
+    "NOMMUNICIP": "ALMEIDA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "047",
+    "NOMMUNICIP": "AQUITANIA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "051",
+    "NOMMUNICIP": "ARCABUCO"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "087",
+    "NOMMUNICIP": "BELEN"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "090",
+    "NOMMUNICIP": "BERBEO"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "092",
+    "NOMMUNICIP": "BETEITIVA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "097",
+    "NOMMUNICIP": "BOAVITA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "104",
+    "NOMMUNICIP": "BOYACA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "106",
+    "NOMMUNICIP": "BRICEÑO"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "109",
+    "NOMMUNICIP": "BUENAVISTA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "114",
+    "NOMMUNICIP": "BUSBANZA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "131",
+    "NOMMUNICIP": "CALDAS"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "135",
+    "NOMMUNICIP": "CAMPOHERMOSO"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "162",
+    "NOMMUNICIP": "CERINZA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "172",
+    "NOMMUNICIP": "CHINAVITA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "176",
+    "NOMMUNICIP": "CHIQUINQUIRA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "232",
+    "NOMMUNICIP": "CHIQUIZA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "180",
+    "NOMMUNICIP": "CHISCAS"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "183",
+    "NOMMUNICIP": "CHITA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "185",
+    "NOMMUNICIP": "CHITARAQUE"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "187",
+    "NOMMUNICIP": "CHIVATA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "236",
+    "NOMMUNICIP": "CHIVOR"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "189",
+    "NOMMUNICIP": "CIENEGA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "204",
+    "NOMMUNICIP": "COMBITA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "212",
+    "NOMMUNICIP": "COPER"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "215",
+    "NOMMUNICIP": "CORRALES"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "218",
+    "NOMMUNICIP": "COVARACHIA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "223",
+    "NOMMUNICIP": "CUBARA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "224",
+    "NOMMUNICIP": "CUCAITA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "226",
+    "NOMMUNICIP": "CUITIVA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "238",
+    "NOMMUNICIP": "DUITAMA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "244",
+    "NOMMUNICIP": "EL COCUY"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "248",
+    "NOMMUNICIP": "EL ESPINO"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "272",
+    "NOMMUNICIP": "FIRAVITOBA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "276",
+    "NOMMUNICIP": "FLORESTA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "293",
+    "NOMMUNICIP": "GACHANTIVA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "296",
+    "NOMMUNICIP": "GAMEZA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "299",
+    "NOMMUNICIP": "GARAGOA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "317",
+    "NOMMUNICIP": "GUACAMAYAS"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "322",
+    "NOMMUNICIP": "GUATEQUE"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "325",
+    "NOMMUNICIP": "GUAYATA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "332",
+    "NOMMUNICIP": "GUICAN"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "361",
+    "NOMMUNICIP": "IZA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "367",
+    "NOMMUNICIP": "JENESANO"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "368",
+    "NOMMUNICIP": "JERICO"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "380",
+    "NOMMUNICIP": "LA CAPILLA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "136",
+    "NOMMUNICIP": "LA SALINA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "403",
+    "NOMMUNICIP": "LA UVITA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "401",
+    "NOMMUNICIP": "LA VICTORIA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "377",
+    "NOMMUNICIP": "LABRANZAGRANDE"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "425",
+    "NOMMUNICIP": "MACANAL"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "442",
+    "NOMMUNICIP": "MARIPI"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "455",
+    "NOMMUNICIP": "MIRAFLORES"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "464",
+    "NOMMUNICIP": "MONGUA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "466",
+    "NOMMUNICIP": "MONGUI"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "469",
+    "NOMMUNICIP": "MONIQUIRA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "476",
+    "NOMMUNICIP": "MOTAVITA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "480",
+    "NOMMUNICIP": "MUZO"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "491",
+    "NOMMUNICIP": "NOBSA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "494",
+    "NOMMUNICIP": "NUEVO COLON"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "500",
+    "NOMMUNICIP": "OICATA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "507",
+    "NOMMUNICIP": "OTANCHE"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "511",
+    "NOMMUNICIP": "PACHAVITA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "514",
+    "NOMMUNICIP": "PAEZ"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "516",
+    "NOMMUNICIP": "PAIPA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "518",
+    "NOMMUNICIP": "PAJARITO"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "522",
+    "NOMMUNICIP": "PANQUEBA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "531",
+    "NOMMUNICIP": "PAUNA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "533",
+    "NOMMUNICIP": "PAYA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "537",
+    "NOMMUNICIP": "PAZ DEL RIO"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "542",
+    "NOMMUNICIP": "PESCA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "550",
+    "NOMMUNICIP": "PISBA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "572",
+    "NOMMUNICIP": "PUERTO BOYACA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "580",
+    "NOMMUNICIP": "QUIPAMA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "599",
+    "NOMMUNICIP": "RAMIRIQUI"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "600",
+    "NOMMUNICIP": "RAQUIRA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "621",
+    "NOMMUNICIP": "RONDON"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "632",
+    "NOMMUNICIP": "SABOYA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "315",
+    "NOMMUNICIP": "SACAMA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "638",
+    "NOMMUNICIP": "SACHICA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "646",
+    "NOMMUNICIP": "SAMACA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "660",
+    "NOMMUNICIP": "SAN EDUARDO"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "664",
+    "NOMMUNICIP": "SAN JOSE DE PARE"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "667",
+    "NOMMUNICIP": "SAN LUIS DE GACENO"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "673",
+    "NOMMUNICIP": "SAN MATEO"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "676",
+    "NOMMUNICIP": "SAN MIGUEL DE SEMA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "681",
+    "NOMMUNICIP": "SAN PABLO DE BORBUR"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "690",
+    "NOMMUNICIP": "SANTA MARIA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "693",
+    "NOMMUNICIP": "SANTA ROSA DE VITERBO"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "696",
+    "NOMMUNICIP": "SANTA SOFIA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "686",
+    "NOMMUNICIP": "SANTANA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "720",
+    "NOMMUNICIP": "SATIVANORTE"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "723",
+    "NOMMUNICIP": "SATIVASUR"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "740",
+    "NOMMUNICIP": "SIACHOQUE"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "753",
+    "NOMMUNICIP": "SOATA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "757",
+    "NOMMUNICIP": "SOCHA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "755",
+    "NOMMUNICIP": "SOCOTA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "759",
+    "NOMMUNICIP": "SOGAMOSO"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "761",
+    "NOMMUNICIP": "SOMONDOCO"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "762",
+    "NOMMUNICIP": "SORA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "764",
+    "NOMMUNICIP": "SORACA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "763",
+    "NOMMUNICIP": "SOTAQUIRA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "774",
+    "NOMMUNICIP": "SUSACON"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "776",
+    "NOMMUNICIP": "SUTAMARCHAN"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "778",
+    "NOMMUNICIP": "SUTATENZA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "790",
+    "NOMMUNICIP": "TASCO"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "798",
+    "NOMMUNICIP": "TENZA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "804",
+    "NOMMUNICIP": "TIBANA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "806",
+    "NOMMUNICIP": "TIBASOSA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "808",
+    "NOMMUNICIP": "TINJACA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "810",
+    "NOMMUNICIP": "TIPACOQUE"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "814",
+    "NOMMUNICIP": "TOCA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "816",
+    "NOMMUNICIP": "TOGUI"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "820",
+    "NOMMUNICIP": "TOPAGA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "822",
+    "NOMMUNICIP": "TOTA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "TUNJA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "832",
+    "NOMMUNICIP": "TUNUNGUA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "835",
+    "NOMMUNICIP": "TURMEQUE"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "837",
+    "NOMMUNICIP": "TUTA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "839",
+    "NOMMUNICIP": "TUTASA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "842",
+    "NOMMUNICIP": "UMBITA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "861",
+    "NOMMUNICIP": "VENTA QUEMADA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "407",
+    "NOMMUNICIP": "VILLA DE LEYVA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "879",
+    "NOMMUNICIP": "VIRACACHA"
+  },
+  {
+    "CODDEPTO": "15",
+    "CODMUNICIP": "897",
+    "NOMMUNICIP": "ZETAQUIRA"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "013",
+    "NOMMUNICIP": "AGUADAS"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "042",
+    "NOMMUNICIP": "ANSERMA"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "050",
+    "NOMMUNICIP": "ARANZAZU"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "088",
+    "NOMMUNICIP": "BELALCAZAR"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "174",
+    "NOMMUNICIP": "CHINCHINA"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "272",
+    "NOMMUNICIP": "FILADELFIA"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "380",
+    "NOMMUNICIP": "LA DORADA"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "388",
+    "NOMMUNICIP": "LA MERCED"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "867",
+    "NOMMUNICIP": "LA VICTORIA"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "MANIZALES"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "433",
+    "NOMMUNICIP": "MANZANARES"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "442",
+    "NOMMUNICIP": "MARMATO"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "444",
+    "NOMMUNICIP": "MARQUETALIA"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "446",
+    "NOMMUNICIP": "MARULANDA"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "486",
+    "NOMMUNICIP": "NEIRA"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "513",
+    "NOMMUNICIP": "PACORA"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "524",
+    "NOMMUNICIP": "PALESTINA"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "541",
+    "NOMMUNICIP": "PENSILVANIA"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "614",
+    "NOMMUNICIP": "RIOSUCIO"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "616",
+    "NOMMUNICIP": "RISARALDA"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "653",
+    "NOMMUNICIP": "SALAMINA"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "662",
+    "NOMMUNICIP": "SAMANA"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "777",
+    "NOMMUNICIP": "SUPIA"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "873",
+    "NOMMUNICIP": "VILLA MARIA"
+  },
+  {
+    "CODDEPTO": "17",
+    "CODMUNICIP": "877",
+    "NOMMUNICIP": "VITERBO"
+  },
+  {
+    "CODDEPTO": "18",
+    "CODMUNICIP": "029",
+    "NOMMUNICIP": "ALBANIA"
+  },
+  {
+    "CODDEPTO": "18",
+    "CODMUNICIP": "094",
+    "NOMMUNICIP": "BELEN DE LOS ANDAQUIES"
+  },
+  {
+    "CODDEPTO": "18",
+    "CODMUNICIP": "150",
+    "NOMMUNICIP": "CARTAGENA DEL CHAIRA"
+  },
+  {
+    "CODDEPTO": "18",
+    "CODMUNICIP": "205",
+    "NOMMUNICIP": "CURILLO"
+  },
+  {
+    "CODDEPTO": "18",
+    "CODMUNICIP": "247",
+    "NOMMUNICIP": "EL DONCELLO"
+  },
+  {
+    "CODDEPTO": "18",
+    "CODMUNICIP": "256",
+    "NOMMUNICIP": "EL PAUJIL"
+  },
+  {
+    "CODDEPTO": "18",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "FLORENCIA"
+  },
+  {
+    "CODDEPTO": "18",
+    "CODMUNICIP": "460",
+    "NOMMUNICIP": "MILAN"
+  },
+  {
+    "CODDEPTO": "18",
+    "CODMUNICIP": "410",
+    "NOMMUNICIP": "MONTAÑITA"
+  },
+  {
+    "CODDEPTO": "18",
+    "CODMUNICIP": "479",
+    "NOMMUNICIP": "MORELIA"
+  },
+  {
+    "CODDEPTO": "18",
+    "CODMUNICIP": "592",
+    "NOMMUNICIP": "PUERTO RICO"
+  },
+  {
+    "CODDEPTO": "18",
+    "CODMUNICIP": "610",
+    "NOMMUNICIP": "SAN JOSE DE FRAGUA"
+  },
+  {
+    "CODDEPTO": "18",
+    "CODMUNICIP": "753",
+    "NOMMUNICIP": "SAN VICENTE DEL CAGUAN"
+  },
+  {
+    "CODDEPTO": "18",
+    "CODMUNICIP": "765",
+    "NOMMUNICIP": "SOLANO"
+  },
+  {
+    "CODDEPTO": "18",
+    "CODMUNICIP": "860",
+    "NOMMUNICIP": "VALPARAISO"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "022",
+    "NOMMUNICIP": "ALMAGUER"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "050",
+    "NOMMUNICIP": "ARGELIA"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "075",
+    "NOMMUNICIP": "BALBOA"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "100",
+    "NOMMUNICIP": "BOLIVAR"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "110",
+    "NOMMUNICIP": "BUENOS AIRES"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "130",
+    "NOMMUNICIP": "CAJIBIO"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "137",
+    "NOMMUNICIP": "CALDONO"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "142",
+    "NOMMUNICIP": "CALOTO"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "212",
+    "NOMMUNICIP": "CORINTO"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "256",
+    "NOMMUNICIP": "EL TAMBO"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "290",
+    "NOMMUNICIP": "FLORENCIA"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "318",
+    "NOMMUNICIP": "GUAPI"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "355",
+    "NOMMUNICIP": "INZA"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "364",
+    "NOMMUNICIP": "JAMBALO"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "392",
+    "NOMMUNICIP": "LA SIERRA"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "397",
+    "NOMMUNICIP": "LA VEGA"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "418",
+    "NOMMUNICIP": "LOPEZ DE MICAY"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "450",
+    "NOMMUNICIP": "MERCADERES"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "455",
+    "NOMMUNICIP": "MIRANDA"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "473",
+    "NOMMUNICIP": "MORALES"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "513",
+    "NOMMUNICIP": "PADILLA"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "517",
+    "NOMMUNICIP": "PAEZ BELALCAZAR"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "532",
+    "NOMMUNICIP": "PATIA"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "548",
+    "NOMMUNICIP": "PIENDAMO"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "POPAYAN"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "573",
+    "NOMMUNICIP": "PUERTO TEJADA"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "585",
+    "NOMMUNICIP": "PURACE COCONUCO"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "622",
+    "NOMMUNICIP": "ROSAS"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "693",
+    "NOMMUNICIP": "SAN SEBASTIAN"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "701",
+    "NOMMUNICIP": "SANTA ROSA"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "698",
+    "NOMMUNICIP": "SANTANDER DE QUILICHAO"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "743",
+    "NOMMUNICIP": "SILVIA"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "760",
+    "NOMMUNICIP": "SOTARA"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "780",
+    "NOMMUNICIP": "SUAREZ"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "807",
+    "NOMMUNICIP": "TIMBIO"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "809",
+    "NOMMUNICIP": "TIMBIQUI"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "821",
+    "NOMMUNICIP": "TORIBIO"
+  },
+  {
+    "CODDEPTO": "19",
+    "CODMUNICIP": "824",
+    "NOMMUNICIP": "TOTORO"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "011",
+    "NOMMUNICIP": "AGUACHICA"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "013",
+    "NOMMUNICIP": "AGUSTIN CODAZZI"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "032",
+    "NOMMUNICIP": "ASTREA"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "045",
+    "NOMMUNICIP": "BECERRIL"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "060",
+    "NOMMUNICIP": "BOSCONIA"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "175",
+    "NOMMUNICIP": "CHIMICHAGUA"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "178",
+    "NOMMUNICIP": "CHIRIGUANA"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "228",
+    "NOMMUNICIP": "CURUMANI"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "238",
+    "NOMMUNICIP": "EL COPEY"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "250",
+    "NOMMUNICIP": "EL PASO"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "295",
+    "NOMMUNICIP": "GAMARRA"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "310",
+    "NOMMUNICIP": "GONZALEZ"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "383",
+    "NOMMUNICIP": "LA GLORIA"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "400",
+    "NOMMUNICIP": "LA JAGUA DE IBIRICO"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "621",
+    "NOMMUNICIP": "LA PAZ (ROBLES)"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "443",
+    "NOMMUNICIP": "MANAURE"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "517",
+    "NOMMUNICIP": "PAILITAS"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "550",
+    "NOMMUNICIP": "PELAYA"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "614",
+    "NOMMUNICIP": "RIO DE ORO"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "710",
+    "NOMMUNICIP": "SAN ALBERTO"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "750",
+    "NOMMUNICIP": "SAN DIEGO"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "770",
+    "NOMMUNICIP": "SAN MARTIN"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "787",
+    "NOMMUNICIP": "TAMALAMEQUE"
+  },
+  {
+    "CODDEPTO": "20",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "VALLEDUPAR"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "068",
+    "NOMMUNICIP": "AYAPEL"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "079",
+    "NOMMUNICIP": "BUENAVISTA"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "090",
+    "NOMMUNICIP": "CANALATE"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "162",
+    "NOMMUNICIP": "CERETE"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "168",
+    "NOMMUNICIP": "CHIMA"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "182",
+    "NOMMUNICIP": "CHINU"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "189",
+    "NOMMUNICIP": "CIENAGA DE ORO"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "417",
+    "NOMMUNICIP": "LORICA"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "419",
+    "NOMMUNICIP": "LOS CORDOBAS"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "464",
+    "NOMMUNICIP": "MOMIL"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "500",
+    "NOMMUNICIP": "MONITOS"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "466",
+    "NOMMUNICIP": "MONTELIBANO"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "MONTERIA"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "555",
+    "NOMMUNICIP": "PLANETA RICA"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "570",
+    "NOMMUNICIP": "PUEBLO NUEVO"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "574",
+    "NOMMUNICIP": "PUERTO ESCONDIDO"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "580",
+    "NOMMUNICIP": "PUERTO LIBERTADOR"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "586",
+    "NOMMUNICIP": "PURISIMA"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "660",
+    "NOMMUNICIP": "SAHAGUN"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "670",
+    "NOMMUNICIP": "SAN ANDRES DE SOTAVENTO"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "672",
+    "NOMMUNICIP": "SAN ANTERO"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "675",
+    "NOMMUNICIP": "SAN BERNARDO DEL VIENTO"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "678",
+    "NOMMUNICIP": "SAN CARLOS"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "686",
+    "NOMMUNICIP": "SAN PELAYO"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "807",
+    "NOMMUNICIP": "TIERRA ALTA"
+  },
+  {
+    "CODDEPTO": "23",
+    "CODMUNICIP": "855",
+    "NOMMUNICIP": "VALENCIA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "AGUA DE DIOS"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "019",
+    "NOMMUNICIP": "ALBAN"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "035",
+    "NOMMUNICIP": "ANAPOIMA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "040",
+    "NOMMUNICIP": "ANOLAIMA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "599",
+    "NOMMUNICIP": "APULO"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "053",
+    "NOMMUNICIP": "ARBELAEZ"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "086",
+    "NOMMUNICIP": "BELTRAN"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "095",
+    "NOMMUNICIP": "BITUIMA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "000",
+    "NOMMUNICIP": "BOGOTA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "099",
+    "NOMMUNICIP": "BOJACA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "120",
+    "NOMMUNICIP": "CABRERA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "123",
+    "NOMMUNICIP": "CACHIPAY"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "126",
+    "NOMMUNICIP": "CAJICA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "148",
+    "NOMMUNICIP": "CAPARRAPI"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "151",
+    "NOMMUNICIP": "CAQUEZA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "154",
+    "NOMMUNICIP": "CARMEN DE CARUPA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "168",
+    "NOMMUNICIP": "CHAGUANI"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "175",
+    "NOMMUNICIP": "CHIA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "178",
+    "NOMMUNICIP": "CHIPAQUE"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "181",
+    "NOMMUNICIP": "CHOACHI"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "183",
+    "NOMMUNICIP": "CHOCONTA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "200",
+    "NOMMUNICIP": "COGUA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "214",
+    "NOMMUNICIP": "COTA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "224",
+    "NOMMUNICIP": "CUCUNUBA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "245",
+    "NOMMUNICIP": "EL COLEGIO"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "258",
+    "NOMMUNICIP": "EL PEÑON"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "269",
+    "NOMMUNICIP": "FACATATIVA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "279",
+    "NOMMUNICIP": "FOMEQUE"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "281",
+    "NOMMUNICIP": "FOSCA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "286",
+    "NOMMUNICIP": "FUNZA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "288",
+    "NOMMUNICIP": "FUQUENE"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "290",
+    "NOMMUNICIP": "FUSAGASUGA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "293",
+    "NOMMUNICIP": "GACHALA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "295",
+    "NOMMUNICIP": "GACHANCIPA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "297",
+    "NOMMUNICIP": "GACHETA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "299",
+    "NOMMUNICIP": "GAMA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "307",
+    "NOMMUNICIP": "GIRARDOT"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "999",
+    "NOMMUNICIP": "GRANADA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "317",
+    "NOMMUNICIP": "GUACHETA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "320",
+    "NOMMUNICIP": "GUADUAS"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "322",
+    "NOMMUNICIP": "GUASCA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "324",
+    "NOMMUNICIP": "GUATAQUI"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "326",
+    "NOMMUNICIP": "GUATAVITA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "328",
+    "NOMMUNICIP": "GUAYABAL DE SIQUIMA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "335",
+    "NOMMUNICIP": "GUAYABETAL"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "339",
+    "NOMMUNICIP": "GUTIERREZ"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "368",
+    "NOMMUNICIP": "JERUSALEN"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "372",
+    "NOMMUNICIP": "JUNIN"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "377",
+    "NOMMUNICIP": "LA CALERA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "386",
+    "NOMMUNICIP": "LA MESA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "394",
+    "NOMMUNICIP": "LA PALMA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "398",
+    "NOMMUNICIP": "LA PEÑA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "402",
+    "NOMMUNICIP": "LA VEGA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "407",
+    "NOMMUNICIP": "LENGUAZAQUE"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "426",
+    "NOMMUNICIP": "MACHETA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "430",
+    "NOMMUNICIP": "MADRID"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "436",
+    "NOMMUNICIP": "MANTA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "438",
+    "NOMMUNICIP": "MEDINA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "473",
+    "NOMMUNICIP": "MOSQUERA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "483",
+    "NOMMUNICIP": "NARIÑO"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "486",
+    "NOMMUNICIP": "NEMOCON"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "488",
+    "NOMMUNICIP": "NILO"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "489",
+    "NOMMUNICIP": "NIMAIMA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "491",
+    "NOMMUNICIP": "NOCAIMA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "513",
+    "NOMMUNICIP": "PACHO"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "518",
+    "NOMMUNICIP": "PAIME"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "524",
+    "NOMMUNICIP": "PANDI"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "530",
+    "NOMMUNICIP": "PARATEBUENO"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "535",
+    "NOMMUNICIP": "PASCA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "572",
+    "NOMMUNICIP": "PUERTO SALGAR"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "580",
+    "NOMMUNICIP": "PULI"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "592",
+    "NOMMUNICIP": "QUEBRADA NEGRA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "594",
+    "NOMMUNICIP": "QUETAME"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "596",
+    "NOMMUNICIP": "QUIPILE"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "612",
+    "NOMMUNICIP": "RICAURTE"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "645",
+    "NOMMUNICIP": "SAN ANTONIO DEL TEQUENDAMA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "649",
+    "NOMMUNICIP": "SAN BERNARDO"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "653",
+    "NOMMUNICIP": "SAN CAYETANO"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "658",
+    "NOMMUNICIP": "SAN FRANCISCO"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "662",
+    "NOMMUNICIP": "SAN JUAN DE RIO SECO"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "718",
+    "NOMMUNICIP": "SASAIMA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "736",
+    "NOMMUNICIP": "SESQUILE"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "740",
+    "NOMMUNICIP": "SIBATE"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "743",
+    "NOMMUNICIP": "SILVANIA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "745",
+    "NOMMUNICIP": "SIMIJACA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "754",
+    "NOMMUNICIP": "SOACHA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "758",
+    "NOMMUNICIP": "SOPO"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "769",
+    "NOMMUNICIP": "SUBACHOQUE"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "772",
+    "NOMMUNICIP": "SUESCA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "777",
+    "NOMMUNICIP": "SUPATA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "779",
+    "NOMMUNICIP": "SUSA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "781",
+    "NOMMUNICIP": "SUTATAUSA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "785",
+    "NOMMUNICIP": "TABIO"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "793",
+    "NOMMUNICIP": "TAUSA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "797",
+    "NOMMUNICIP": "TENA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "799",
+    "NOMMUNICIP": "TENJO"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "805",
+    "NOMMUNICIP": "TIBACUY"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "807",
+    "NOMMUNICIP": "TIBIRITA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "815",
+    "NOMMUNICIP": "TOCAIMA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "817",
+    "NOMMUNICIP": "TOCANCIPA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "823",
+    "NOMMUNICIP": "TOPAIPI"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "839",
+    "NOMMUNICIP": "UBALA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "841",
+    "NOMMUNICIP": "UBAQUE"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "843",
+    "NOMMUNICIP": "UBATE"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "845",
+    "NOMMUNICIP": "UNE"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "851",
+    "NOMMUNICIP": "UTICA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "506",
+    "NOMMUNICIP": "VENECIA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "862",
+    "NOMMUNICIP": "VERGARA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "867",
+    "NOMMUNICIP": "VIANI"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "873",
+    "NOMMUNICIP": "VILLA PINZON"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "871",
+    "NOMMUNICIP": "VILLAGOMEZ"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "875",
+    "NOMMUNICIP": "VILLETA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "878",
+    "NOMMUNICIP": "VIOTA"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "885",
+    "NOMMUNICIP": "YACOPI"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "898",
+    "NOMMUNICIP": "ZIPACON"
+  },
+  {
+    "CODDEPTO": "25",
+    "CODMUNICIP": "899",
+    "NOMMUNICIP": "ZIPAQUIRA"
+  },
+  {
+    "CODDEPTO": "27",
+    "CODMUNICIP": "006",
+    "NOMMUNICIP": "ACANDI"
+  },
+  {
+    "CODDEPTO": "27",
+    "CODMUNICIP": "025",
+    "NOMMUNICIP": "ALTO BAUDO"
+  },
+  {
+    "CODDEPTO": "27",
+    "CODMUNICIP": "073",
+    "NOMMUNICIP": "BAGADO"
+  },
+  {
+    "CODDEPTO": "27",
+    "CODMUNICIP": "075",
+    "NOMMUNICIP": "BAHIA SOLANO"
+  },
+  {
+    "CODDEPTO": "27",
+    "CODMUNICIP": "077",
+    "NOMMUNICIP": "BAJO BAUDO"
+  },
+  {
+    "CODDEPTO": "27",
+    "CODMUNICIP": "099",
+    "NOMMUNICIP": "BOJAYA"
+  },
+  {
+    "CODDEPTO": "27",
+    "CODMUNICIP": "205",
+    "NOMMUNICIP": "CONDOTO"
+  },
+  {
+    "CODDEPTO": "27",
+    "CODMUNICIP": "135",
+    "NOMMUNICIP": "EL CANTON DE SAN PABLO"
+  },
+  {
+    "CODDEPTO": "27",
+    "CODMUNICIP": "245",
+    "NOMMUNICIP": "EL CARMEN"
+  },
+  {
+    "CODDEPTO": "27",
+    "CODMUNICIP": "250",
+    "NOMMUNICIP": "EL LITORAL DEL SAN JUAN"
+  },
+  {
+    "CODDEPTO": "27",
+    "CODMUNICIP": "361",
+    "NOMMUNICIP": "ISTMINA"
+  },
+  {
+    "CODDEPTO": "27",
+    "CODMUNICIP": "372",
+    "NOMMUNICIP": "JURADO"
+  },
+  {
+    "CODDEPTO": "27",
+    "CODMUNICIP": "413",
+    "NOMMUNICIP": "LLORO"
+  },
+  {
+    "CODDEPTO": "27",
+    "CODMUNICIP": "491",
+    "NOMMUNICIP": "NOVITA"
+  },
+  {
+    "CODDEPTO": "27",
+    "CODMUNICIP": "495",
+    "NOMMUNICIP": "NUQUI"
+  },
+  {
+    "CODDEPTO": "27",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "QUIBDO"
+  },
+  {
+    "CODDEPTO": "27",
+    "CODMUNICIP": "615",
+    "NOMMUNICIP": "RIOSUCIO"
+  },
+  {
+    "CODDEPTO": "27",
+    "CODMUNICIP": "745",
+    "NOMMUNICIP": "SIPI"
+  },
+  {
+    "CODDEPTO": "27",
+    "CODMUNICIP": "787",
+    "NOMMUNICIP": "TADO"
+  },
+  {
+    "CODDEPTO": "27",
+    "CODMUNICIP": "800",
+    "NOMMUNICIP": "UNGUIA"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "006",
+    "NOMMUNICIP": "ACEVEDO"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "013",
+    "NOMMUNICIP": "AGRADO"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "016",
+    "NOMMUNICIP": "AIPE"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "020",
+    "NOMMUNICIP": "ALGECIRAS"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "026",
+    "NOMMUNICIP": "ALTAMIRA"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "078",
+    "NOMMUNICIP": "BARAYA"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "132",
+    "NOMMUNICIP": "CAMPOALEGRE"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "206",
+    "NOMMUNICIP": "COLOMBIA"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "244",
+    "NOMMUNICIP": "ELIAS"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "298",
+    "NOMMUNICIP": "GARZON"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "306",
+    "NOMMUNICIP": "GIGANTE"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "319",
+    "NOMMUNICIP": "GUADALUPE"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "349",
+    "NOMMUNICIP": "HOBO"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "357",
+    "NOMMUNICIP": "IQUIRA"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "359",
+    "NOMMUNICIP": "ISNOS"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "378",
+    "NOMMUNICIP": "LA ARGENTINA"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "396",
+    "NOMMUNICIP": "LA PLATA"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "483",
+    "NOMMUNICIP": "NATAGA"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "NEIVA"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "503",
+    "NOMMUNICIP": "OPORAPA"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "518",
+    "NOMMUNICIP": "PAICOL"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "524",
+    "NOMMUNICIP": "PALERMO"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "548",
+    "NOMMUNICIP": "PITAL"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "551",
+    "NOMMUNICIP": "PITALITO"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "615",
+    "NOMMUNICIP": "RIVERA"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "660",
+    "NOMMUNICIP": "SALADOBLANCO"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "668",
+    "NOMMUNICIP": "SAN AGUSTIN"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "676",
+    "NOMMUNICIP": "SANTA MARIA"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "770",
+    "NOMMUNICIP": "SUAZA"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "791",
+    "NOMMUNICIP": "TARQUI"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "799",
+    "NOMMUNICIP": "TELLO"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "801",
+    "NOMMUNICIP": "TERUEL"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "797",
+    "NOMMUNICIP": "TESALIA"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "807",
+    "NOMMUNICIP": "TIMANA"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "872",
+    "NOMMUNICIP": "VILLA VIEJA"
+  },
+  {
+    "CODDEPTO": "41",
+    "CODMUNICIP": "885",
+    "NOMMUNICIP": "YAGUARA"
+  },
+  {
+    "CODDEPTO": "44",
+    "CODMUNICIP": "078",
+    "NOMMUNICIP": "BARRANCAS"
+  },
+  {
+    "CODDEPTO": "44",
+    "CODMUNICIP": "090",
+    "NOMMUNICIP": "DIBULLA"
+  },
+  {
+    "CODDEPTO": "44",
+    "CODMUNICIP": "098",
+    "NOMMUNICIP": "DISTRACCION"
+  },
+  {
+    "CODDEPTO": "44",
+    "CODMUNICIP": "110",
+    "NOMMUNICIP": "EL MOLINO"
+  },
+  {
+    "CODDEPTO": "44",
+    "CODMUNICIP": "279",
+    "NOMMUNICIP": "FONSECA"
+  },
+  {
+    "CODDEPTO": "44",
+    "CODMUNICIP": "378",
+    "NOMMUNICIP": "HATO NUEVO"
+  },
+  {
+    "CODDEPTO": "44",
+    "CODMUNICIP": "430",
+    "NOMMUNICIP": "MAICAO"
+  },
+  {
+    "CODDEPTO": "44",
+    "CODMUNICIP": "560",
+    "NOMMUNICIP": "MANAURE"
+  },
+  {
+    "CODDEPTO": "44",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "RIOHACHA"
+  },
+  {
+    "CODDEPTO": "44",
+    "CODMUNICIP": "650",
+    "NOMMUNICIP": "SAN JUAN DEL CESAR"
+  },
+  {
+    "CODDEPTO": "44",
+    "CODMUNICIP": "847",
+    "NOMMUNICIP": "URIBIA"
+  },
+  {
+    "CODDEPTO": "44",
+    "CODMUNICIP": "855",
+    "NOMMUNICIP": "URUMITA"
+  },
+  {
+    "CODDEPTO": "44",
+    "CODMUNICIP": "874",
+    "NOMMUNICIP": "VILLANUEVA"
+  },
+  {
+    "CODDEPTO": "47",
+    "CODMUNICIP": "053",
+    "NOMMUNICIP": "ARACATACA"
+  },
+  {
+    "CODDEPTO": "47",
+    "CODMUNICIP": "058",
+    "NOMMUNICIP": "ARIGUANI"
+  },
+  {
+    "CODDEPTO": "47",
+    "CODMUNICIP": "161",
+    "NOMMUNICIP": "CERRO DE SAN ANTONIO"
+  },
+  {
+    "CODDEPTO": "47",
+    "CODMUNICIP": "170",
+    "NOMMUNICIP": "CHIVOLO"
+  },
+  {
+    "CODDEPTO": "47",
+    "CODMUNICIP": "189",
+    "NOMMUNICIP": "CIENAGA"
+  },
+  {
+    "CODDEPTO": "47",
+    "CODMUNICIP": "245",
+    "NOMMUNICIP": "EL BANCO"
+  },
+  {
+    "CODDEPTO": "47",
+    "CODMUNICIP": "258",
+    "NOMMUNICIP": "EL PIÑON"
+  },
+  {
+    "CODDEPTO": "47",
+    "CODMUNICIP": "288",
+    "NOMMUNICIP": "FUNDACION"
+  },
+  {
+    "CODDEPTO": "47",
+    "CODMUNICIP": "318",
+    "NOMMUNICIP": "GUAMAL"
+  },
+  {
+    "CODDEPTO": "47",
+    "CODMUNICIP": "541",
+    "NOMMUNICIP": "PEDRAZA"
+  },
+  {
+    "CODDEPTO": "47",
+    "CODMUNICIP": "551",
+    "NOMMUNICIP": "PIVIJAY"
+  },
+  {
+    "CODDEPTO": "47",
+    "CODMUNICIP": "555",
+    "NOMMUNICIP": "PLATO"
+  },
+  {
+    "CODDEPTO": "47",
+    "CODMUNICIP": "570",
+    "NOMMUNICIP": "PUEBLO VIEJO"
+  },
+  {
+    "CODDEPTO": "47",
+    "CODMUNICIP": "605",
+    "NOMMUNICIP": "REMOLINO"
+  },
+  {
+    "CODDEPTO": "47",
+    "CODMUNICIP": "675",
+    "NOMMUNICIP": "SALAMINA"
+  },
+  {
+    "CODDEPTO": "47",
+    "CODMUNICIP": "692",
+    "NOMMUNICIP": "SAN SEBASTIAN DE BUENAVISTA"
+  },
+  {
+    "CODDEPTO": "47",
+    "CODMUNICIP": "703",
+    "NOMMUNICIP": "SAN ZENON"
+  },
+  {
+    "CODDEPTO": "47",
+    "CODMUNICIP": "707",
+    "NOMMUNICIP": "SANTA ANA"
+  },
+  {
+    "CODDEPTO": "47",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "SANTA MARTA"
+  },
+  {
+    "CODDEPTO": "47",
+    "CODMUNICIP": "745",
+    "NOMMUNICIP": "SITIO NUEVO"
+  },
+  {
+    "CODDEPTO": "47",
+    "CODMUNICIP": "798",
+    "NOMMUNICIP": "TENERIFE"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "006",
+    "NOMMUNICIP": "ACACIAS"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "110",
+    "NOMMUNICIP": "BARRANCA DE UPIA"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "124",
+    "NOMMUNICIP": "CABUYARO"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "150",
+    "NOMMUNICIP": "CASTILLA LA NUEVA"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "223",
+    "NOMMUNICIP": "CUBARRAL"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "226",
+    "NOMMUNICIP": "CUMARAL"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "245",
+    "NOMMUNICIP": "EL CALVARIO"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "251",
+    "NOMMUNICIP": "EL CASTILLO"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "270",
+    "NOMMUNICIP": "EL DORADO"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "287",
+    "NOMMUNICIP": "FUENTE DE ORO"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "313",
+    "NOMMUNICIP": "GRANADA"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "318",
+    "NOMMUNICIP": "GUAMAL"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "350",
+    "NOMMUNICIP": "LA MACARENA"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "370",
+    "NOMMUNICIP": "LA URIBE"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "400",
+    "NOMMUNICIP": "LEJANIAS"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "325",
+    "NOMMUNICIP": "MAPIRIPAN"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "330",
+    "NOMMUNICIP": "MECETAS"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "450",
+    "NOMMUNICIP": "PUERTO CONCORDIA"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "568",
+    "NOMMUNICIP": "PUERTO GAITAN"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "577",
+    "NOMMUNICIP": "PUERTO LLERAS"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "573",
+    "NOMMUNICIP": "PUERTO LOPEZ"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "590",
+    "NOMMUNICIP": "PUERTO RICO"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "606",
+    "NOMMUNICIP": "RESTREPO"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "680",
+    "NOMMUNICIP": "SAN CARLOS DE GUAROA"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "683",
+    "NOMMUNICIP": "SAN JUAN DE ARAMA"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "686",
+    "NOMMUNICIP": "SAN JUANITO"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "689",
+    "NOMMUNICIP": "SAN MARTIN"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "VILLAVICENCIO"
+  },
+  {
+    "CODDEPTO": "50",
+    "CODMUNICIP": "711",
+    "NOMMUNICIP": "VISTA HERMOSA"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "019",
+    "NOMMUNICIP": "ALBAN SAN JOSE"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "022",
+    "NOMMUNICIP": "ALDANA"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "036",
+    "NOMMUNICIP": "ANCUYA"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "079",
+    "NOMMUNICIP": "BARBACOAS"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "083",
+    "NOMMUNICIP": "BELEN"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "110",
+    "NOMMUNICIP": "BUESACO"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "240",
+    "NOMMUNICIP": "CHACHAGUI"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "203",
+    "NOMMUNICIP": "COLON"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "207",
+    "NOMMUNICIP": "CONSACA"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "210",
+    "NOMMUNICIP": "CONTADERO"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "215",
+    "NOMMUNICIP": "CORDOBA"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "224",
+    "NOMMUNICIP": "CUASPUD"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "227",
+    "NOMMUNICIP": "CUMBAL"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "233",
+    "NOMMUNICIP": "CUMBITARA"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "250",
+    "NOMMUNICIP": "EL CHARCO"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "256",
+    "NOMMUNICIP": "EL ROSARIO"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "258",
+    "NOMMUNICIP": "EL TABLON"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "260",
+    "NOMMUNICIP": "EL TAMBO"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "520",
+    "NOMMUNICIP": "FRANCISCO PIZARRO"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "287",
+    "NOMMUNICIP": "FUNES"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "317",
+    "NOMMUNICIP": "GUACHUCAL"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "320",
+    "NOMMUNICIP": "GUAITARILLA"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "323",
+    "NOMMUNICIP": "GUALMATAN"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "352",
+    "NOMMUNICIP": "ILES"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "354",
+    "NOMMUNICIP": "IMUES"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "356",
+    "NOMMUNICIP": "IPIALES"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "378",
+    "NOMMUNICIP": "LA CRUZ"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "381",
+    "NOMMUNICIP": "LA FLORIDA"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "385",
+    "NOMMUNICIP": "LA LLANADA"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "390",
+    "NOMMUNICIP": "LA TOLA"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "399",
+    "NOMMUNICIP": "LA UNION"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "405",
+    "NOMMUNICIP": "LEIVA"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "411",
+    "NOMMUNICIP": "LINARES"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "418",
+    "NOMMUNICIP": "LOS ANDES"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "427",
+    "NOMMUNICIP": "MAGUI"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "435",
+    "NOMMUNICIP": "MALLAMA"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "456",
+    "NOMMUNICIP": "MISTRATO"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "473",
+    "NOMMUNICIP": "MOSQUERA"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "490",
+    "NOMMUNICIP": "OLAYA HERRERA"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "506",
+    "NOMMUNICIP": "OSPINA"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "PASTO"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "540",
+    "NOMMUNICIP": "POLICARPA"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "560",
+    "NOMMUNICIP": "POTOSI"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "565",
+    "NOMMUNICIP": "PROVIDENCIA"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "573",
+    "NOMMUNICIP": "PUERRES"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "585",
+    "NOMMUNICIP": "PUPIALES"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "612",
+    "NOMMUNICIP": "RICAURTE"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "621",
+    "NOMMUNICIP": "ROBERTO PAYAN"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "678",
+    "NOMMUNICIP": "SAMANIEGO"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "685",
+    "NOMMUNICIP": "SAN BERNARDO"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "687",
+    "NOMMUNICIP": "SAN LORENZO"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "693",
+    "NOMMUNICIP": "SAN PABLO"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "694",
+    "NOMMUNICIP": "SAN PEDRO DE CARTAGO"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "683",
+    "NOMMUNICIP": "SANDONA"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "696",
+    "NOMMUNICIP": "SANTA BARBARA"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "699",
+    "NOMMUNICIP": "SANTA CRUZ"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "720",
+    "NOMMUNICIP": "SAPUYES"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "786",
+    "NOMMUNICIP": "TAMINANGO"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "788",
+    "NOMMUNICIP": "TANGUA"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "835",
+    "NOMMUNICIP": "TUMACO"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "838",
+    "NOMMUNICIP": "TUQUERRES"
+  },
+  {
+    "CODDEPTO": "52",
+    "CODMUNICIP": "885",
+    "NOMMUNICIP": "YACUANQUER"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "003",
+    "NOMMUNICIP": "ABREGO"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "051",
+    "NOMMUNICIP": "ARBOLEDAS"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "099",
+    "NOMMUNICIP": "BOCHALEMA"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "109",
+    "NOMMUNICIP": "BUCARASICA"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "128",
+    "NOMMUNICIP": "CACHIRA (NORTE DE SANTANDER)"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "125",
+    "NOMMUNICIP": "CACOTA"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "172",
+    "NOMMUNICIP": "CHINACOTA"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "174",
+    "NOMMUNICIP": "CHITAGA"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "206",
+    "NOMMUNICIP": "CONVENCION"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "CUCUTA"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "223",
+    "NOMMUNICIP": "CUCUTILLA"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "239",
+    "NOMMUNICIP": "DURANIA"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "245",
+    "NOMMUNICIP": "EL CARMEN"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "250",
+    "NOMMUNICIP": "EL TARRA"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "261",
+    "NOMMUNICIP": "EL ZULIA"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "313",
+    "NOMMUNICIP": "GRAMALOTE"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "344",
+    "NOMMUNICIP": "HACARI"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "347",
+    "NOMMUNICIP": "HERRAN"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "385",
+    "NOMMUNICIP": "LA ESPERANZA (NORTE DE SANTANDER)"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "398",
+    "NOMMUNICIP": "LA PLAYA"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "377",
+    "NOMMUNICIP": "LABATECA"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "405",
+    "NOMMUNICIP": "LOS PATIOS"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "418",
+    "NOMMUNICIP": "LOURDES"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "480",
+    "NOMMUNICIP": "MUTISCUA"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "498",
+    "NOMMUNICIP": "OCAÑA"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "000",
+    "NOMMUNICIP": "OCAÑA"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "518",
+    "NOMMUNICIP": "PAMPLONA"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "520",
+    "NOMMUNICIP": "PAMPLONITA"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "599",
+    "NOMMUNICIP": "RAGONVALIA"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "660",
+    "NOMMUNICIP": "SALAZAR"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "670",
+    "NOMMUNICIP": "SAN CALIXTO"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "673",
+    "NOMMUNICIP": "SAN CAYETANO"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "680",
+    "NOMMUNICIP": "SANTIAGO"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "720",
+    "NOMMUNICIP": "SARDINATA"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "743",
+    "NOMMUNICIP": "SILOS"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "800",
+    "NOMMUNICIP": "TEORAMA"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "810",
+    "NOMMUNICIP": "TIBU"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "820",
+    "NOMMUNICIP": "TOLEDO"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "871",
+    "NOMMUNICIP": "VILLA CARO"
+  },
+  {
+    "CODDEPTO": "54",
+    "CODMUNICIP": "874",
+    "NOMMUNICIP": "VILLA DEL ROSARIO"
+  },
+  {
+    "CODDEPTO": "63",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "ARMENIA"
+  },
+  {
+    "CODDEPTO": "63",
+    "CODMUNICIP": "111",
+    "NOMMUNICIP": "BUENAVISTA"
+  },
+  {
+    "CODDEPTO": "63",
+    "CODMUNICIP": "130",
+    "NOMMUNICIP": "CALARCA"
+  },
+  {
+    "CODDEPTO": "63",
+    "CODMUNICIP": "190",
+    "NOMMUNICIP": "CIRCASIA"
+  },
+  {
+    "CODDEPTO": "63",
+    "CODMUNICIP": "212",
+    "NOMMUNICIP": "CORDOBA"
+  },
+  {
+    "CODDEPTO": "63",
+    "CODMUNICIP": "272",
+    "NOMMUNICIP": "FILANDIA"
+  },
+  {
+    "CODDEPTO": "63",
+    "CODMUNICIP": "302",
+    "NOMMUNICIP": "GENOVA"
+  },
+  {
+    "CODDEPTO": "63",
+    "CODMUNICIP": "401",
+    "NOMMUNICIP": "LA TEBAIDA"
+  },
+  {
+    "CODDEPTO": "63",
+    "CODMUNICIP": "470",
+    "NOMMUNICIP": "MONTENEGRO"
+  },
+  {
+    "CODDEPTO": "63",
+    "CODMUNICIP": "548",
+    "NOMMUNICIP": "PIJAO"
+  },
+  {
+    "CODDEPTO": "63",
+    "CODMUNICIP": "594",
+    "NOMMUNICIP": "QUIMBAYA"
+  },
+  {
+    "CODDEPTO": "63",
+    "CODMUNICIP": "690",
+    "NOMMUNICIP": "SALENTO"
+  },
+  {
+    "CODDEPTO": "66",
+    "CODMUNICIP": "045",
+    "NOMMUNICIP": "APIA"
+  },
+  {
+    "CODDEPTO": "66",
+    "CODMUNICIP": "075",
+    "NOMMUNICIP": "BALBOA"
+  },
+  {
+    "CODDEPTO": "66",
+    "CODMUNICIP": "088",
+    "NOMMUNICIP": "BELEN DE UMBRIA"
+  },
+  {
+    "CODDEPTO": "66",
+    "CODMUNICIP": "170",
+    "NOMMUNICIP": "DOS QUEBRADAS"
+  },
+  {
+    "CODDEPTO": "66",
+    "CODMUNICIP": "318",
+    "NOMMUNICIP": "GUATICA"
+  },
+  {
+    "CODDEPTO": "66",
+    "CODMUNICIP": "363",
+    "NOMMUNICIP": "LA CELIA"
+  },
+  {
+    "CODDEPTO": "66",
+    "CODMUNICIP": "383",
+    "NOMMUNICIP": "LA CELIA"
+  },
+  {
+    "CODDEPTO": "66",
+    "CODMUNICIP": "400",
+    "NOMMUNICIP": "LA VIRGINIA"
+  },
+  {
+    "CODDEPTO": "66",
+    "CODMUNICIP": "440",
+    "NOMMUNICIP": "MARSELLA"
+  },
+  {
+    "CODDEPTO": "66",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "PEREIRA"
+  },
+  {
+    "CODDEPTO": "66",
+    "CODMUNICIP": "572",
+    "NOMMUNICIP": "PUEBLO RICO"
+  },
+  {
+    "CODDEPTO": "66",
+    "CODMUNICIP": "594",
+    "NOMMUNICIP": "QUINCHIA"
+  },
+  {
+    "CODDEPTO": "66",
+    "CODMUNICIP": "682",
+    "NOMMUNICIP": "SANTA ROSA DE CABAL"
+  },
+  {
+    "CODDEPTO": "66",
+    "CODMUNICIP": "687",
+    "NOMMUNICIP": "SANTUARIO"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "013",
+    "NOMMUNICIP": "AGUADA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "020",
+    "NOMMUNICIP": "ALBANIA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "051",
+    "NOMMUNICIP": "ARATOCA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "077",
+    "NOMMUNICIP": "BARBOSA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "079",
+    "NOMMUNICIP": "BARICHARA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "081",
+    "NOMMUNICIP": "BARRANCABERMEJA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "092",
+    "NOMMUNICIP": "BETULIA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "101",
+    "NOMMUNICIP": "BOLIVAR"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "BUCARAMANGA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "121",
+    "NOMMUNICIP": "CABRERA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "132",
+    "NOMMUNICIP": "CALIFORNIA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "147",
+    "NOMMUNICIP": "CAPITANEJO"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "152",
+    "NOMMUNICIP": "CARCASI"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "160",
+    "NOMMUNICIP": "CEPITA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "162",
+    "NOMMUNICIP": "CERRITO"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "167",
+    "NOMMUNICIP": "CHARALA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "169",
+    "NOMMUNICIP": "CHARTA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "176",
+    "NOMMUNICIP": "CHIMA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "179",
+    "NOMMUNICIP": "CHIPATA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "190",
+    "NOMMUNICIP": "CIMITARRA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "207",
+    "NOMMUNICIP": "CONCEPCION"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "209",
+    "NOMMUNICIP": "CONFINES"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "211",
+    "NOMMUNICIP": "CONTRATACION"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "217",
+    "NOMMUNICIP": "COROMORO"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "229",
+    "NOMMUNICIP": "CURITI"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "235",
+    "NOMMUNICIP": "EL CARMEN"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "245",
+    "NOMMUNICIP": "EL GUACAMAYO"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "250",
+    "NOMMUNICIP": "EL PEÑON"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "255",
+    "NOMMUNICIP": "EL PLAYON"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "264",
+    "NOMMUNICIP": "ENCINO"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "266",
+    "NOMMUNICIP": "ENCISO"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "271",
+    "NOMMUNICIP": "FLORIAN"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "276",
+    "NOMMUNICIP": "FLORIDA BLANCA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "296",
+    "NOMMUNICIP": "GALAN"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "298",
+    "NOMMUNICIP": "GAMBITA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "307",
+    "NOMMUNICIP": "GIRON"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "318",
+    "NOMMUNICIP": "GUACA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "320",
+    "NOMMUNICIP": "GUADALUPE"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "322",
+    "NOMMUNICIP": "GUAPOTA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "324",
+    "NOMMUNICIP": "GUAVATA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "327",
+    "NOMMUNICIP": "GUEPSA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "344",
+    "NOMMUNICIP": "HATO"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "368",
+    "NOMMUNICIP": "JESUS MARIA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "370",
+    "NOMMUNICIP": "JORDAN"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "377",
+    "NOMMUNICIP": "LA BELLEZA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "397",
+    "NOMMUNICIP": "LA PAZ"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "385",
+    "NOMMUNICIP": "LANDAZURI"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "406",
+    "NOMMUNICIP": "LEBRIJA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "418",
+    "NOMMUNICIP": "LOS SANTOS"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "425",
+    "NOMMUNICIP": "MACARAVITA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "432",
+    "NOMMUNICIP": "MALAGA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "444",
+    "NOMMUNICIP": "MATANZA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "464",
+    "NOMMUNICIP": "MOGOTES"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "468",
+    "NOMMUNICIP": "MOLAGAVITA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "498",
+    "NOMMUNICIP": "OCAMONTE"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "500",
+    "NOMMUNICIP": "OIBA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "502",
+    "NOMMUNICIP": "ONZAGA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "522",
+    "NOMMUNICIP": "PALMAR"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "524",
+    "NOMMUNICIP": "PALMAS DEL SOCORRO"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "533",
+    "NOMMUNICIP": "PARAMO"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "547",
+    "NOMMUNICIP": "PIE DE CUESTA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "549",
+    "NOMMUNICIP": "PINCHOTE"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "572",
+    "NOMMUNICIP": "PUENTE NACIONAL"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "573",
+    "NOMMUNICIP": "PUERTO PARRA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "575",
+    "NOMMUNICIP": "PUERTO WILCHES"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "615",
+    "NOMMUNICIP": "RIONEGRO"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "655",
+    "NOMMUNICIP": "SABANA DE TORRES"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "669",
+    "NOMMUNICIP": "SAN ANDRES B/MANGA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "673",
+    "NOMMUNICIP": "SAN BENITO"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "679",
+    "NOMMUNICIP": "SAN GIL"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "682",
+    "NOMMUNICIP": "SAN JOAQUIN"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "684",
+    "NOMMUNICIP": "SAN JOSE DE MIRANDA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "686",
+    "NOMMUNICIP": "SAN MIGUEL"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "689",
+    "NOMMUNICIP": "SAN VICENTE DE CHUCURY"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "705",
+    "NOMMUNICIP": "SANTA BARBARA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "720",
+    "NOMMUNICIP": "SANTA HELENA DEL OPON"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "745",
+    "NOMMUNICIP": "SIMACOTA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "755",
+    "NOMMUNICIP": "SOCORRO"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "770",
+    "NOMMUNICIP": "SUAITA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "773",
+    "NOMMUNICIP": "SUCRE"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "780",
+    "NOMMUNICIP": "SURATA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "820",
+    "NOMMUNICIP": "TONA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "855",
+    "NOMMUNICIP": "VALLE SAN JOSE"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "861",
+    "NOMMUNICIP": "VELEZ"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "867",
+    "NOMMUNICIP": "VETAS"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "872",
+    "NOMMUNICIP": "VILLA NUEVA"
+  },
+  {
+    "CODDEPTO": "68",
+    "CODMUNICIP": "895",
+    "NOMMUNICIP": "ZAPATOCA"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "110",
+    "NOMMUNICIP": "BUENAVISTA"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "124",
+    "NOMMUNICIP": "CAIMITO"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "230",
+    "NOMMUNICIP": "CHALAN"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "204",
+    "NOMMUNICIP": "COLOSO"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "215",
+    "NOMMUNICIP": "COROZAL"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "235",
+    "NOMMUNICIP": "GALERAS"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "265",
+    "NOMMUNICIP": "GUARANDA"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "400",
+    "NOMMUNICIP": "LA UNION"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "418",
+    "NOMMUNICIP": "LOS PALMITOS"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "429",
+    "NOMMUNICIP": "MAJAGUAL"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "473",
+    "NOMMUNICIP": "MORROA"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "508",
+    "NOMMUNICIP": "OVEJAS"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "523",
+    "NOMMUNICIP": "PALMITO"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "670",
+    "NOMMUNICIP": "SAMPUES"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "678",
+    "NOMMUNICIP": "SAN BENITO ABAD"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "702",
+    "NOMMUNICIP": "SAN JUAN BETULIA"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "708",
+    "NOMMUNICIP": "SAN MARCOS"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "713",
+    "NOMMUNICIP": "SAN ONOFRE"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "717",
+    "NOMMUNICIP": "SAN PEDRO"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "742",
+    "NOMMUNICIP": "SINCE"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "SINCELEJO"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "771",
+    "NOMMUNICIP": "SUCRE"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "820",
+    "NOMMUNICIP": "TOLU"
+  },
+  {
+    "CODDEPTO": "70",
+    "CODMUNICIP": "823",
+    "NOMMUNICIP": "TOLU VIEJO"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "024",
+    "NOMMUNICIP": "ALPUJARRA"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "026",
+    "NOMMUNICIP": "ALVARADO"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "030",
+    "NOMMUNICIP": "AMBALEMA"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "043",
+    "NOMMUNICIP": "ANZOATEGUI"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "067",
+    "NOMMUNICIP": "ATACO"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "124",
+    "NOMMUNICIP": "CAJAMARCA"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "148",
+    "NOMMUNICIP": "CARMEN DE APICALA"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "152",
+    "NOMMUNICIP": "CASABIANCA"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "168",
+    "NOMMUNICIP": "CHAPARRAL"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "200",
+    "NOMMUNICIP": "COELLO"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "217",
+    "NOMMUNICIP": "COYAIMA"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "226",
+    "NOMMUNICIP": "CUNDAY"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "236",
+    "NOMMUNICIP": "DOLORES"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "268",
+    "NOMMUNICIP": "ESPINAL"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "270",
+    "NOMMUNICIP": "FALAN"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "275",
+    "NOMMUNICIP": "FLANDES"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "283",
+    "NOMMUNICIP": "FRESNO"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "319",
+    "NOMMUNICIP": "GUAMO"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "055",
+    "NOMMUNICIP": "GUAYABAL"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "347",
+    "NOMMUNICIP": "HERVEO"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "349",
+    "NOMMUNICIP": "HONDA"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "IBAGUE"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "352",
+    "NOMMUNICIP": "ICONONZO"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "408",
+    "NOMMUNICIP": "LERIDA"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "411",
+    "NOMMUNICIP": "LIBANO"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "443",
+    "NOMMUNICIP": "MARIQUITA"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "449",
+    "NOMMUNICIP": "MELGAR"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "461",
+    "NOMMUNICIP": "MURILLO"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "483",
+    "NOMMUNICIP": "NATAGAIMA"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "504",
+    "NOMMUNICIP": "ORTEGA"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "547",
+    "NOMMUNICIP": "PIEDRAS"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "555",
+    "NOMMUNICIP": "PLANADAS"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "563",
+    "NOMMUNICIP": "PRADO"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "585",
+    "NOMMUNICIP": "PURIFICACION"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "616",
+    "NOMMUNICIP": "RIO BLANCO"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "622",
+    "NOMMUNICIP": "RONCESVALLES"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "624",
+    "NOMMUNICIP": "ROVIRA"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "671",
+    "NOMMUNICIP": "SALDAÑA"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "675",
+    "NOMMUNICIP": "SAN ANTONIO"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "678",
+    "NOMMUNICIP": "SAN LUIS"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "686",
+    "NOMMUNICIP": "SANTA ISABEL"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "770",
+    "NOMMUNICIP": "SUAREZ"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "854",
+    "NOMMUNICIP": "VALLE DE SAN JUAN"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "861",
+    "NOMMUNICIP": "VENADILLO"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "870",
+    "NOMMUNICIP": "VILLA HERMOSA"
+  },
+  {
+    "CODDEPTO": "73",
+    "CODMUNICIP": "873",
+    "NOMMUNICIP": "VILLA RICA"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "020",
+    "NOMMUNICIP": "ALCALA"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "036",
+    "NOMMUNICIP": "ANDALUCIA"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "041",
+    "NOMMUNICIP": "ANSERMA NUEVO"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "054",
+    "NOMMUNICIP": "ARGELIA"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "100",
+    "NOMMUNICIP": "BOLIVAR"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "109",
+    "NOMMUNICIP": "BUENAVENTURA"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "111",
+    "NOMMUNICIP": "BUGA"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "113",
+    "NOMMUNICIP": "BUGALAGRANDE"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "122",
+    "NOMMUNICIP": "CAICEDONIA"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "CALI"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "126",
+    "NOMMUNICIP": "CALIMA"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "130",
+    "NOMMUNICIP": "CANDELARIA"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "147",
+    "NOMMUNICIP": "CARTAGO"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "233",
+    "NOMMUNICIP": "DAGUA"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "243",
+    "NOMMUNICIP": "EL AGUILA"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "246",
+    "NOMMUNICIP": "EL CAIRO"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "248",
+    "NOMMUNICIP": "EL CERRITO"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "250",
+    "NOMMUNICIP": "EL DOVIO"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "275",
+    "NOMMUNICIP": "FLORIDA"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "306",
+    "NOMMUNICIP": "GINEBRA"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "318",
+    "NOMMUNICIP": "GUACARI"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "364",
+    "NOMMUNICIP": "JAMUNDI"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "377",
+    "NOMMUNICIP": "LA CUMBRE"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "400",
+    "NOMMUNICIP": "LA UNION"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "403",
+    "NOMMUNICIP": "LA VICTORIA"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "497",
+    "NOMMUNICIP": "OBANDO"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "520",
+    "NOMMUNICIP": "PALMIRA"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "563",
+    "NOMMUNICIP": "PRADERA"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "606",
+    "NOMMUNICIP": "RESTREPO"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "616",
+    "NOMMUNICIP": "RIOFRIO"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "622",
+    "NOMMUNICIP": "ROLDANILLO"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "660",
+    "NOMMUNICIP": "SAN JOSE DEL PALMAR"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "570",
+    "NOMMUNICIP": "SAN PEDRO"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "736",
+    "NOMMUNICIP": "SEVILLA"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "823",
+    "NOMMUNICIP": "TORO"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "828",
+    "NOMMUNICIP": "TRUJILLO"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "834",
+    "NOMMUNICIP": "TULUA"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "845",
+    "NOMMUNICIP": "ULLOA"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "863",
+    "NOMMUNICIP": "VERSALLES"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "869",
+    "NOMMUNICIP": "VIJES"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "890",
+    "NOMMUNICIP": "YOTOCO"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "892",
+    "NOMMUNICIP": "YUMBO"
+  },
+  {
+    "CODDEPTO": "76",
+    "CODMUNICIP": "895",
+    "NOMMUNICIP": "ZARZAL"
+  },
+  {
+    "CODDEPTO": "81",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "ARAUCA"
+  },
+  {
+    "CODDEPTO": "81",
+    "CODMUNICIP": "065",
+    "NOMMUNICIP": "ARAUQUITA"
+  },
+  {
+    "CODDEPTO": "81",
+    "CODMUNICIP": "220",
+    "NOMMUNICIP": "CRAVO NORTE"
+  },
+  {
+    "CODDEPTO": "81",
+    "CODMUNICIP": "300",
+    "NOMMUNICIP": "FORTUL"
+  },
+  {
+    "CODDEPTO": "81",
+    "CODMUNICIP": "591",
+    "NOMMUNICIP": "PUERTO RONDON"
+  },
+  {
+    "CODDEPTO": "81",
+    "CODMUNICIP": "736",
+    "NOMMUNICIP": "SARAVENA"
+  },
+  {
+    "CODDEPTO": "81",
+    "CODMUNICIP": "794",
+    "NOMMUNICIP": "TAME"
+  },
+  {
+    "CODDEPTO": "85",
+    "CODMUNICIP": "010",
+    "NOMMUNICIP": "AGUAZUL"
+  },
+  {
+    "CODDEPTO": "85",
+    "CODMUNICIP": "015",
+    "NOMMUNICIP": "CHAMEZA"
+  },
+  {
+    "CODDEPTO": "85",
+    "CODMUNICIP": "125",
+    "NOMMUNICIP": "HATO COROZAL"
+  },
+  {
+    "CODDEPTO": "85",
+    "CODMUNICIP": "139",
+    "NOMMUNICIP": "MANI"
+  },
+  {
+    "CODDEPTO": "85",
+    "CODMUNICIP": "162",
+    "NOMMUNICIP": "MONTERREY"
+  },
+  {
+    "CODDEPTO": "85",
+    "CODMUNICIP": "225",
+    "NOMMUNICIP": "NUNCHIA"
+  },
+  {
+    "CODDEPTO": "85",
+    "CODMUNICIP": "230",
+    "NOMMUNICIP": "OROCUE"
+  },
+  {
+    "CODDEPTO": "85",
+    "CODMUNICIP": "250",
+    "NOMMUNICIP": "PAZ DE ARIPORO"
+  },
+  {
+    "CODDEPTO": "85",
+    "CODMUNICIP": "263",
+    "NOMMUNICIP": "PORE"
+  },
+  {
+    "CODDEPTO": "85",
+    "CODMUNICIP": "279",
+    "NOMMUNICIP": "RECETOR"
+  },
+  {
+    "CODDEPTO": "85",
+    "CODMUNICIP": "300",
+    "NOMMUNICIP": "SABANALARGA"
+  },
+  {
+    "CODDEPTO": "85",
+    "CODMUNICIP": "325",
+    "NOMMUNICIP": "SAN LUIS DE PALENQUE"
+  },
+  {
+    "CODDEPTO": "85",
+    "CODMUNICIP": "400",
+    "NOMMUNICIP": "TAMARA"
+  },
+  {
+    "CODDEPTO": "85",
+    "CODMUNICIP": "410",
+    "NOMMUNICIP": "TAURAMENA"
+  },
+  {
+    "CODDEPTO": "85",
+    "CODMUNICIP": "430",
+    "NOMMUNICIP": "TRINIDAD"
+  },
+  {
+    "CODDEPTO": "85",
+    "CODMUNICIP": "440",
+    "NOMMUNICIP": "VILLANUEVA"
+  },
+  {
+    "CODDEPTO": "85",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "YOPAL"
+  },
+  {
+    "CODDEPTO": "86",
+    "CODMUNICIP": "219",
+    "NOMMUNICIP": "COLON"
+  },
+  {
+    "CODDEPTO": "86",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "MOCOA"
+  },
+  {
+    "CODDEPTO": "86",
+    "CODMUNICIP": "320",
+    "NOMMUNICIP": "ORITO"
+  },
+  {
+    "CODDEPTO": "86",
+    "CODMUNICIP": "568",
+    "NOMMUNICIP": "PUERTO ASIS"
+  },
+  {
+    "CODDEPTO": "86",
+    "CODMUNICIP": "569",
+    "NOMMUNICIP": "PUERTO CAICEDO"
+  },
+  {
+    "CODDEPTO": "86",
+    "CODMUNICIP": "571",
+    "NOMMUNICIP": "PUERTO GUZMAN"
+  },
+  {
+    "CODDEPTO": "86",
+    "CODMUNICIP": "573",
+    "NOMMUNICIP": "PUERTO LEGUIZAMO"
+  },
+  {
+    "CODDEPTO": "86",
+    "CODMUNICIP": "755",
+    "NOMMUNICIP": "SAN FRANCISCO"
+  },
+  {
+    "CODDEPTO": "86",
+    "CODMUNICIP": "757",
+    "NOMMUNICIP": "SAN MIGUEL"
+  },
+  {
+    "CODDEPTO": "86",
+    "CODMUNICIP": "760",
+    "NOMMUNICIP": "SIBUNDOY"
+  },
+  {
+    "CODDEPTO": "86",
+    "CODMUNICIP": "749",
+    "NOMMUNICIP": "SIBUNDOY"
+  },
+  {
+    "CODDEPTO": "86",
+    "CODMUNICIP": "865",
+    "NOMMUNICIP": "VALLE DE GUAMEZ"
+  },
+  {
+    "CODDEPTO": "86",
+    "CODMUNICIP": "885",
+    "NOMMUNICIP": "VILLA GARZON"
+  },
+  {
+    "CODDEPTO": "88",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "SAN ANDRES ISLAS"
+  },
+  {
+    "CODDEPTO": "91",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "LETICIA"
+  },
+  {
+    "CODDEPTO": "91",
+    "CODMUNICIP": "669",
+    "NOMMUNICIP": "PUERTO SANTANDER"
+  },
+  {
+    "CODDEPTO": "94",
+    "CODMUNICIP": "343",
+    "NOMMUNICIP": "BARRANCOMINAS"
+  },
+  {
+    "CODDEPTO": "94",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "PUERTO INIRIDA"
+  },
+  {
+    "CODDEPTO": "94",
+    "CODMUNICIP": "883",
+    "NOMMUNICIP": "SAN FELIPE"
+  },
+  {
+    "CODDEPTO": "95",
+    "CODMUNICIP": "015",
+    "NOMMUNICIP": "CALAMAR"
+  },
+  {
+    "CODDEPTO": "95",
+    "CODMUNICIP": "025",
+    "NOMMUNICIP": "EL RETORNO"
+  },
+  {
+    "CODDEPTO": "95",
+    "CODMUNICIP": "200",
+    "NOMMUNICIP": "MIRAFLORES"
+  },
+  {
+    "CODDEPTO": "95",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "SAN JOSE DEL GUAVIARE"
+  },
+  {
+    "CODDEPTO": "97",
+    "CODMUNICIP": "161",
+    "NOMMUNICIP": "CARURU"
+  },
+  {
+    "CODDEPTO": "97",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "MITU"
+  },
+  {
+    "CODDEPTO": "97",
+    "CODMUNICIP": "802",
+    "NOMMUNICIP": "TARAIRA"
+  },
+  {
+    "CODDEPTO": "99",
+    "CODMUNICIP": "524",
+    "NOMMUNICIP": "LA PRIMAVERA"
+  },
+  {
+    "CODDEPTO": "99",
+    "CODMUNICIP": "001",
+    "NOMMUNICIP": "PUERTO CARREÑO"
+  },
+  {
+    "CODDEPTO": "99",
+    "CODMUNICIP": "572",
+    "NOMMUNICIP": "SANTA RITA"
+  },
+  {
+    "CODDEPTO": "99",
+    "CODMUNICIP": "624",
+    "NOMMUNICIP": "SANTA ROSALIA"
+  }
+]

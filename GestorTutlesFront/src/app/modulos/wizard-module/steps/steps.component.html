@@ -1,0 +1,8 @@
+<p-steps [model]="items" [(activeIndex)]="activeIndex" [class]="styleClass" [readonly]="false"></p-steps>
+<ng-content></ng-content>
+
+<button pButton type="text" *ngIf="activeIndex > 0" (click)="previous()" icon="pi pi-chevron-left" style="float: left;"
+  label="Anterior"></button>
+<button pButton type="text" *ngIf="activeIndex < items.length - 1" (click)="next()" icon="pi pi-chevron-right" style="float: right;"
+  iconPos="right" label="Siguiente"></button>
+
