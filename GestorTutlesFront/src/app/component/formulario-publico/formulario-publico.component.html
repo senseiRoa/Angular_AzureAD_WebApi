@@ -1,7 +1,9 @@
 <p-toast></p-toast>
 <div class="ui-g-12">
+  <!-- autocomplete="off" -->
 
-  <form [formGroup]="formComponent" (ngSubmit)="save()">
+  <form [formGroup]="formComponent"
+  >
     <app-steps [(activeIndex)]="activeIndex" (change)="onChange($event)" styleClass="ui-g-12">
       <app-step label="Datos personales">
         <p-panel header="Datos personales" class="ui-g-12">
@@ -22,8 +24,8 @@
               </div>
               <div class="ui-g-6">
                 <label for="txtApellidos"><b>Apellidos</b></label><br>
-                <input type="text" formControlName="nombres" [(ngModel)]="entity.apellidos" style="width: 100%;"
-                  placeholder="Nombres" pInputText name="txtApellidos" />
+                <input type="text" formControlName="apellidos" [(ngModel)]="entity.apellidos" style="width: 100%;"
+                  placeholder="Apellidos" pInputText name="txtApellidos" />
 
                 <!-- campo de validacion -->
 
@@ -97,7 +99,7 @@
             </div>
             <div class="ui-g-12">
               <div class="ui-g-6">
-                <label for="ddldepartamento">Departamento de ubicación</label>
+                <label for="ddldepartamento"><b>Departamento de ubicación</b>*</label>
                 <p-dropdown name="ddldepartamento" formControlName="departamento" [options]="departamentosAux"
                   [(ngModel)]="entity.departamento" (onChange)="depChange()" filter="true" [showClear]="true"
                   placeholder="Seleccione un departamento" [style]="{ width: '100%' }">
@@ -112,7 +114,7 @@
                 <!-- fin campo de validacion -->
               </div>
               <div class="ui-g-6">
-                <label for="ddlMunicipio">Municipio de ubicación</label>
+                <label for="ddlMunicipio"><b>Municipio de ubicación</b>*</label>
                 <p-dropdown name="ddlMunicipio" formControlName="municipio" [options]="municipiosAux"
                   [(ngModel)]="entity.municipio" filter="true" [showClear]="true" placeholder="Seleccione un municipio"
                   [style]="{ width: '100%' }">
@@ -136,16 +138,86 @@
         <p-panel header="Tutela" class="ui-g-12">
           <div class="ui-g">
             <div class="ui-g-12">
-              <div class="ui-g-6"></div>
-              <div class="ui-g-6"></div>
+              <div class="ui-g-6">
+                <label for="ddlDerechoFundamental"><b>Derecho Fundamental</b>*</label>
+                <p-dropdown name="ddlDerechoFundamental" formControlName="derechoFundamental"
+                  [options]="derechoFundamentalsAux" [(ngModel)]="entity.derechoFundamental" filter="true"
+                  [showClear]="true" placeholder="Seleccione un derechoFundamental" [style]="{ width: '100%' }">
+                </p-dropdown>
+
+                <!-- campo de validacion -->
+
+                <div class="ui-g-12"
+                  *ngIf="f.derechoFundamental.errors && formComponent.get('derechoFundamental').touched">
+                  <p-message *ngIf="f.derechoFundamental.errors.required" severity="error" text="El campo es requerido">
+                  </p-message>
+                </div>
+                <!-- fin campo de validacion -->
+              </div>
+              <div class="ui-g-6">
+                <label for="ddlEspecialidad"><b>Especialidad</b>*</label>
+                <p-dropdown name="ddlEspecialidad" formControlName="especialidad" [options]="especialidadsAux"
+                  [(ngModel)]="entity.especialidad" filter="true" [showClear]="true"
+                  placeholder="Seleccione una especialidad" [style]="{ width: '100%' }">
+                </p-dropdown>
+
+                <!-- campo de validacion -->
+
+                <div class="ui-g-12" *ngIf="f.especialidad.errors && formComponent.get('especialidad').touched">
+                  <p-message *ngIf="f.especialidad.errors.required" severity="error" text="El campo es requerido">
+                  </p-message>
+                </div>
+                <!-- fin campo de validacion -->
+              </div>
             </div>
             <div class="ui-g-12">
-              <div class="ui-g-6"></div>
-              <div class="ui-g-6"></div>
+              <div class="ui-g-6">
+                <label for="txtAccionante"><b>Accionante</b>*</label><br>
+                <input type="text" formControlName="accionante" [(ngModel)]="entity.accionante" style="width: 100%;"
+                  placeholder="accionante" pInputText name="txtAccionante" />
+
+                <!-- campo de validacion -->
+
+                <div class="ui-g-12" *ngIf="f.accionante.errors && formComponent.get('accionante').touched">
+                  <p-message *ngIf="f.accionante.errors.required" severity="error" text="El campo es requerido">
+                  </p-message>
+                </div>
+                <!-- fin campo de validacion -->
+              </div>
+              <div class="ui-g-6">
+                <label for="txtAccionado"><b>Accionado</b>*</label><br>
+                <input type="text" formControlName="accionado" [(ngModel)]="entity.accionado" style="width: 100%;"
+                  placeholder="accionado" pInputText name="txtAccionado" />
+
+                <!-- campo de validacion -->
+
+                <div class="ui-g-12" *ngIf="f.accionado.errors && formComponent.get('accionado').touched">
+                  <p-message *ngIf="f.accionado.errors.required" severity="error" text="El campo es requerido">
+                  </p-message>
+                </div>
+                <!-- fin campo de validacion -->
+              </div>
             </div>
+
             <div class="ui-g-12">
-              <div class="ui-g-6"></div>
-              <div class="ui-g-6"></div>
+              <div class="ui-g-6">
+                <label for="txtIntervinientes"><b>intervinientes</b>*</label><br>
+                <textarea pInputTextarea formControlName="intervinientes" [(ngModel)]="entity.intervinientes"
+                  style="width: 100%;" placeholder="intervinientes separados por ,"></textarea>
+                <!-- campo de validacion -->
+
+                <div class="ui-g-12" *ngIf="f.intervinientes.errors && formComponent.get('intervinientes').touched">
+                  <p-message *ngIf="f.intervinientes.errors.required" severity="error" text="El campo es requerido">
+                  </p-message>
+                </div>
+                <!-- fin campo de validacion -->
+              </div>
+              <div class="ui-g-6">
+                <p-fileUpload name="demo[]" customUpload="true" [showUploadButton]="false"
+                  chooseLabel="Cargar Documento" (onClear)="onClear($event)" (onRemove)="onClear($event)"
+                  (onSelect)="myUploader($event)" accept="application/pdf" maxFileSize="2000000">
+                </p-fileUpload>
+              </div>
             </div>
             <div class="ui-g-12">
               <div class="ui-g-6"></div>
@@ -156,11 +228,19 @@
       </app-step>
 
       <app-step label="Confirmación">
+        <p-panel header="Confirmación" class="ui-g-12">
+          <div class="ui-g">
+            <div class="ui-g-12">
 
-
-
-        <button pButton label="Enviar" icon="pi pi-check" (click)="ok()" style="float: right;"
-          class="ui-button-success"></button>
+              {{entity | json}}
+            </div>
+          </div>
+        </p-panel>
+        <div class="ui-g-12">
+          <p-captcha siteKey="6Ldfv-YUAAAAAIVk-Oi-tmHuH50ly9ZWAcZoOi_6" (onResponse)="showResponse($event)"></p-captcha>
+          <button pButton label="Enviar" (click)="send($event)" icon="pi pi-check" style="float: right;"
+            [disabled]='formComponent.invalid' class="ui-button-success"></button>
+        </div>
       </app-step>
     </app-steps>
 

@@ -1,5 +1,6 @@
 export interface RegistroExpediente {
-  nombre: string;
+  capchaResponse: string;
+  nombres: string;
   apellidos: string;
   direccion: string;
   correoElectronico: string;
@@ -7,9 +8,11 @@ export interface RegistroExpediente {
   celular: string;
   departamento: string;
   municipio: string;
-  Accionante: string;
+  accionante: string;
   accionado: string;
-  interventores: string;
+  intervinientes: string;
   fecha: string;
+  derechoFundamental: string;
+  especialidad: string;
   idArchivo: string;
 }

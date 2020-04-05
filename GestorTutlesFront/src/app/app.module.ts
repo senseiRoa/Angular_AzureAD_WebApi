@@ -29,9 +29,14 @@ import { MessagesModule } from 'primeng/messages';
 import { MessageModule } from 'primeng/message';
 import { ToastModule } from 'primeng/toast';
 import { MessageService } from 'primeng/api';
-import {StepsModule} from 'primeng/steps';
+import { StepsModule } from 'primeng/steps';
 import { ButtonModule } from 'primeng/components/button/button';
 import { DropdownModule } from 'primeng/dropdown';
+import { InputTextareaModule } from 'primeng/inputtextarea';
+import { CaptchaModule } from 'primeng/captcha';
+import { FileUploadModule } from 'primeng/fileupload';
+import { DemoPublicService } from 'src/service/DemoPublic.service';
+
 
 
 function MSALAngularConfigFactory(): MsalAngularConfiguration {
@@ -79,12 +84,16 @@ function MSALAngularConfigFactory(): MsalAngularConfiguration {
     ToastModule,
     StepsModule,
     ButtonModule,
-    DropdownModule
+    DropdownModule,
+    InputTextareaModule,
+    FileUploadModule,
+    CaptchaModule
 
   ],
 
   providers: [
     DemoService,
+    DemoPublicService,
     {
       provide: MSAL_CONFIG_ANGULAR,
       useFactory: MSALAngularConfigFactory
