@@ -12,6 +12,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Microsoft.EntityFrameworkCore;
+using GestorTutelas.webApi.DBContext;
 
 namespace GestorTutelas.webApi
 {
@@ -32,13 +34,21 @@ namespace GestorTutelas.webApi
 
             services.AddCors((options =>
             {
-                options.AddDefaultPolicy( builder =>
-                builder.SetIsOriginAllowed(_ => true)
-                .AllowAnyMethod()
-                .AllowAnyHeader()
-                .AllowCredentials());
+                options.AddDefaultPolicy(builder =>
+               builder.SetIsOriginAllowed(_ => true)
+               .AllowAnyMethod()
+               .AllowAnyHeader()
+               .AllowCredentials());
             }));
-            
+
+            var conectionStringPostgres = Configuration.GetValue<string>("ConnectionStrings:DBPostgres");
+            services.AddDbContext<ApiDbContext>(options =>
+            options.UseNpgsql(
+            conectionStringPostgres
+            )
+            );
+
+
             //services.AddControllers();
             services.AddMvc(options => options.EnableEndpointRouting = false);
             // services.AddMvc();
