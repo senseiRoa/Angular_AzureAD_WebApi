@@ -6,3 +6,21 @@ https://www.pshul.com/2020/03/29/authenticate-your-angular-9-to-azure-ad-using-m
 
 
 https://mykkon.work/how-to-setup-any-origin/
+
+/*entity framework core tools*/
+https://docs.microsoft.com/en-us/ef/core/miscellaneous/cli/dotnet
+https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli
+https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli#create-a-migration
+
+https://www.entityframeworktutorial.net/efcore/cli-commands-for-ef-core-migration.aspx
+ejemplo 
+
+dotnet-ef migrations add InitialCreate
+dotnet ef migrations script -o Migrations/scripts/migracionInicial.sql
+
+
+
+
+/*File client*/
+
+https://gunnarpeipman.com/aspnet-core-local-azure-file-client/

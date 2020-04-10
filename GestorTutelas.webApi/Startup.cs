@@ -14,6 +14,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
 using GestorTutelas.webApi.DBContext;
+using GestorTutelas.webApi.DBContext.Repository.Implementations;
 
 namespace GestorTutelas.webApi
 {
@@ -42,12 +43,12 @@ namespace GestorTutelas.webApi
             }));
 
             var conectionStringPostgres = Configuration.GetValue<string>("ConnectionStrings:DBPostgres");
-            services.AddDbContext<ApiDbContext>(options =>
-            options.UseNpgsql(
-            conectionStringPostgres
-            )
-            );
+            services.AddDbContext<ApiDbContext>(options => options.UseNpgsql(conectionStringPostgres));
 
+
+            services.AddScoped<UsuarioRepository>();
+            //singleton
+            // services.AddSingleton<IUsuarioRepository, UsuarioRepository>();
 
             //services.AddControllers();
             services.AddMvc(options => options.EnableEndpointRouting = false);

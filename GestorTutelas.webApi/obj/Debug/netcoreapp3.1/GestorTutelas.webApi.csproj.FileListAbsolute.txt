@@ -18,7 +18,6 @@ Z:\Proyectos\corteSuprema\Radicado Tutelas Corte\GestorTutelas30032020\GestorTut
 Z:\Proyectos\corteSuprema\Radicado Tutelas Corte\GestorTutelas30032020\GestorTutelas.webApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 Z:\Proyectos\corteSuprema\Radicado Tutelas Corte\GestorTutelas30032020\GestorTutelas.webApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 Z:\Proyectos\corteSuprema\Radicado Tutelas Corte\GestorTutelas30032020\GestorTutelas.webApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-Z:\Proyectos\corteSuprema\Radicado Tutelas Corte\GestorTutelas30032020\GestorTutelas.webApi\obj\Debug\netcoreapp3.1\GestorTutelas.webApi.csprojAssemblyReference.cache
 Z:\Proyectos\corteSuprema\Radicado Tutelas Corte\GestorTutelas30032020\GestorTutelas.webApi\obj\Debug\netcoreapp3.1\GestorTutelas.webApi.csproj.CoreCompileInputs.cache
 Z:\Proyectos\corteSuprema\Radicado Tutelas Corte\GestorTutelas30032020\GestorTutelas.webApi\obj\Debug\netcoreapp3.1\GestorTutelas.webApi.MvcApplicationPartsAssemblyInfo.cs
 Z:\Proyectos\corteSuprema\Radicado Tutelas Corte\GestorTutelas30032020\GestorTutelas.webApi\obj\Debug\netcoreapp3.1\GestorTutelas.webApi.MvcApplicationPartsAssemblyInfo.cache
@@ -50,3 +49,4 @@ Z:\Proyectos\corteSuprema\Radicado Tutelas Corte\GestorTutelas30032020\GestorTut
 Z:\Proyectos\corteSuprema\Radicado Tutelas Corte\GestorTutelas30032020\GestorTutelas.webApi\bin\Debug\netcoreapp3.1\Npgsql.dll
 Z:\Proyectos\corteSuprema\Radicado Tutelas Corte\GestorTutelas30032020\GestorTutelas.webApi\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 Z:\Proyectos\corteSuprema\Radicado Tutelas Corte\GestorTutelas30032020\GestorTutelas.webApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+Z:\Proyectos\corteSuprema\Radicado Tutelas Corte\GestorTutelas30032020\GestorTutelas.webApi\obj\Debug\netcoreapp3.1\GestorTutelas.webApi.csprojAssemblyReference.cache

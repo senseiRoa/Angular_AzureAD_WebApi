@@ -1,50 +1,46 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
-using GestorTutelas.webApi.DBContext;
 using GestorTutelas.webApi.DBContext.Entity;
-using GestorTutelas.webApi.Helper;
-using GestorTutelas.webApi.model;
+using GestorTutelas.webApi.DBContext.Repository.Implementations;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 /*
 ejemplo tomado de :https://dottutorials.net/dotnet-core-web-api-multipart-form-data-upload-file/
 */
 namespace GestorTutelas.webApi.Controllers
 {
     [ApiController]
+    [Authorize]
     [Route("[controller]")]
     public class UsuarioController : ControllerBase
     {
+        private UsuarioRepository usuarioRepository;
 
-        private ApiDbContext context;
-
-        public UsuarioController(ApiDbContext context)
+        public UsuarioController(UsuarioRepository usuarioRepository)
         {
-            this.context = context;
+            this.usuarioRepository = usuarioRepository;
         }
 
         [HttpGet]
-        [AllowAnonymous]
+        
         public ActionResult Get()
         {
             // Getting Name
-            var rta = this.context.Usuarios.ToList();
+            var rta = this.usuarioRepository.GetAll();
             return Ok(new { status = true, message = rta });
 
 
         }
 
         [HttpPost]
-        [AllowAnonymous]
-        public ActionResult Post(Usuario usuario)
+        
+        public ActionResult Post(UsuarioEntity usuario)
         {
             // Getting Name
-            this.context.Add(usuario);
-            var rta = this.context.SaveChanges();
+            var rta = this.usuarioRepository.Insert(usuario);
+            // this.context.Add(usuario);
+            // var rta = this.context.SaveChanges();
             return Ok(new { status = true, message = rta });
 
 

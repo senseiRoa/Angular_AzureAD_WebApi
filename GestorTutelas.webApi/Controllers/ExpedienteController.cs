@@ -15,7 +15,7 @@ namespace GestorTutelas.webApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class PublicController : ControllerBase
+    public class ExpedienteController : ControllerBase
     {
 
 
