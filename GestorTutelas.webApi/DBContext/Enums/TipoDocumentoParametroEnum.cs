@@ -5,12 +5,10 @@ using System.Threading.Tasks;
 
 namespace GestorTutelas.webApi.DBContext.Enums
 {
-    public enum CategoriaParametroEnum
+    public enum TipoDocumentoParametroEnum
     {
-        Especialidad = 1,
-        DerechoFundamental,
-        EstadoExpediente,
-        TipoArchivo,
-        TipoDocumento
+        Nit = 1,
+        CC,
+        CE        
     }
 }

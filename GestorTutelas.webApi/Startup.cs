@@ -46,6 +46,16 @@ namespace GestorTutelas.webApi
             services.AddDbContext<ApiDbContext>(options => options.UseNpgsql(conectionStringPostgres));
 
 
+            services.AddScoped<ArchivoExpedienteRepository>();
+            services.AddScoped<DepartamentoRepository>();
+            services.AddScoped<ExpedienteDigitalRepository>();
+            services.AddScoped<MunicipioRepository>();
+            services.AddScoped<ParametroRepository>();
+            services.AddScoped<PersonaRepository>();
+            services.AddScoped<PersonaRolRepository>();
+            services.AddScoped<PersonasExpedienteRepository>();
+            services.AddScoped<ProcesoExpedienteRepository>();
+            services.AddScoped<RolRepository>();
             services.AddScoped<UsuarioRepository>();
             //singleton
             // services.AddSingleton<IUsuarioRepository, UsuarioRepository>();
@@ -85,7 +95,12 @@ namespace GestorTutelas.webApi
             // {
             //     endpoints.MapControllers();
             // });
-            app.UseMvc();
+            app.UseMvc(routes=>{
+                routes.MapRoute(
+                    name:"default",
+                    template:"{controller=Home}/{action=Index}/{id?}"
+                    );
+            });
         }
     }
 }

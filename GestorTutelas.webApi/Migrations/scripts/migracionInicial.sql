@@ -58,7 +58,7 @@ CREATE TABLE "Persona" (
     id uuid NOT NULL DEFAULT (uuid_generate_v4()),
     "Nombres" text NULL,
     "Apellidos" text NULL,
-    "TipoDocumento" text NULL,
+    "TipoDocumento" integer NOT NULL,
     "Documento" text NULL,
     "Direccion" text NULL,
     "Telefono" text NULL,
@@ -135,5 +135,5 @@ CREATE INDEX "IX_ProcesoExpediente_idExpediente" ON "ProcesoExpediente" ("idExpe
 CREATE INDEX "IX_ProcesoExpediente_idPersonaRol" ON "ProcesoExpediente" ("idPersonaRol");
 
 INSERT INTO "__EFMigrationsHistory" ("MigrationId", "ProductVersion")
-VALUES ('20200410163705_InitialCreate', '3.1.3');
+VALUES ('20200411032110_InitialCreate', '3.1.3');
 

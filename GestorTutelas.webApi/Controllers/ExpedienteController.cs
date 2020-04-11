@@ -14,7 +14,7 @@ ejemplo tomado de :https://dottutorials.net/dotnet-core-web-api-multipart-form-d
 namespace GestorTutelas.webApi.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class ExpedienteController : ControllerBase
     {
 

@@ -1,9 +1,8 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using GestorTutelas.webApi.DBContext.Enums;
 using GestorTutelas.webApi.DBContext.Infraestructure;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace GestorTutelas.webApi.DBContext.Entity
 {
@@ -14,7 +13,7 @@ namespace GestorTutelas.webApi.DBContext.Entity
 
         public string Nombres { get; set; }
         public string Apellidos { get; set; }
-        public string TipoDocumento { get; set; }
+        public TipoDocumentoParametroEnum TipoDocumento { get; set; }
         public string Documento { get; set; }
         public string Direccion { get; set; }
         public string Telefono { get; set; }

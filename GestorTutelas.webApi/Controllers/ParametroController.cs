@@ -1,4 +1,5 @@
-﻿using System;
+
+using System;
 using System.Collections.Generic;
 using System.IO;
 using GestorTutelas.webApi.DBContext.Entity;
@@ -10,13 +11,13 @@ namespace GestorTutelas.webApi.Controllers
     [ApiController]
     //[Authorize]
     [Route("api/[controller]")]
-    public class UsuarioController : ControllerBase
+    public class ParametroController : ControllerBase
     {
-        private UsuarioRepository _usuarioRepository;
+        private ParametroRepository _ParametroRepository;
 
-        public UsuarioController(UsuarioRepository usuarioRepository)
+        public ParametroController(ParametroRepository ParametroRepository)
         {
-            this._usuarioRepository = usuarioRepository;
+            this._ParametroRepository = ParametroRepository;
         }
 
         [HttpGet]
@@ -24,7 +25,7 @@ namespace GestorTutelas.webApi.Controllers
         {
             try
             {
-                var entityList = this._usuarioRepository.GetAll();
+                var entityList = this._ParametroRepository.GetAll();
                 return Ok(new { status = true, message = entityList });
             }
             catch (Exception ex)
@@ -41,7 +42,7 @@ namespace GestorTutelas.webApi.Controllers
         {
             try
             {
-                var entity = this._usuarioRepository.Get(id);
+                var entity = this._ParametroRepository.Get(id);
                 return Ok(new { status = true, message = entity });
             }
             catch (Exception ex)
@@ -53,12 +54,12 @@ namespace GestorTutelas.webApi.Controllers
         }
 
         [HttpPost]
-        public ActionResult Post(UsuarioEntity entity)
+        public ActionResult Post(ParametroEntity entity)
         {
             try
             {
                 entity.Id = Guid.NewGuid();
-                var response = this._usuarioRepository.Insert(entity);
+                var response = this._ParametroRepository.Insert(entity);
                 if (response)
                 {
                     return Ok(new { status = true, message = entity });
@@ -76,11 +77,11 @@ namespace GestorTutelas.webApi.Controllers
         }
 
         [HttpPut]
-        public ActionResult Put(UsuarioEntity entity)
+        public ActionResult Put(ParametroEntity entity)
         {
             try
             {
-                var response = this._usuarioRepository.Update(entity);
+                var response = this._ParametroRepository.Update(entity);
                 if (response)
                 {
                     return Ok(new { status = true, message = entity });
@@ -103,7 +104,7 @@ namespace GestorTutelas.webApi.Controllers
         {
             try
             {
-                var response = this._usuarioRepository.Delete(id);
+                var response = this._ParametroRepository.Delete(id);
                 return Ok(new { status = true, message = response });
             }
             catch (Exception ex)

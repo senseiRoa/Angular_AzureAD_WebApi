@@ -13,7 +13,7 @@ namespace GestorTutelas.webApi.DBContext.Infraestructure
         bool Update(T entity);
         bool Update(object id, T entity);
         bool DeleteEntity(T entity);
-        T GetById(object id);
+        T Get(object id);
         IQueryable<T> Table { get; }
         bool Delete(object id);
         bool SaveAll(List<T> list);

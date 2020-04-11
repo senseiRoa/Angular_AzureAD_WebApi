@@ -10,7 +10,7 @@ namespace GestorTutelas.webApi.DBContext.Repository.Implementations
     {
         private ApiDbContext _context;
 
-        //Add any additional repository methods other than the generic ones (GetAll, GetById, Delete, Add)
+        //Add any additional repository methods other than the generic ones (GetAll, Get, Delete, Add)
         public PersonasExpedienteRepository(ApiDbContext context) : base(context)
         {
            

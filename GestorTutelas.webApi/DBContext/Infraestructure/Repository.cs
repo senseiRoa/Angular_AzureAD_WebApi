@@ -7,13 +7,13 @@ using Microsoft.EntityFrameworkCore;
 
 namespace GestorTutelas.webApi.DBContext.Infraestructure
 {
-     public class Repository<T,TContext> : IRepository<T> where T : class where TContext: DbContext
+    public class Repository<T, TContext> : IRepository<T> where T : BaseEntity where TContext : DbContext
     {
         private readonly TContext context;
 
         public Repository(TContext context)
         {
-           this.context = context;
+            this.context = context;
         }
 
         public IQueryable<T> FindBy(Expression<Func<T, bool>> predicate)
@@ -24,22 +24,30 @@ namespace GestorTutelas.webApi.DBContext.Infraestructure
 
         public IQueryable<T> GetAll()
         {
-            return context.Set<T>();
+            return context.Set<T>().Where(i => i.fechaEliminacion == null); ;
         }
 
         public bool Insert(T entity)
         {
             try
             {
-                if (entity == null) return false;
+                if (entity == null)
+                {
+                    throw new ArgumentNullException("entity");
+                }
 
-                context.Entry(entity).State = EntityState.Added;
+                entity.fechaCreacion = DateTime.Now;
+                entity.fechaEliminacion = null;
+                entity.fechaEdicion = DateTime.Now;
+
+
+                context.Add(entity);
                 context.SaveChanges();
                 return true;
             }
             catch (Exception ex)
             {
-                throw;
+                throw ex;
             }
         }
 
@@ -47,7 +55,13 @@ namespace GestorTutelas.webApi.DBContext.Infraestructure
         {
             try
             {
-                if (entity == null) return false;
+                if (entity == null)
+                {
+                    throw new ArgumentNullException("entity");
+                }
+                entity.fechaEdicion = DateTime.Now;
+
+
 
                 context.Entry(entity).State = EntityState.Modified;
                 context.SaveChanges();
@@ -63,13 +77,25 @@ namespace GestorTutelas.webApi.DBContext.Infraestructure
         {
             try
             {
+                if (entity == null)
+                {
+                    throw new ArgumentNullException("entity");
+                }
+                entity.fechaEdicion = DateTime.Now;
+
                 var original = context.Set<T>().Find(id);
-                //if (original is Usuario)
-                //{
-                //    ((Usuario)entity).clave = ((Usuario)original).clave;
-                //}
-                context.Entry(original).CurrentValues.SetValues(entity);
-                context.SaveChanges();
+                var CreateDate = original.fechaCreacion;
+                var EraseDate = original.fechaEliminacion;
+
+                if (original != null)
+                {
+                    context.Entry(original).CurrentValues.SetValues(entity);
+
+                    original.fechaEliminacion = EraseDate;
+                    original.fechaCreacion = CreateDate;
+
+                    context.SaveChanges();
+                }
 
                 return true;
             }
@@ -89,18 +115,18 @@ namespace GestorTutelas.webApi.DBContext.Infraestructure
                 context.SaveChanges();
                 return true;
             }
-            
+
             catch (Exception ex)
             {
                 throw;
             }
         }
 
-        public T GetById(object id)
+        public T Get(object id)
         {
-            var entity = context.Set<T>().Find(id);           
+            var entity = context.Set<T>().Find(id);
 
-            return  entity;
+            return entity == null || (entity.fechaEliminacion == null) ? null : entity;
         }
 
         public IQueryable<T> Table => context.Set<T>();
@@ -109,11 +135,16 @@ namespace GestorTutelas.webApi.DBContext.Infraestructure
         {
             try
             {
-                var entity = GetById(id);
+                var entity = Get(id);
+                if (entity == null)
+                {
+                    throw new ArgumentNullException("entity");
+                }
 
-                
-                context.Entry(entity).State = EntityState.Deleted;
-                context.SaveChanges();
+
+                entity.fechaEliminacion = DateTime.Now;
+                this.context.Entry(entity).State = EntityState.Modified;
+                this.context.SaveChanges();
 
                 return true;
             }
@@ -127,6 +158,7 @@ namespace GestorTutelas.webApi.DBContext.Infraestructure
         {
             try
             {
+                list.ForEach(i => i.fechaCreacion = DateTime.Now);
                 context.Set<T>().AddRange(list);
                 context.SaveChanges();
                 return true;
@@ -143,6 +175,7 @@ namespace GestorTutelas.webApi.DBContext.Infraestructure
             {
                 list.ForEach(entity =>
                 {
+                    entity.fechaEdicion = DateTime.Now;
                     context.Entry(entity).State = EntityState.Modified;
                 });
 
@@ -157,5 +190,5 @@ namespace GestorTutelas.webApi.DBContext.Infraestructure
         }
     }
 
-   
+
 }

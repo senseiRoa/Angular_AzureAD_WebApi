@@ -49,4 +49,3 @@ Z:\Proyectos\corteSuprema\Radicado Tutelas Corte\GestorTutelas30032020\GestorTut
 Z:\Proyectos\corteSuprema\Radicado Tutelas Corte\GestorTutelas30032020\GestorTutelas.webApi\bin\Debug\netcoreapp3.1\Npgsql.dll
 Z:\Proyectos\corteSuprema\Radicado Tutelas Corte\GestorTutelas30032020\GestorTutelas.webApi\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 Z:\Proyectos\corteSuprema\Radicado Tutelas Corte\GestorTutelas30032020\GestorTutelas.webApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-Z:\Proyectos\corteSuprema\Radicado Tutelas Corte\GestorTutelas30032020\GestorTutelas.webApi\obj\Debug\netcoreapp3.1\GestorTutelas.webApi.csprojAssemblyReference.cache
