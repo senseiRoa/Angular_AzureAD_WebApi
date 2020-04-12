@@ -18,10 +18,11 @@ namespace GestorTutelas.webApi.DBContext.Entity
         public string Direccion { get; set; }
         public string Telefono { get; set; }
         public string Celular { get; set; }
+        public string CorreoElectronico { get; set; }
 
 
         [ForeignKey("MunicipioResidencia")]
-        public Int32 IdMunicipioResidencia { get; set; }
+        public Int32? IdMunicipioResidencia { get; set; }
         public virtual MunicipioEntity MunicipioResidencia { get; set; }
 
 

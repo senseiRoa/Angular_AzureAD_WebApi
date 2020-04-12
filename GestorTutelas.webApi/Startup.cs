@@ -15,6 +15,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
 using GestorTutelas.webApi.DBContext;
 using GestorTutelas.webApi.DBContext.Repository.Implementations;
+using GestorTutelas.webApi.Services;
 
 namespace GestorTutelas.webApi
 {
@@ -57,6 +58,7 @@ namespace GestorTutelas.webApi
             services.AddScoped<ProcesoExpedienteRepository>();
             services.AddScoped<RolRepository>();
             services.AddScoped<UsuarioRepository>();
+            services.AddScoped<ExpedienteService>();
             //singleton
             // services.AddSingleton<IUsuarioRepository, UsuarioRepository>();
 

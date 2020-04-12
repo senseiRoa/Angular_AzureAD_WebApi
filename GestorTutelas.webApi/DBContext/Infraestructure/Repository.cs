@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 using System.Linq;
 using System.Linq.Expressions;
+using GestorTutelas.webApi.DBContext.Enums;
 using Microsoft.EntityFrameworkCore;
 
 namespace GestorTutelas.webApi.DBContext.Infraestructure
@@ -39,7 +40,7 @@ namespace GestorTutelas.webApi.DBContext.Infraestructure
                 entity.fechaCreacion = DateTime.Now;
                 entity.fechaEliminacion = null;
                 entity.fechaEdicion = DateTime.Now;
-
+                
 
                 context.Add(entity);
                 context.SaveChanges();

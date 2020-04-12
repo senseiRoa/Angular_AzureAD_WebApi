@@ -16,6 +16,7 @@ namespace GestorTutelas.webApi.DBContext.Entity
         public EstadoExpedienteParametroEnum EstadoExpediente { get; set; }
         public DateTime FechaRadicado { get; set; }
         public string CodigoRadicado { get; set; }
+        public bool TerminosyCondiciones { get; set; }
 
         [ForeignKey("MunicipioRadicado")]
         public Int32 IdMunicipioRadicado { get; set; }

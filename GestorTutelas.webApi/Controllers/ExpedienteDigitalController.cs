@@ -6,6 +6,7 @@ using GestorTutelas.webApi.DBContext.Entity;
 using GestorTutelas.webApi.DBContext.Repository.Implementations;
 using GestorTutelas.webApi.Helper;
 using GestorTutelas.webApi.model;
+using GestorTutelas.webApi.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 namespace GestorTutelas.webApi.Controllers
@@ -17,20 +18,12 @@ namespace GestorTutelas.webApi.Controllers
     {
         private ExpedienteDigitalRepository _ExpedienteDigitalRepository;
 
-        private PersonaRepository _PersonaRepository;
-        private PersonaRolRepository _PersonaRolRepository;
-        private PersonasExpedienteRepository _PersonasExpedienteRepository;
+        private ExpedienteService _ExpedienteService;
 
-        public ExpedienteDigitalController(ExpedienteDigitalRepository expedienteDigitalRepository,
-            PersonaRepository personaRepository, PersonaRolRepository personaRolRepository,
-            PersonasExpedienteRepository personasExpedienteRepository
-
-            )
+        public ExpedienteDigitalController(ExpedienteDigitalRepository expedienteDigitalRepository, ExpedienteService expedienteService)
         {
             this._ExpedienteDigitalRepository = expedienteDigitalRepository;
-            _PersonaRepository = personaRepository;
-            _PersonaRolRepository = personaRolRepository;
-            _PersonasExpedienteRepository = personasExpedienteRepository;
+            this._ExpedienteService = expedienteService;
         }
 
         [HttpGet]
@@ -68,11 +61,11 @@ namespace GestorTutelas.webApi.Controllers
         //     ejemplo tomado de :https://dottutorials.net/dotnet-core-web-api-multipart-form-data-upload-file/    
         [HttpPost]
         [AllowAnonymous]
-        public ActionResult PostFormData([FromForm]RegistroExpedienteModel registroExpendiente)
+        public ActionResult PostFormData([FromForm]RegistroExpedienteFormModel r)
         {
-            // Getting Name
-            string nombre = registroExpendiente.Nombre;
-            string capchaResponse = registroExpendiente.CapchaResponse;
+
+
+            string capchaResponse = r.CapchaResponse;
             string response = string.Empty;
             if (capchaResponse.Equals("3cac5401-95e3-4ea7-bfc4-cdc16a885d6b"))
             {
@@ -85,19 +78,7 @@ namespace GestorTutelas.webApi.Controllers
 
             if (Boolean.Parse(response))
             {
-                // Getting Image
-                var file_ = registroExpendiente.File_;
-                // Saving Image on Server
-                if (file_.Length > 0)
-                {
-                    var filePath = Path.Combine("C://uploads", file_.FileName);
-                    using (var fileStream = new FileStream(filePath, FileMode.Create))
-                    {
-                        file_.CopyTo(fileStream);
-                    }
-
-                    this._PersonaRepository.Insert(new PersonaEntity { Nombres = nombre, IdMunicipioResidencia = 1 });
-                }
+                this._ExpedienteService.guardarExpediente(r);
                 return Ok(new { status = true, message = "registro recibido Correctamente" });
             }
             else
