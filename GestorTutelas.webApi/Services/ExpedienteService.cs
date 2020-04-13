@@ -7,20 +7,23 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
+using static System.Net.WebRequestMethods;
 
 namespace GestorTutelas.webApi.Services
 {
     public class ExpedienteService
     {
-        private ApiDbContext ApiDbContext;
-        public ExpedienteService(ApiDbContext apiDbContext)
+        private ApiDbContext _ApiDbContext;
+        private IFileClient _fileClient;
+        public ExpedienteService(ApiDbContext apiDbContext, IFileClient fileClient)
         {
-            ApiDbContext = apiDbContext;
+            _ApiDbContext = apiDbContext;
+            _fileClient = fileClient;
         }
 
         public const string SISTEMA = "Sistema";
 
-        public bool guardarExpediente(RegistroExpedienteFormModel registroExpendienteFormModel)
+        public async Task<Boolean> guardarExpediente(RegistroExpedienteFormModel registroExpendienteFormModel)
         {
             var radicado = false;
             try
@@ -28,7 +31,7 @@ namespace GestorTutelas.webApi.Services
                 Dictionary<string, Guid> roles = new Dictionary<string, Guid>() {
                     { "Accionante", Guid.Parse("a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11") },
                     { "Accionado", Guid.Parse("a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a12" )},
-                    { "Involucrado", Guid.Parse("a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a13" )}
+                    { "Interviniente", Guid.Parse("a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a13" )}
                 };
 
                 // Getting Image
@@ -36,87 +39,125 @@ namespace GestorTutelas.webApi.Services
                 // Saving Image on Server
                 if (file_.Length > 0)
                 {
-                    var filePath = Path.Combine("C://uploads", file_.FileName);
-                    using (var fileStream = new FileStream(filePath, FileMode.Create))
+                    var r = registroExpendienteFormModel.registroExpediente();
+                    var fileName = $"{r.Especialidad.ToString()}_{r.DerechoFundamental.ToString()}_{file_.FileName}";
+                    string extension = Path.GetExtension(file_.FileName);
+                    var filestoreName = DateTime.Now.ToString("yyyy_MM_dd");
+                    
+                    var contentType = file_.ContentType;
+                    var tamanho = file_.Length / 1024;
+
+                    using (var fileStream = file_.OpenReadStream())
                     {
-                        file_.CopyTo(fileStream);
+                        await _fileClient.SaveFile(filestoreName, fileName, fileStream);
+
                     }
-                    try
+
+
+                    using (var transaction = this._ApiDbContext.Database.BeginTransaction())
                     {
-
-                        var r = registroExpendienteFormModel.registroExpediente();
-                        List<PersonaEntity> personas = new List<PersonaEntity>();
-
-                        //roles["accionante"]
-                        var accionante = getPersona(r.Accionante);
-                        PersonaEntity accionado = getPersona(r.Accionado);
-                        List<PersonaEntity> intervinientes = r.Intervinientes.Count > 0 ? r.Intervinientes.Select(i => getPersona(i)).ToList() : null;
-
-                        // guardar personas
-
-                        // crear personas rol
-                        var intervinientesRol = new List<PersonaRolEntity>();
-                        if (intervinientes != null)
+                        try
                         {
-                             intervinientesRol = intervinientes.Select(i => getPersonaRol(roles["Intervinientes"], i.Id)).ToList();
+                           
+                            List<PersonaEntity> personas = new List<PersonaEntity>();
+
+
+                            var accionante = getPersona(r.Accionante);
+                            PersonaEntity accionado = getPersona(r.Accionado);
+                            List<PersonaEntity> intervinientes = r.Intervinientes != null && r.Intervinientes.Count > 0 ? r.Intervinientes.Select(i => getPersona(i)).ToList() : null;
+                            this._ApiDbContext.Add(accionante);
+                            this._ApiDbContext.Add(accionado);
+                            if (intervinientes != null)
+                            {
+                                this._ApiDbContext.AddRange(intervinientes);
+                            }
+                            this._ApiDbContext.SaveChanges();
+
+
+                            // crear personas rol
+                            var intervinientesRol = new List<PersonaRolEntity>();
+                            if (intervinientes != null)
+                            {
+                                intervinientesRol = intervinientes.Select(i => getPersonaRol(roles["Interviniente"], i.Id)).ToList();
+                            }
+
+                            intervinientesRol.Add(getPersonaRol(roles["Accionante"], accionante.Id));
+                            intervinientesRol.Add(getPersonaRol(roles["Accionado"], accionado.Id));
+                            this._ApiDbContext.AddRange(intervinientesRol);
+                            this._ApiDbContext.SaveChanges();
+
+                            // creo expediente
+                            var expediente = new ExpedienteDigitalEntity()
+                            {
+                                Id = Guid.NewGuid(),
+                                DerechoFundamental = r.DerechoFundamental,
+                                Especialidad = r.Especialidad,
+                                EstadoExpediente = EstadoExpedienteParametroEnum.SinAsignar,
+                                CodigoRadicado = "pendiente por definir",
+                                Estado = EstadoRegistroEnum.Activo,
+                                fechaCreacion = DateTime.Now,
+                                fechaEdicion = DateTime.Now,
+                                FechaRadicado = DateTime.Now,
+                                IdMunicipioRadicado = r.IdMunicipioRadicado,
+                                UsuarioCrea = SISTEMA,
+                                usuarioModifica = string.Empty,
+                                TerminosyCondiciones = r.TerminosyCondiciones
+
+                            };
+                            this._ApiDbContext.Add(expediente);
+                            this._ApiDbContext.SaveChanges();
+
+                            // crear personas expediente
+
+                            var personasExpediente = intervinientesRol.Select(i => new PersonasExpedienteEntity()
+                            {
+                                Id = Guid.NewGuid(),
+                                idPersonaRol = i.Id,
+                                idExpediente = expediente.Id,
+                                Estado = EstadoRegistroEnum.Activo,
+                                UsuarioCrea = SISTEMA,
+                                usuarioModifica = string.Empty,
+                                fechaCreacion = DateTime.Now,
+                                fechaEdicion = DateTime.Now
+                            }).ToList();
+                            this._ApiDbContext.AddRange(personasExpediente);
+                            this._ApiDbContext.SaveChanges();
+
+                            //actualizar archivo expediente
+                          var  archivoExpediente = new ArchivoExpedienteEntity()
+                            {
+
+                                Id = Guid.NewGuid(),
+                                ruta = Path.Combine(filestoreName, fileName),
+                                formato = contentType,
+                                tamanho = tamanho + "",
+                                hash = "",
+                                nombreCargado = file_.FileName,
+                                nombreAsignado = fileName,
+                                TipoArchivo = TipoArchivoParametroEnum.CargadoCiudadano,
+                                Estado = EstadoRegistroEnum.Activo,
+                                UsuarioCrea = SISTEMA,
+                                usuarioModifica = string.Empty,
+                                fechaCreacion = DateTime.Now,
+                                fechaEdicion = DateTime.Now
+                            };
+                            archivoExpediente.idExpediente = expediente.Id;
+                            this._ApiDbContext.Add(archivoExpediente);
+                            this._ApiDbContext.SaveChanges();
+                                                       
+
+                            //commit transaction
+                            radicado = true;
+                            transaction.Commit();
+
                         }
-                        
-                        intervinientesRol.Add(getPersonaRol(roles["Accionante"], accionante.Id));
-                        intervinientesRol.Add(getPersonaRol(roles["Accionado"], accionado.Id));
-                        //guardar personasRol
-
-                        // creo expediente
-                        var expediente = new ExpedienteDigitalEntity()
+                        catch (Exception ex)
                         {
-                            Id = Guid.NewGuid(),
-                            DerechoFundamental = r.DerechoFundamental,
-                            Especialidad = r.Especialidad,
-                            EstadoExpediente = EstadoExpedienteParametroEnum.SinAsignar,
-                            CodigoRadicado = "pendiente por definir",
-                            Estado = EstadoRegistroEnum.Activo,
-                            fechaCreacion = DateTime.Now,
-                            fechaEdicion = DateTime.Now,
-                            FechaRadicado = DateTime.Now,
-                            IdMunicipioRadicado = r.IdMunicipioRadicado,
-                            UsuarioCrea = SISTEMA,
-                            usuarioModifica = string.Empty
-
-                        };
-                        //guardar expediente
-
-                        // crear proceso expediente
-
-                        var personasExpediente = intervinientesRol.Select(i => new PersonasExpedienteEntity()
-                        {
-                            Id = Guid.NewGuid(),
-                            idPersonaRol = i.Id,
-                            idExpediente = expediente.Id,
-                            Estado = EstadoRegistroEnum.Activo,
-                            UsuarioCrea = SISTEMA,
-                            usuarioModifica = string.Empty,
-                            fechaCreacion = DateTime.Now,
-                            fechaEdicion = DateTime.Now
-                        }).ToList();
-
-                        //guardar personas expediente
-
-                        //crear archivo expediente
-
-                        //guardar archivo expediente
-
-                        //commit transaction
-                        radicado = true;
+                            transaction.Rollback();
+                            throw new Exception("hubo un error guardando el Expediente Digital=>"+ex.Message);
+                        }
                     }
-                    catch (Exception)
-                    {
-
-                        //rollback transaction
-                    }
-
-                    //  this._PersonaRepository.Insert(new PersonaEntity { Nombres = nombre, IdMunicipioResidencia = 1 });
                 }
-
-
 
             }
             catch (Exception ex)

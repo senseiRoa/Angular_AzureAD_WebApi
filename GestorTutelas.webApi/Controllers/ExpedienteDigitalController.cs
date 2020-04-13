@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Threading.Tasks;
 using GestorTutelas.webApi.DBContext.Entity;
 using GestorTutelas.webApi.DBContext.Repository.Implementations;
 using GestorTutelas.webApi.Helper;
@@ -61,7 +62,7 @@ namespace GestorTutelas.webApi.Controllers
         //     ejemplo tomado de :https://dottutorials.net/dotnet-core-web-api-multipart-form-data-upload-file/    
         [HttpPost]
         [AllowAnonymous]
-        public ActionResult PostFormData([FromForm]RegistroExpedienteFormModel r)
+        public async Task<ActionResult> PostFormData([FromForm]RegistroExpedienteFormModel r)
         {
 
 
@@ -78,8 +79,8 @@ namespace GestorTutelas.webApi.Controllers
 
             if (Boolean.Parse(response))
             {
-                this._ExpedienteService.guardarExpediente(r);
-                return Ok(new { status = true, message = "registro recibido Correctamente" });
+                var result=await this._ExpedienteService.guardarExpediente(r);
+                return Ok(new { status = result, message = "registro recibido Correctamente" });
             }
             else
             {

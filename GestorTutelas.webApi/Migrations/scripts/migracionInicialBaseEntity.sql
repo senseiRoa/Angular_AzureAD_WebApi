@@ -83,6 +83,25 @@ ALTER TABLE "Persona" ADD "fechaEliminacion" timestamp without time zone NULL;
 
 ALTER TABLE "Persona" ADD "usuarioModifica" text NULL;
 
+
+
+
+ALTER TABLE "Parametro" ADD "Estado" integer NOT NULL DEFAULT 0;
+
+ALTER TABLE "Parametro" ADD "UsuarioCrea" text NULL;
+
+ALTER TABLE "Parametro" ADD "UsuarioElimina" text NULL;
+
+ALTER TABLE "Parametro" ADD "fechaCreacion" timestamp without time zone NOT NULL DEFAULT TIMESTAMP '0001-01-01 00:00:00';
+
+ALTER TABLE "Parametro" ADD "fechaEdicion" timestamp without time zone NOT NULL DEFAULT TIMESTAMP '0001-01-01 00:00:00';
+
+ALTER TABLE "Parametro" ADD "fechaEliminacion" timestamp without time zone NULL;
+
+ALTER TABLE "Parametro" ADD "usuarioModifica" text NULL;
+
+
+
 ALTER TABLE "Municipio" ADD "Estado" integer NOT NULL DEFAULT 0;
 
 ALTER TABLE "Municipio" ADD "UsuarioCrea" text NULL;

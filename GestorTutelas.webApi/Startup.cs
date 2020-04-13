@@ -59,6 +59,11 @@ namespace GestorTutelas.webApi
             services.AddScoped<RolRepository>();
             services.AddScoped<UsuarioRepository>();
             services.AddScoped<ExpedienteService>();
+
+            services.AddScoped<IFileClient, LocalFileClient>(client => {
+                var fileRoot = Configuration.GetValue<string>("fileRoot");
+                return new LocalFileClient(fileRoot);
+            });
             //singleton
             // services.AddSingleton<IUsuarioRepository, UsuarioRepository>();
 

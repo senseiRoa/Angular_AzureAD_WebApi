@@ -51,8 +51,12 @@ namespace GestorTutelas.webApi.Services
 
         public async Task SaveFile(string storeName, string filePath, Stream fileStream)
         {
-            var path = Path.Combine(_fileRoot, storeName, filePath);
-
+            var fileDirectory= Path.Combine(_fileRoot, storeName); 
+            if (!Directory.Exists(fileDirectory))
+            {
+                Directory.CreateDirectory(fileDirectory);
+            }
+            var path = Path.Combine(fileDirectory, filePath);
             if (File.Exists(path))
             {
                 File.Delete(path);

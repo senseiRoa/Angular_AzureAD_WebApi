@@ -36,9 +36,10 @@ public class RegistroExpedienteModel
     public DerechoFundamentalParametroEnum DerechoFundamental { get; set; }
     public EspecialidadParametroEnum Especialidad { get; set; }    
     public Int32 IdMunicipioRadicado { get; set; }
+        public Boolean TerminosyCondiciones { get; set; }
 
 
-}
+    }
 
 public class PersonaExpedienteModel
 {
