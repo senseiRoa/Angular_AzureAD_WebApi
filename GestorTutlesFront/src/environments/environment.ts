@@ -5,11 +5,11 @@
 export const environment = {
   production: false,
   redirectUrl: 'http://localhost:4200/Recursos',
-  clientId: 'fd151c8f-ed96-4326-83d4-e1a695b65c7b',
-  clientIdAPI: 'api://f7d3f188-c7a0-4f57-b9f8-58236581691d/api-access',
-  authority: 'https://login.microsoftonline.com/c726ab66-2de1-49a1-8989-c31b7faf90a3',
+  clientId: 'd3127a6a-136f-4f9e-946c-c6151ed297f3',
+  clientIdAPI: 'api://0ddb5b33-3b13-4402-b0e0-048bd1028ed1/api-access',
+  authority: 'https://login.microsoftonline.com/622cba98-80f8-41f3-8df5-8eb99901598b',
 
   aadUserReadScope: 'user.read',
-  apiBaseUrl: 'https://localhost:5001/WeatherForecast',
-  apiUrl: "https://localhost:5001/",
+  apiBaseUrl: 'https://localhost:5001/',
+  apiUrl: 'https://localhost:5001/',
 };

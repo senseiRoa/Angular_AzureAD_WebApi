@@ -33,9 +33,11 @@ import { StepsModule } from 'primeng/steps';
 import { ButtonModule } from 'primeng/components/button/button';
 import { DropdownModule } from 'primeng/dropdown';
 import { InputTextareaModule } from 'primeng/inputtextarea';
+import {InputTextModule} from 'primeng/inputtext';
 import { CaptchaModule } from 'primeng/captcha';
 import { FileUploadModule } from 'primeng/fileupload';
 import { DemoPublicService } from 'src/service/DemoPublic.service';
+import { PersonaFormComponent } from './component/formulario-publico/persona-form/persona-form.component';
 
 
 
@@ -57,6 +59,7 @@ function MSALAngularConfigFactory(): MsalAngularConfiguration {
     AppTopBarComponent,
     AppMenuComponent,
     FormularioPublicoComponent,
+    PersonaFormComponent,
 
 
   ],
@@ -86,6 +89,7 @@ function MSALAngularConfigFactory(): MsalAngularConfiguration {
     ButtonModule,
     DropdownModule,
     InputTextareaModule,
+    InputTextModule,
     FileUploadModule,
     CaptchaModule
 

@@ -1,0 +1,260 @@
+<div class="ui-g" [formGroup]="parentForm">
+  <ng-container *ngIf="AccionanteForm==true; else otroForm">
+
+    <div class="ui-g-12">
+      <div class="ui-g-12 ui-md-6 ui-lg-6">
+        <label for="ddlTipoDoc"><b>Tipo de Documento</b>*</label><br>
+        <p-dropdown name="ddlTipoDoc" formControlName="tipoDoc" [options]="tipoDocsAux" [(ngModel)]="entity.tipoDocAux"
+          filter="true" [showClear]="true" placeholder="Seleccione un tipo de documento" (onChange)="onChangeTD()"
+          [style]="{ width: '100%' }">
+        </p-dropdown>
+
+        <!-- campo de validacion -->
+
+        <div class="ui-g-12" *ngIf="f.tipoDoc.errors && parentForm.get('tipoDoc').touched">
+          <p-message *ngIf="f.tipoDoc.errors.required" severity="error" text="El campo es requerido">
+          </p-message>
+        </div>
+        <!-- fin campo de validacion -->
+      </div>
+      <div class="ui-g-12 ui-md-6 ui-lg-6">
+        <label for="txtDocumento"><b>Documento</b>*</label><br>
+        <input type="text" formControlName="documento" [(ngModel)]="entity.Documento" style="width: 100%;"
+          placeholder="Documento" pInputText name="txtDocumento" />
+
+        <!-- campo de validacion -->
+
+        <div class="ui-g-12" *ngIf="f.documento.errors && parentForm.get('documento').touched">
+          <p-message *ngIf="f.documento.errors.required" severity="error" text="El campo es requerido">
+          </p-message>
+        </div>
+        <!-- fin campo de validacion -->
+      </div>
+    </div>
+
+    <div class="ui-g-12">
+      <ng-container *ngIf="razonSocial===false;else nitTemplate">
+        <div class="ui-g-12 ui-md-6 ui-lg-6">
+          <label for="txtNombres"><b>Nombres</b>*</label><br>
+          <input type="text" formControlName="nombres" [(ngModel)]="entity.Nombres" style="width: 100%;"
+            placeholder="Nombres" pInputText name="txtNombres" />
+
+          <!-- campo de validacion -->
+
+          <div class="ui-g-12" *ngIf="f.nombres.errors && parentForm.get('nombres').touched">
+            <p-message *ngIf="f.nombres.errors.required" severity="error" text="El campo es requerido">
+            </p-message>
+          </div>
+          <!-- fin campo de validacion -->
+        </div>
+        <div class="ui-g-12 ui-md-6 ui-lg-6">
+          <label for="txtApellidos"><b>Apellidos</b></label><br>
+          <input type="text" formControlName="apellidos" [(ngModel)]="entity.Apellidos" style="width: 100%;"
+            placeholder="Apellidos" pInputText name="txtApellidos" />
+
+          <!-- campo de validacion -->
+
+          <div class="ui-g-12" *ngIf="f.apellidos.errors && parentForm.get('apellidos').touched">
+            <p-message *ngIf="f.apellidos.errors.required" severity="error" text="El campo es requerido">
+            </p-message>
+          </div>
+          <!-- fin campo de validacion -->
+        </div>
+      </ng-container>
+
+      <ng-template #nitTemplate>
+        <div class="ui-g-12">
+          <label for="txtNombres"><b>Razon Social</b>*</label><br>
+          <input type="text" formControlName="nombres" [(ngModel)]="entity.Nombres" style="width: 100%;" pInputText
+            name="txtNombres" />
+
+          <!-- campo de validacion -->
+
+          <div class="ui-g-12" *ngIf="f.nombres.errors && parentForm.get('nombres').touched">
+            <p-message *ngIf="f.nombres.errors.required" severity="error" text="El campo es requerido">
+            </p-message>
+          </div>
+          <!-- fin campo de validacion -->
+        </div>
+      </ng-template>
+
+
+
+    </div>
+
+    <div class="ui-g-12">
+      <div class="ui-g-12 ui-md-6 ui-lg-6">
+        <label for="txtCorreo"><b>Correo</b>*</label>
+        <input type="text" [(ngModel)]="entity.CorreoElectronico" formControlName="correoElectronico"
+          style="width: 100%;" placeholder="correo Eléctronico" pInputText name="txtCorreo" />
+        <!-- campo de validacion -->
+
+        <div class="ui-g-12" *ngIf="f.correoElectronico.errors && parentForm.get('correoElectronico').touched">
+          <p-message *ngIf="f.correoElectronico.errors.required" severity="error" text="El campo es requerido">
+          </p-message>
+          <p-message *ngIf="f.correoElectronico.errors.pattern" severity="error"
+            text="El correo no tiene el formato solicitado">
+          </p-message>
+        </div>
+
+        <!-- fin campo de validacion -->
+      </div>
+      <div class="ui-g-12 ui-md-6 ui-lg-6">
+        <label for="txtdireccion"><b>Dirección</b>*</label><br>
+        <input type="text" formControlName="direccion" [(ngModel)]="entity.Direccion" style="width: 100%;"
+          placeholder="dirección" pInputText name="txtdireccion" />
+
+        <!-- campo de validacion -->
+
+        <div class="ui-g-12" *ngIf="f.direccion.errors && parentForm.get('direccion').touched">
+          <p-message *ngIf="f.direccion.errors.required" severity="error" text="El campo es requerido">
+          </p-message>
+        </div>
+        <!-- fin campo de validacion -->
+      </div>
+    </div>
+    <div class="ui-g-12">
+      <div class="ui-g-12 ui-md-6 ui-lg-6">
+        <label for="txtTelefono"><b>Telefono</b>*</label><br>
+        <input type="text" formControlName="telefono" [(ngModel)]="entity.Telefono" style="width: 100%;"
+          placeholder="Telefono" pInputText name="txtTelefono" />
+
+        <!-- campo de validacion -->
+
+        <div class="ui-g-12" *ngIf="f.telefono.errors && parentForm.get('telefono').touched">
+          <p-message *ngIf="f.telefono.errors.required" severity="error" text="El campo es requerido">
+          </p-message>
+        </div>
+        <!-- fin campo de validacion -->
+      </div>
+      <div class="ui-g-12 ui-md-6 ui-lg-6">
+        <label for="txtCelular"><b>Celular</b>*</label><br>
+        <input type="text" formControlName="celular" [(ngModel)]="entity.Celular" style="width: 100%;"
+          placeholder="celular" pInputText name="txtCelular" />
+
+        <!-- campo de validacion -->
+
+        <div class="ui-g-12" *ngIf="f.celular.errors && parentForm.get('celular').touched">
+          <p-message *ngIf="f.celular.errors.required" severity="error" text="El campo es requerido">
+          </p-message>
+        </div>
+        <!-- fin campo de validacion -->
+      </div>
+    </div>
+    <div class="ui-g-12">
+      <div class="ui-g-12 ui-md-6 ui-lg-6">
+        <label for="ddldepartamento"><b>Departamento de ubicación</b>*</label>
+        <p-dropdown name="ddldepartamento" formControlName="departamento" [options]="departamentosAux"
+          [(ngModel)]="entity.DepartamentoAux" (onChange)="depChange()" filter="true" [showClear]="true"
+          placeholder="Seleccione un departamento" [style]="{ width: '100%' }">
+        </p-dropdown>
+
+        <!-- campo de validacion -->
+
+        <div class="ui-g-12" *ngIf="f.departamento.errors && parentForm.get('departamento').touched">
+          <p-message *ngIf="f.departamento.errors.required" severity="error" text="El campo es requerido">
+          </p-message>
+        </div>
+        <!-- fin campo de validacion -->
+      </div>
+      <div class="ui-g-12 ui-md-6 ui-lg-6">
+        <label for="ddlMunicipio"><b>Municipio de ubicación</b>*</label>
+        <p-dropdown name="ddlMunicipio" formControlName="municipio" [options]="municipiosAux"
+          [(ngModel)]="entity.MunicipioAux" filter="true" [showClear]="true" (onChange)='munChange()'
+          placeholder="Seleccione un municipio" [style]="{ width: '100%' }">
+        </p-dropdown>
+
+        <!-- campo de validacion -->
+
+        <div class="ui-g-12" *ngIf="f.municipio.errors && parentForm.get('municipio').touched">
+          <p-message *ngIf="f.municipio.errors.required" severity="error" text="El campo es requerido">
+          </p-message>
+        </div>
+        <!-- fin campo de validacion -->
+      </div>
+    </div>
+  </ng-container>
+  <ng-template #otroForm>
+    <div class="ui-g-12">
+      <div class="ui-g-12 ui-md-6 ui-lg-3">
+        <label for="ddlTipoDoc"><b>Tipo de Documento</b>*</label>
+        <p-dropdown name="ddlTipoDoc" formControlName="tipoDoc" [options]="tipoDocsAux" [(ngModel)]="entity.tipoDocAux"
+          filter="true" [showClear]="true" placeholder="Seleccione un tipo de documento" (onChange)="onChangeTD()"
+          [style]="{ width: '100%' }">
+        </p-dropdown>
+
+        <!-- campo de validacion -->
+
+        <div class="ui-g-12" *ngIf="f.tipoDoc.errors && parentForm.get('tipoDoc').touched">
+          <p-message *ngIf="f.tipoDoc.errors.required" severity="error" text="El campo es requerido">
+          </p-message>
+        </div>
+        <!-- fin campo de validacion -->
+      </div>
+      <div class="ui-g-12 ui-md-6 ui-lg-3">
+        <label for="txtDocumento"><b>Documento</b>*</label><br>
+        <input type="text" formControlName="documento" [(ngModel)]="entity.Documento" style="width: 100%;"
+          placeholder="Documento" pInputText name="txtDocumento" />
+
+        <!-- campo de validacion -->
+
+        <div class="ui-g-12" *ngIf="f.documento.errors && parentForm.get('documento').touched">
+          <p-message *ngIf="f.documento.errors.required" severity="error" text="El campo es requerido">
+          </p-message>
+        </div>
+        <!-- fin campo de validacion -->
+      </div>
+
+
+      <ng-container *ngIf="razonSocial===false;else nitTemplate2">
+        <div class="ui-g-12 ui-md-6 ui-lg-3">
+          <label for="txtNombres"><b>Nombres</b>*</label><br>
+          <input type="text" formControlName="nombres" [(ngModel)]="entity.Nombres" style="width: 100%;"
+            placeholder="Nombres" pInputText name="txtNombres" />
+
+          <!-- campo de validacion -->
+
+          <div class="ui-g-12" *ngIf="f.nombres.errors && parentForm.get('nombres').touched">
+            <p-message *ngIf="f.nombres.errors.required" severity="error" text="El campo es requerido">
+            </p-message>
+          </div>
+          <!-- fin campo de validacion -->
+        </div>
+        <div class="ui-g-12 ui-md-6 ui-lg-3">
+          <label for="txtApellidos"><b>Apellidos</b></label><br>
+          <input type="text" formControlName="apellidos" [(ngModel)]="entity.Apellidos" style="width: 100%;"
+            placeholder="Apellidos" pInputText name="txtApellidos" />
+
+          <!-- campo de validacion -->
+
+          <div class="ui-g-12" *ngIf="f.apellidos.errors && parentForm.get('apellidos').touched">
+            <p-message *ngIf="f.apellidos.errors.required" severity="error" text="El campo es requerido">
+            </p-message>
+          </div>
+          <!-- fin campo de validacion -->
+        </div>
+      </ng-container>
+
+
+      <ng-template #nitTemplate2>
+        <div class="ui-g-6">
+          <label for="txtNombres"><b>Razon Social</b>*</label><br>
+          <input type="text" formControlName="nombres" [(ngModel)]="entity.Nombres" style="width: 100%;" pInputText
+            name="txtNombres" />
+
+          <!-- campo de validacion -->
+
+          <div class="ui-g-12" *ngIf="f.nombres.errors && parentForm.get('nombres').touched">
+            <p-message *ngIf="f.nombres.errors.required" severity="error" text="El campo es requerido">
+            </p-message>
+          </div>
+          <!-- fin campo de validacion -->
+        </div>
+      </ng-template>
+
+
+    </div>
+  </ng-template>
+
+
+</div>

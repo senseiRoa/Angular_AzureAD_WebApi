@@ -1,3 +1,4 @@
+# dotnet publish GestorTutelas.webApi.csproj -c Release -r linux-x64 -p:PublishSingleFile=True --self-contained True
 FROM mcr.microsoft.com/dotnet/core/sdk:2.2 AS build-env
 WORKDIR /app
 

@@ -1,3 +1,4 @@
+import { Message } from 'primeng/components/common/api';
 import { Component, OnInit } from '@angular/core';
 import { DemoService } from 'src/service/Demo.service';
 import { RootObject } from 'src/service/RootObject';
@@ -8,12 +9,12 @@ import { RootObject } from 'src/service/RootObject';
   styleUrls: ['./Login.component.css']
 })
 export class LoginComponent implements OnInit {
-  data: RootObject[];
+  data: any[];
   constructor(private demoService: DemoService) { }
 
   ngOnInit() {
     this.demoService.getPrivate().subscribe(r => {
-      this.data = r;
+      this.data = r.message;
     });
   }
 }

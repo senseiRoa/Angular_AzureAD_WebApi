@@ -94,8 +94,9 @@ export class StepsComponent implements OnInit, AfterContentInit, OnChanges {
     });
   }
 
-  private next() {
+  private next(event) {
     console.log('next');
+    console.log(event);
     this.activeIndex++;
     // emit currently selected index (two-way binding)
     //this.activeIndexChange.emit(this.activeIndex);

@@ -10,8 +10,8 @@ export class DemoService {
 
   constructor(private http: HttpClient) { }
 
-  getPrivate(): Observable<RootObject[]> {
-    return this.http.get<RootObject[]>(`https://localhost:5001/WeatherForecast`);
+  getPrivate(): Observable<any> {
+    return this.http.get<any>(`https://localhost:5001/api/Municipio`);
   }
 
 }

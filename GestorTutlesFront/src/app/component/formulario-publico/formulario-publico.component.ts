@@ -1,3 +1,4 @@
+import { RegistroExpedienteData, Persona } from './../../modelos/registro-expediente';
 
 import { EspecialidadService } from 'src/app/servicios/especialidad.service.ts';
 import { DerechoFundamentalService } from 'src/app/servicios/derechoFundamental.service';
@@ -5,7 +6,7 @@ import { filter } from 'rxjs/operators';
 
 import { Component, OnInit } from '@angular/core';
 import { Message, MessageService, MenuItem } from 'primeng/components/common/api';
-import { FormGroup, FormBuilder, Validators } from '@angular/forms';
+import { FormGroup, FormBuilder, Validators, FormArray } from '@angular/forms';
 import { RegistroExpediente } from 'src/app/modelos/registro-expediente';
 import { DepartamentoService } from 'src/app/servicios/departamento.service';
 import { MunicipioService } from 'src/app/servicios/municipio.service';
@@ -25,7 +26,7 @@ export class FormularioPublicoComponent implements OnInit {
   derechoFundamentalsAux: any;
   especialidadsAux: any;
   private uploadFile: File;
-
+  fileUploadName: string;
 
 
 
@@ -39,20 +40,20 @@ export class FormularioPublicoComponent implements OnInit {
   }
 
   ngOnInit() {
-    this.entity = {} as RegistroExpediente;
+    this.inicializarEntity();
     this.buildRectiveForm();
     this.cargarData();
   }
   async cargarData() {
     try {
       const dep = await this.departamentoService.getAllAsync();
-      this.departamentosAux = dep.map(i => ({ label: i.NOMDEPTO, value: i.CODDEPTO }));
+      this.departamentosAux = dep.map(i => ({ label: i.NOMDEPTO, value: i }));
 
       const derechoFund = await this.derechoFundamentalService.getAllAsync();
-      this.derechoFundamentalsAux = derechoFund.map(i => ({ label: i.value, value: i.id }));
+      this.derechoFundamentalsAux = derechoFund.map(i => ({ label: i.value, value: i }));
 
       const especialidad = await this.especialidadService.getAllAsync();
-      this.especialidadsAux = especialidad.map(i => ({ label: i.value, value: i.id }));
+      this.especialidadsAux = especialidad.map(i => ({ label: i.value, value: i }));
 
 
     } catch (error) {
@@ -69,8 +70,45 @@ export class FormularioPublicoComponent implements OnInit {
   buildRectiveForm() {
 
     this.formComponent = this.fb.group({
+
+      // tutela
+      derechoFundamental: ['', [Validators.required]],
+      especialidad: ['', [Validators.required]],
+      Accionante: this.fb.array([this.createItem()]),
+      // Accionante: this.fb.array([this.createItem()]),
+      Accionado: this.fb.array([this.createItem()]),
+      Intervinientes: this.fb.array([]),
+      file: ['', [Validators.required]],
+
+    });
+
+
+    this.formComponent.valueChanges.subscribe(newVal => {
+      // console.log(newVal);
+      console.log('formulario invalido:' + this.formComponent.invalid);
+    });
+  }
+
+  addItemInterviniente(): void {
+    const items = this.formComponent.get('Intervinientes') as FormArray;
+    items.push(this.createItem());
+    const p = {} as Persona;
+    this.entity.Data.Intervinientes.push(p);
+  }
+  deleteItemInterviniente(index): void {
+    const items = this.formComponent.get('Intervinientes') as FormArray;
+    items.removeAt(index);
+    this.entity.Data.Intervinientes.splice(index, 1);
+
+  }
+
+
+  createItem(): FormGroup {
+    return this.fb.group({
       nombres: ['', [Validators.required]],
       apellidos: ['', [Validators.required]],
+      tipoDoc: ['', [Validators.required]],
+      documento: ['', [Validators.required]],
       correoElectronico: ['', Validators.compose([
         Validators.required,
         Validators.pattern('[a-zA-Z0-9.-_]{1,}@[a-zA-Z.-]{2,}[.]{1}[a-zA-Z]{2,}')])],
@@ -78,17 +116,12 @@ export class FormularioPublicoComponent implements OnInit {
       telefono: ['', [Validators.required]],
       celular: ['', [Validators.required]],
       departamento: ['', [Validators.required]],
-      municipio: ['', [Validators.required]],
-      // tutela
-      derechoFundamental: ['', [Validators.required]],
-      especialidad: ['', [Validators.required]],
-      accionante: ['', [Validators.required]],
-      accionado: ['', [Validators.required]],
-      intervinientes: ['', [Validators.required]],
-
-
+      municipio: ['', [Validators.required]]
     });
   }
+
+
+
   get f() {
     return this.formComponent.controls;
   }
@@ -106,7 +139,7 @@ export class FormularioPublicoComponent implements OnInit {
     try {
       const mun = await this.municipioService.getAllAsync();
 
-      this.municipiosAux = mun.filter(i => i.CODDEPTO === this.entity.departamento)
+      this.municipiosAux = mun.filter(i => i.CODDEPTO === this.entity.Data.IdDepartamentoRadicado)
         .map(i => ({ label: i.NOMMUNICIP, value: i.CODMUNICIP }));
     } catch (error) {
       console.log(error);
@@ -124,7 +157,7 @@ export class FormularioPublicoComponent implements OnInit {
       const files = event.files;
       this.uploadFile = files[0];
       this.messageService.add({ severity: 'success', summary: 'Exito', detail: 'Preparando el archivo' });
-
+      this.entity.fileName = this.uploadFile.name;
     } catch (error) {
       console.log(error.message);
       this.messageService.add({ severity: 'error', summary: 'Error', detail: error.message });
@@ -135,17 +168,19 @@ export class FormularioPublicoComponent implements OnInit {
 
   onClear(event) {
     this.uploadFile = null;
+    this.entity.fileName = null;
     console.log(event);
   }
 
 
   async send(event) {
     try {
+
       const rta = await this.publicService.uploadFormDataAsync(this.uploadFile, this.entity);
 
       if (rta.status) {
         this.messageService.add({ severity: 'success', summary: 'Exito', detail: rta.message });
-        this.entity = {} as RegistroExpediente;
+        this.inicializarEntity();
         this.uploadFile = null;
         this.formComponent.reset();
         this.activeIndex = 0;
@@ -158,6 +193,13 @@ export class FormularioPublicoComponent implements OnInit {
       this.messageService.add({ severity: 'error', summary: 'Error', detail: 'Hubo un error guardando, intentelo de nuevo' });
     }
 
+  }
+  inicializarEntity() {
+    this.entity = {} as RegistroExpediente;
+    this.entity.Data = {} as RegistroExpedienteData;
+    this.entity.Data.Accionado = {} as Persona;
+    this.entity.Data.Accionante = {} as Persona;
+    this.entity.Data.Intervinientes = [];
   }
 
 

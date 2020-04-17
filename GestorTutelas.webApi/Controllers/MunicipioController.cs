@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace GestorTutelas.webApi.Controllers
 {
     [ApiController]
-    //[Authorize]
+    // [Authorize]
     [Route("api/[controller]")]
     public class MunicipioController : ControllerBase
     {

@@ -22,7 +22,7 @@ export class DemoPublicService {
   }
   uploadFormDataAsync(uploadFile: File, entity: RegistroExpediente) {
     const formData = new FormData();
-    formData.append('Nombre', entity.nombres);
+    formData.append('Data', JSON.stringify(entity.Data));
     formData.append('capchaResponse', entity.capchaResponse);
     formData.append('File_', uploadFile, uploadFile.name);
 
