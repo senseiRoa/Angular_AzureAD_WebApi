@@ -1,5302 +1,4002 @@
 [
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "002",
-    "NOMMUNICIP": "ABEJORRAL"
+    "id": 5002,
+    "Nombre": "Abejorral",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "004",
-    "NOMMUNICIP": "ABRIAQUI"
+    "id": 5004,
+    "Nombre": "Abriaquí",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "021",
-    "NOMMUNICIP": "ALEJANDRIA"
+    "id": 5021,
+    "Nombre": "Alejandría",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "030",
-    "NOMMUNICIP": "AMAGA"
+    "id": 5030,
+    "Nombre": "Amagá",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "031",
-    "NOMMUNICIP": "AMALFI"
+    "id": 5031,
+    "Nombre": "Amalfi",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "034",
-    "NOMMUNICIP": "ANDES"
+    "id": 5034,
+    "Nombre": "Andes",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "036",
-    "NOMMUNICIP": "ANGELOPOLIS"
+    "id": 5036,
+    "Nombre": "Angelópolis",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "038",
-    "NOMMUNICIP": "ANGOSTURA"
+    "id": 5038,
+    "Nombre": "Angostura",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "040",
-    "NOMMUNICIP": "ANORI"
+    "id": 5040,
+    "Nombre": "Anorí",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "044",
-    "NOMMUNICIP": "ANZA"
+    "id": 5044,
+    "Nombre": "Anza",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "045",
-    "NOMMUNICIP": "APARTADO"
+    "id": 5045,
+    "Nombre": "Apartadó",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "051",
-    "NOMMUNICIP": "ARBOLETES"
+    "id": 5051,
+    "Nombre": "Arboletes",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "055",
-    "NOMMUNICIP": "ARGELIA"
+    "id": 5055,
+    "Nombre": "Argelia",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "059",
-    "NOMMUNICIP": "ARMENIA"
+    "id": 5059,
+    "Nombre": "Armenia",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "079",
-    "NOMMUNICIP": "BARBOSA"
+    "id": 5079,
+    "Nombre": "Barbosa",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "088",
-    "NOMMUNICIP": "BELLO"
+    "id": 5088,
+    "Nombre": "Bello",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "086",
-    "NOMMUNICIP": "BELMIRA"
+    "id": 5086,
+    "Nombre": "Belmira",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "091",
-    "NOMMUNICIP": "BETANIA"
+    "id": 5091,
+    "Nombre": "Betania",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "093",
-    "NOMMUNICIP": "BETULIA"
+    "id": 5093,
+    "Nombre": "Betulia",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "101",
-    "NOMMUNICIP": "BOLIVAR"
+    "id": 5107,
+    "Nombre": "Briceño",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "107",
-    "NOMMUNICIP": "BRICEÑO"
+    "id": 5113,
+    "Nombre": "Buriticá",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "113",
-    "NOMMUNICIP": "BURITICA"
+    "id": 5120,
+    "Nombre": "Cáceres",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "120",
-    "NOMMUNICIP": "CACERES"
+    "id": 5125,
+    "Nombre": "Caicedo",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "125",
-    "NOMMUNICIP": "CAICEDO"
+    "id": 5129,
+    "Nombre": "Caldas",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "129",
-    "NOMMUNICIP": "CALDAS"
+    "id": 5134,
+    "Nombre": "Campamento",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "134",
-    "NOMMUNICIP": "CAMPAMENTO"
+    "id": 5138,
+    "Nombre": "Cañasgordas",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "138",
-    "NOMMUNICIP": "CAÑASGORDAS"
+    "id": 5142,
+    "Nombre": "Caracolí",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "142",
-    "NOMMUNICIP": "CARACOLI"
+    "id": 5145,
+    "Nombre": "Caramanta",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "145",
-    "NOMMUNICIP": "CARAMANTA"
+    "id": 5147,
+    "Nombre": "Carepa",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "147",
-    "NOMMUNICIP": "CAREPA"
+    "id": 5150,
+    "Nombre": "Carolina",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "148",
-    "NOMMUNICIP": "CARMEN DE VIBORAL"
+    "id": 5154,
+    "Nombre": "Caucasia",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "150",
-    "NOMMUNICIP": "CAROLINA"
+    "id": 5172,
+    "Nombre": "Chigorodó",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "154",
-    "NOMMUNICIP": "CAUCASIA"
+    "id": 5190,
+    "Nombre": "Cisneros",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "172",
-    "NOMMUNICIP": "CHIGORODO"
+    "id": 5101,
+    "Nombre": "Ciudad Bolívar",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "190",
-    "NOMMUNICIP": "CISNEROS"
+    "id": 5197,
+    "Nombre": "Cocorná",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "197",
-    "NOMMUNICIP": "COCORNA"
+    "id": 5206,
+    "Nombre": "Concepción",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "206",
-    "NOMMUNICIP": "CONCEPCION"
+    "id": 5209,
+    "Nombre": "Concordia",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "209",
-    "NOMMUNICIP": "CONCORDIA"
+    "id": 5212,
+    "Nombre": "Copacabana",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "212",
-    "NOMMUNICIP": "COPACABANA"
+    "id": 5234,
+    "Nombre": "Dabeiba",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "234",
-    "NOMMUNICIP": "DABEIBA"
+    "id": 5237,
+    "Nombre": "Don Matías",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "237",
-    "NOMMUNICIP": "DON MATIAS"
+    "id": 5240,
+    "Nombre": "Ebéjico",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "240",
-    "NOMMUNICIP": "EBEJICO"
+    "id": 5250,
+    "Nombre": "El Bagre",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "250",
-    "NOMMUNICIP": "EL BAGRE"
+    "id": 5697,
+    "Nombre": "El Santuario",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "697",
-    "NOMMUNICIP": "EL SANTUARIO"
+    "id": 5264,
+    "Nombre": "Entrerrios",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "264",
-    "NOMMUNICIP": "ENTRERRIOS"
+    "id": 5266,
+    "Nombre": "Envigado",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "266",
-    "NOMMUNICIP": "ENVIGADO"
+    "id": 5282,
+    "Nombre": "Fredonia",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "282",
-    "NOMMUNICIP": "FREDONIA"
+    "id": 5284,
+    "Nombre": "Frontino",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "284",
-    "NOMMUNICIP": "FRONTINO"
+    "id": 5306,
+    "Nombre": "Giraldo",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "306",
-    "NOMMUNICIP": "GIRALDO"
+    "id": 5308,
+    "Nombre": "Girardota",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "308",
-    "NOMMUNICIP": "GIRARDOTA"
+    "id": 5310,
+    "Nombre": "Gómez Plata",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "310",
-    "NOMMUNICIP": "GOMEZ PLATA"
+    "id": 5313,
+    "Nombre": "Granada",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "313",
-    "NOMMUNICIP": "GRANADA"
+    "id": 5315,
+    "Nombre": "Guadalupe",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "315",
-    "NOMMUNICIP": "GUADALUPE"
+    "id": 5318,
+    "Nombre": "Guarne",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "318",
-    "NOMMUNICIP": "GUARNE"
+    "id": 5321,
+    "Nombre": "Guatapé",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "321",
-    "NOMMUNICIP": "GUATAPE"
+    "id": 5347,
+    "Nombre": "Heliconia",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "347",
-    "NOMMUNICIP": "HELICONIA"
+    "id": 5353,
+    "Nombre": "Hispania",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "353",
-    "NOMMUNICIP": "HISPANIA"
+    "id": 5360,
+    "Nombre": "Itagui",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "360",
-    "NOMMUNICIP": "ITAGUI"
+    "id": 5361,
+    "Nombre": "Ituango",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "361",
-    "NOMMUNICIP": "ITUANGO"
+    "id": 5364,
+    "Nombre": "Jardín",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "364",
-    "NOMMUNICIP": "JARDIN"
+    "id": 5368,
+    "Nombre": "Jericó",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "368",
-    "NOMMUNICIP": "JERICO"
+    "id": 5376,
+    "Nombre": "La Ceja",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "376",
-    "NOMMUNICIP": "LA CEJA"
+    "id": 5380,
+    "Nombre": "La Estrella",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "380",
-    "NOMMUNICIP": "LA ESTRELLA"
+    "id": 5390,
+    "Nombre": "La Pintada",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "400",
-    "NOMMUNICIP": "LA UNION"
+    "id": 5400,
+    "Nombre": "La Unión",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "411",
-    "NOMMUNICIP": "LIBORINA"
+    "id": 5411,
+    "Nombre": "Liborina",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "425",
-    "NOMMUNICIP": "MACEO"
+    "id": 5425,
+    "Nombre": "Maceo",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "440",
-    "NOMMUNICIP": "MARINILLA"
+    "id": 5440,
+    "Nombre": "Marinilla",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "MEDELLÍN"
+    "id": 5001,
+    "Nombre": "Medellín",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "467",
-    "NOMMUNICIP": "MONTEBELLO"
+    "id": 5467,
+    "Nombre": "Montebello",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "475",
-    "NOMMUNICIP": "MURINDO"
+    "id": 5475,
+    "Nombre": "Murindó",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "480",
-    "NOMMUNICIP": "MUTATA"
+    "id": 5480,
+    "Nombre": "Mutatá",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "483",
-    "NOMMUNICIP": "NARIÑO"
+    "id": 5483,
+    "Nombre": "Nariño",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "495",
-    "NOMMUNICIP": "NECHI"
+    "id": 5495,
+    "Nombre": "Nechí",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "490",
-    "NOMMUNICIP": "NECOCLI"
+    "id": 5490,
+    "Nombre": "Necoclí",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "501",
-    "NOMMUNICIP": "OLAYA"
+    "id": 5501,
+    "Nombre": "Olaya",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "541",
-    "NOMMUNICIP": "PEÑOL"
+    "id": 5541,
+    "Nombre": "Peñol",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "543",
-    "NOMMUNICIP": "PEQUE"
+    "id": 5543,
+    "Nombre": "Peque",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "576",
-    "NOMMUNICIP": "PUEBLO RICO"
+    "id": 5576,
+    "Nombre": "Pueblorrico",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "579",
-    "NOMMUNICIP": "PUERTO BERRIO"
+    "id": 5579,
+    "Nombre": "Puerto Berrío",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "585",
-    "NOMMUNICIP": "PUERTO NARE"
+    "id": 5585,
+    "Nombre": "Puerto Nare",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "591",
-    "NOMMUNICIP": "PUERTO TRIUNFO"
+    "id": 5591,
+    "Nombre": "Puerto Triunfo",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "604",
-    "NOMMUNICIP": "REMEDIOS"
+    "id": 5604,
+    "Nombre": "Remedios",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "607",
-    "NOMMUNICIP": "RETIRO"
+    "id": 5607,
+    "Nombre": "Retiro",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "615",
-    "NOMMUNICIP": "RIO NEGRO"
+    "id": 5615,
+    "Nombre": "Rionegro",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "628",
-    "NOMMUNICIP": "SABANALARGA"
+    "id": 5628,
+    "Nombre": "Sabanalarga",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "631",
-    "NOMMUNICIP": "SABANETA"
+    "id": 5631,
+    "Nombre": "Sabaneta",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "642",
-    "NOMMUNICIP": "SALGAR"
+    "id": 5642,
+    "Nombre": "Salgar",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "647",
-    "NOMMUNICIP": "SAN ANDRES DE CUERQUIA"
+    "id": 5647,
+    "Nombre": "San Andrés de Cuerquía",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "649",
-    "NOMMUNICIP": "SAN CARLOS"
+    "id": 5652,
+    "Nombre": "San Francisco",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "652",
-    "NOMMUNICIP": "SAN FRANCISCO"
+    "id": 5656,
+    "Nombre": "San Jerónimo",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "656",
-    "NOMMUNICIP": "SAN JERONIMO"
+    "id": 5660,
+    "Nombre": "San Luis",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "658",
-    "NOMMUNICIP": "SAN JOSE DE LA MONTAÑA"
+    "id": 5664,
+    "Nombre": "San Pedro",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "659",
-    "NOMMUNICIP": "SAN JUAN DE URABA"
+    "id": 5665,
+    "Nombre": "San Pedro de Uraba",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "660",
-    "NOMMUNICIP": "SAN LUIS"
+    "id": 5667,
+    "Nombre": "San Rafael",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "664",
-    "NOMMUNICIP": "SAN PEDRO"
+    "id": 5670,
+    "Nombre": "San Roque",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "665",
-    "NOMMUNICIP": "SAN PEDRO DE URABA"
+    "id": 5674,
+    "Nombre": "San Vicente",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "667",
-    "NOMMUNICIP": "SAN RAFAEL"
+    "id": 5679,
+    "Nombre": "Santa Bárbara",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "670",
-    "NOMMUNICIP": "SAN ROQUE"
+    "id": 5686,
+    "Nombre": "Santa Rosa de Osos",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "674",
-    "NOMMUNICIP": "SAN VICENTE"
+    "id": 5042,
+    "Nombre": "Santafé de Antioquia",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "679",
-    "NOMMUNICIP": "SANTA BARBARA"
+    "id": 5690,
+    "Nombre": "Santo Domingo",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "042",
-    "NOMMUNICIP": "SANTA FE DE ANTIOQUIA"
+    "id": 5736,
+    "Nombre": "Segovia",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "686",
-    "NOMMUNICIP": "SANTA ROSA DE OSOS"
+    "id": 5756,
+    "Nombre": "Sonsón",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "690",
-    "NOMMUNICIP": "SANTO DOMINGO"
+    "id": 5761,
+    "Nombre": "Sopetrán",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "736",
-    "NOMMUNICIP": "SEGOVIA"
+    "id": 5789,
+    "Nombre": "Támesis",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "756",
-    "NOMMUNICIP": "SONSON"
+    "id": 5790,
+    "Nombre": "Tarazá",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "761",
-    "NOMMUNICIP": "SOPETRAN"
+    "id": 5792,
+    "Nombre": "Tarso",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "789",
-    "NOMMUNICIP": "TAMESIS"
+    "id": 5809,
+    "Nombre": "Titiribí",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "790",
-    "NOMMUNICIP": "TARAZA"
+    "id": 5819,
+    "Nombre": "Toledo",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "792",
-    "NOMMUNICIP": "TARSO"
+    "id": 5837,
+    "Nombre": "Turbo",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "809",
-    "NOMMUNICIP": "TITIRIBI"
+    "id": 5842,
+    "Nombre": "Uramita",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "819",
-    "NOMMUNICIP": "TOLEDO"
+    "id": 5847,
+    "Nombre": "Urrao",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "837",
-    "NOMMUNICIP": "TURBO"
+    "id": 5854,
+    "Nombre": "Valdivia",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "842",
-    "NOMMUNICIP": "URAMITA"
+    "id": 5856,
+    "Nombre": "Valparaíso",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "847",
-    "NOMMUNICIP": "URRAO"
+    "id": 5858,
+    "Nombre": "Vegachí",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "854",
-    "NOMMUNICIP": "VALDIVIA"
+    "id": 5861,
+    "Nombre": "Venecia",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "856",
-    "NOMMUNICIP": "VALPARAISO"
+    "id": 5885,
+    "Nombre": "Yalí",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "858",
-    "NOMMUNICIP": "VEGACHI"
+    "id": 5887,
+    "Nombre": "Yarumal",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "861",
-    "NOMMUNICIP": "VENECIA"
+    "id": 5890,
+    "Nombre": "Yolombó",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "873",
-    "NOMMUNICIP": "VIGIA DEL FUERTE"
+    "id": 5893,
+    "Nombre": "Yondó",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "885",
-    "NOMMUNICIP": "YALI"
+    "id": 5895,
+    "Nombre": "Zaragoza",
+    "IdDepartamento": 5
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "887",
-    "NOMMUNICIP": "YARUMAL"
+    "id": 8078,
+    "Nombre": "Baranoa",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "890",
-    "NOMMUNICIP": "YOLOMBO"
+    "id": 8001,
+    "Nombre": "Barranquilla",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "893",
-    "NOMMUNICIP": "YONDO"
+    "id": 8141,
+    "Nombre": "Candelaria",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "05",
-    "CODMUNICIP": "895",
-    "NOMMUNICIP": "ZARAGOZA"
+    "id": 8296,
+    "Nombre": "Galapa",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "07",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "ARAUCA"
+    "id": 8372,
+    "Nombre": "Juan de Acosta",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "078",
-    "NOMMUNICIP": "BARANOA"
+    "id": 8421,
+    "Nombre": "Luruaco",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "BARRANQUILLA"
+    "id": 8433,
+    "Nombre": "Malambo",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "137",
-    "NOMMUNICIP": "CAMPO DE LA CRUZ"
+    "id": 8436,
+    "Nombre": "Manatí",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "141",
-    "NOMMUNICIP": "CANDELARIA"
+    "id": 8520,
+    "Nombre": "Palmar de Varela",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "296",
-    "NOMMUNICIP": "GALAPA"
+    "id": 8549,
+    "Nombre": "Piojó",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "372",
-    "NOMMUNICIP": "JUAN DE ACOSTA"
+    "id": 8558,
+    "Nombre": "Polonuevo",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "421",
-    "NOMMUNICIP": "LURUACO"
+    "id": 8560,
+    "Nombre": "Ponedera",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "433",
-    "NOMMUNICIP": "MALAMBO"
+    "id": 8573,
+    "Nombre": "Puerto Colombia",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "436",
-    "NOMMUNICIP": "MANATI"
+    "id": 8606,
+    "Nombre": "Repelón",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "520",
-    "NOMMUNICIP": "PALMAR DE VARELA"
+    "id": 8634,
+    "Nombre": "Sabanagrande",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "549",
-    "NOMMUNICIP": "PIOJO"
+    "id": 8638,
+    "Nombre": "Sabanalarga",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "558",
-    "NOMMUNICIP": "POLONUEVO"
+    "id": 8675,
+    "Nombre": "Santa Lucía",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "560",
-    "NOMMUNICIP": "PONEDERA"
+    "id": 8685,
+    "Nombre": "Santo Tomás",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "573",
-    "NOMMUNICIP": "PUERTO COLOMBIA"
+    "id": 8758,
+    "Nombre": "Soledad",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "606",
-    "NOMMUNICIP": "REPELON"
+    "id": 8770,
+    "Nombre": "Suan",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "634",
-    "NOMMUNICIP": "SABANAGRANDE"
+    "id": 8832,
+    "Nombre": "Tubará",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "638",
-    "NOMMUNICIP": "SABANALARGA"
+    "id": 8849,
+    "Nombre": "Usiacurí",
+    "IdDepartamento": 8
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "675",
-    "NOMMUNICIP": "SANTA LUCIA"
+    "id": 11001,
+    "Nombre": "Bogota D.C",
+    "IdDepartamento": 11
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "685",
-    "NOMMUNICIP": "SANTO TOMAS"
+    "id": 13006,
+    "Nombre": "Achí",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "758",
-    "NOMMUNICIP": "SOLEDAD"
+    "id": 13042,
+    "Nombre": "Arenal",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "770",
-    "NOMMUNICIP": "SUAN"
+    "id": 13052,
+    "Nombre": "Arjona",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "832",
-    "NOMMUNICIP": "TUBARA"
+    "id": 13062,
+    "Nombre": "Arroyohondo",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "08",
-    "CODMUNICIP": "849",
-    "NOMMUNICIP": "USIACURI"
+    "id": 13074,
+    "Nombre": "Barranco de Loba",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "11",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "BOGOTA"
+    "id": 13140,
+    "Nombre": "Calamar",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "006",
-    "NOMMUNICIP": "ACHI"
+    "id": 13160,
+    "Nombre": "Cantagallo",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "030",
-    "NOMMUNICIP": "ALTOS DEL ROSARIO"
+    "id": 13001,
+    "Nombre": "Cartagena",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "052",
-    "NOMMUNICIP": "ARJONA"
+    "id": 13188,
+    "Nombre": "Cicuco",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "074",
-    "NOMMUNICIP": "BARRANCO DE LOBA"
+    "id": 13222,
+    "Nombre": "Clemencia",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "160",
-    "NOMMUNICIP": "CANTAGALLO"
+    "id": 13212,
+    "Nombre": "Córdoba",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "244",
-    "NOMMUNICIP": "CARMEN DE BOLIVAR"
+    "id": 13248,
+    "Nombre": "El Guamo",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "CARTAGENA"
+    "id": 13268,
+    "Nombre": "El Peñón",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "188",
-    "NOMMUNICIP": "CICUCO"
+    "id": 13300,
+    "Nombre": "Hatillo de Loba",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "222",
-    "NOMMUNICIP": "CLEMENCIA"
+    "id": 13430,
+    "Nombre": "Magangué",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "212",
-    "NOMMUNICIP": "CORDOBA"
+    "id": 13433,
+    "Nombre": "Mahates",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "248",
-    "NOMMUNICIP": "EL GUAMO"
+    "id": 13440,
+    "Nombre": "Margarita",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "268",
-    "NOMMUNICIP": "EL PEÑON"
+    "id": 13442,
+    "Nombre": "María la Baja",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "300",
-    "NOMMUNICIP": "HATILLO DE LOBA"
+    "id": 13468,
+    "Nombre": "Mompós",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "430",
-    "NOMMUNICIP": "MAGANGUE"
+    "id": 13458,
+    "Nombre": "Montecristo",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "433",
-    "NOMMUNICIP": "MAHATES"
+    "id": 13473,
+    "Nombre": "Morales",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "440",
-    "NOMMUNICIP": "MARGARITA"
+    "id": 13490,
+    "Nombre": "Norosí",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "442",
-    "NOMMUNICIP": "MARIA LA BAJA"
+    "id": 13549,
+    "Nombre": "Pinillos",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "468",
-    "NOMMUNICIP": "MOMPOS"
+    "id": 13580,
+    "Nombre": "Regidor",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "458",
-    "NOMMUNICIP": "MONTECRISTO"
+    "id": 13600,
+    "Nombre": "Río Viejo",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "473",
-    "NOMMUNICIP": "MORALES"
+    "id": 13620,
+    "Nombre": "San Cristóbal",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "549",
-    "NOMMUNICIP": "PINILLOS"
+    "id": 13647,
+    "Nombre": "San Estanislao",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "580",
-    "NOMMUNICIP": "REGIDOR"
+    "id": 13650,
+    "Nombre": "San Fernando",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "600",
-    "NOMMUNICIP": "RIO VIEJO"
+    "id": 13657,
+    "Nombre": "San Juan Nepomuceno",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "620",
-    "NOMMUNICIP": "SAN CRISTOBAL"
+    "id": 13673,
+    "Nombre": "Santa Catalina",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "647",
-    "NOMMUNICIP": "SAN ESTANISLAO"
+    "id": 13683,
+    "Nombre": "Santa Rosa",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "650",
-    "NOMMUNICIP": "SAN FERNANDO"
+    "id": 13688,
+    "Nombre": "Santa Rosa del Sur",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "654",
-    "NOMMUNICIP": "SAN JACINTO"
+    "id": 13744,
+    "Nombre": "Simití",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "657",
-    "NOMMUNICIP": "SAN JUAN DE NEPOMUCENO"
+    "id": 13760,
+    "Nombre": "Soplaviento",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "667",
-    "NOMMUNICIP": "SAN MARTIN DE LOBA"
+    "id": 13780,
+    "Nombre": "Talaigua Nuevo",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "670",
-    "NOMMUNICIP": "SAN PABLO"
+    "id": 13810,
+    "Nombre": "Tiquisio",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "673",
-    "NOMMUNICIP": "SANTA CATALINA"
+    "id": 13836,
+    "Nombre": "Turbaco",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "683",
-    "NOMMUNICIP": "SANTA ROSA"
+    "id": 13838,
+    "Nombre": "Turbaná",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "688",
-    "NOMMUNICIP": "SANTA ROSA DEL SUR"
+    "id": 13873,
+    "Nombre": "Villanueva",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "744",
-    "NOMMUNICIP": "SIMITI"
+    "id": 13894,
+    "Nombre": "Zambrano",
+    "IdDepartamento": 13
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "760",
-    "NOMMUNICIP": "SOPLA VIENTO"
+    "id": 15022,
+    "Nombre": "Almeida",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "780",
-    "NOMMUNICIP": "TALAIGANUEVA"
+    "id": 15047,
+    "Nombre": "Aquitania",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "810",
-    "NOMMUNICIP": "TIQUISIO"
+    "id": 15051,
+    "Nombre": "Arcabuco",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "836",
-    "NOMMUNICIP": "TURBACO"
+    "id": 15087,
+    "Nombre": "Belén",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "838",
-    "NOMMUNICIP": "TURBANA"
+    "id": 15090,
+    "Nombre": "Berbeo",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "873",
-    "NOMMUNICIP": "VILLA NUEVA"
+    "id": 15092,
+    "Nombre": "Betéitiva",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "13",
-    "CODMUNICIP": "894",
-    "NOMMUNICIP": "ZAMBRANO"
+    "id": 15097,
+    "Nombre": "Boavita",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "022",
-    "NOMMUNICIP": "ALMEIDA"
+    "id": 15104,
+    "Nombre": "Boyacá",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "047",
-    "NOMMUNICIP": "AQUITANIA"
+    "id": 15106,
+    "Nombre": "Briceño",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "051",
-    "NOMMUNICIP": "ARCABUCO"
+    "id": 15109,
+    "Nombre": "Buena Vista",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "087",
-    "NOMMUNICIP": "BELEN"
+    "id": 15114,
+    "Nombre": "Busbanzá",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "090",
-    "NOMMUNICIP": "BERBEO"
+    "id": 15131,
+    "Nombre": "Caldas",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "092",
-    "NOMMUNICIP": "BETEITIVA"
+    "id": 15135,
+    "Nombre": "Campohermoso",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "097",
-    "NOMMUNICIP": "BOAVITA"
+    "id": 15162,
+    "Nombre": "Cerinza",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "104",
-    "NOMMUNICIP": "BOYACA"
+    "id": 15172,
+    "Nombre": "Chinavita",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "106",
-    "NOMMUNICIP": "BRICEÑO"
+    "id": 15176,
+    "Nombre": "Chiquinquirá",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "109",
-    "NOMMUNICIP": "BUENAVISTA"
+    "id": 15232,
+    "Nombre": "Chíquiza",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "114",
-    "NOMMUNICIP": "BUSBANZA"
+    "id": 15180,
+    "Nombre": "Chiscas",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "131",
-    "NOMMUNICIP": "CALDAS"
+    "id": 15183,
+    "Nombre": "Chita",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "135",
-    "NOMMUNICIP": "CAMPOHERMOSO"
+    "id": 15185,
+    "Nombre": "Chitaraque",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "162",
-    "NOMMUNICIP": "CERINZA"
+    "id": 15187,
+    "Nombre": "Chivatá",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "172",
-    "NOMMUNICIP": "CHINAVITA"
+    "id": 15236,
+    "Nombre": "Chivor",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "176",
-    "NOMMUNICIP": "CHIQUINQUIRA"
+    "id": 15189,
+    "Nombre": "Ciénega",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "232",
-    "NOMMUNICIP": "CHIQUIZA"
+    "id": 15204,
+    "Nombre": "Cómbita",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "180",
-    "NOMMUNICIP": "CHISCAS"
+    "id": 15212,
+    "Nombre": "Coper",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "183",
-    "NOMMUNICIP": "CHITA"
+    "id": 15215,
+    "Nombre": "Corrales",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "185",
-    "NOMMUNICIP": "CHITARAQUE"
+    "id": 15218,
+    "Nombre": "Covarachía",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "187",
-    "NOMMUNICIP": "CHIVATA"
+    "id": 15223,
+    "Nombre": "Cubará",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "236",
-    "NOMMUNICIP": "CHIVOR"
+    "id": 15224,
+    "Nombre": "Cucaita",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "189",
-    "NOMMUNICIP": "CIENEGA"
+    "id": 15226,
+    "Nombre": "Cuítiva",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "204",
-    "NOMMUNICIP": "COMBITA"
+    "id": 15238,
+    "Nombre": "Duitama",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "212",
-    "NOMMUNICIP": "COPER"
+    "id": 15244,
+    "Nombre": "El Cocuy",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "215",
-    "NOMMUNICIP": "CORRALES"
+    "id": 15248,
+    "Nombre": "El Espino",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "218",
-    "NOMMUNICIP": "COVARACHIA"
+    "id": 15272,
+    "Nombre": "Firavitoba",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "223",
-    "NOMMUNICIP": "CUBARA"
+    "id": 15276,
+    "Nombre": "Floresta",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "224",
-    "NOMMUNICIP": "CUCAITA"
+    "id": 15293,
+    "Nombre": "Gachantivá",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "226",
-    "NOMMUNICIP": "CUITIVA"
+    "id": 15296,
+    "Nombre": "Gameza",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "238",
-    "NOMMUNICIP": "DUITAMA"
+    "id": 15299,
+    "Nombre": "Garagoa",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "244",
-    "NOMMUNICIP": "EL COCUY"
+    "id": 15317,
+    "Nombre": "Guacamayas",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "248",
-    "NOMMUNICIP": "EL ESPINO"
+    "id": 15322,
+    "Nombre": "Guateque",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "272",
-    "NOMMUNICIP": "FIRAVITOBA"
+    "id": 15325,
+    "Nombre": "Guayatá",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "276",
-    "NOMMUNICIP": "FLORESTA"
+    "id": 15332,
+    "Nombre": "Güicán",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "293",
-    "NOMMUNICIP": "GACHANTIVA"
+    "id": 15362,
+    "Nombre": "Iza",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "296",
-    "NOMMUNICIP": "GAMEZA"
+    "id": 15367,
+    "Nombre": "Jenesano",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "299",
-    "NOMMUNICIP": "GARAGOA"
+    "id": 15368,
+    "Nombre": "Jericó",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "317",
-    "NOMMUNICIP": "GUACAMAYAS"
+    "id": 15380,
+    "Nombre": "La Capilla",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "322",
-    "NOMMUNICIP": "GUATEQUE"
+    "id": 15403,
+    "Nombre": "La Uvita",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "325",
-    "NOMMUNICIP": "GUAYATA"
+    "id": 15401,
+    "Nombre": "La Victoria",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "332",
-    "NOMMUNICIP": "GUICAN"
+    "id": 15377,
+    "Nombre": "Labranzagrande",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "361",
-    "NOMMUNICIP": "IZA"
+    "id": 15425,
+    "Nombre": "Macanal",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "367",
-    "NOMMUNICIP": "JENESANO"
+    "id": 15442,
+    "Nombre": "Maripí",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "368",
-    "NOMMUNICIP": "JERICO"
+    "id": 15455,
+    "Nombre": "Miraflores",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "380",
-    "NOMMUNICIP": "LA CAPILLA"
+    "id": 15464,
+    "Nombre": "Mongua",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "136",
-    "NOMMUNICIP": "LA SALINA"
+    "id": 15466,
+    "Nombre": "Monguí",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "403",
-    "NOMMUNICIP": "LA UVITA"
+    "id": 15469,
+    "Nombre": "Moniquirá",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "401",
-    "NOMMUNICIP": "LA VICTORIA"
+    "id": 15476,
+    "Nombre": "Motavita",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "377",
-    "NOMMUNICIP": "LABRANZAGRANDE"
+    "id": 15480,
+    "Nombre": "Muzo",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "425",
-    "NOMMUNICIP": "MACANAL"
+    "id": 15491,
+    "Nombre": "Nobsa",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "442",
-    "NOMMUNICIP": "MARIPI"
+    "id": 15494,
+    "Nombre": "Nuevo Colón",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "455",
-    "NOMMUNICIP": "MIRAFLORES"
+    "id": 15500,
+    "Nombre": "Oicatá",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "464",
-    "NOMMUNICIP": "MONGUA"
+    "id": 15507,
+    "Nombre": "Otanche",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "466",
-    "NOMMUNICIP": "MONGUI"
+    "id": 15511,
+    "Nombre": "Pachavita",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "469",
-    "NOMMUNICIP": "MONIQUIRA"
+    "id": 15514,
+    "Nombre": "Páez",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "476",
-    "NOMMUNICIP": "MOTAVITA"
+    "id": 15516,
+    "Nombre": "Paipa",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "480",
-    "NOMMUNICIP": "MUZO"
+    "id": 15518,
+    "Nombre": "Pajarito",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "491",
-    "NOMMUNICIP": "NOBSA"
+    "id": 15522,
+    "Nombre": "Panqueba",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "494",
-    "NOMMUNICIP": "NUEVO COLON"
+    "id": 15531,
+    "Nombre": "Pauna",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "500",
-    "NOMMUNICIP": "OICATA"
+    "id": 15533,
+    "Nombre": "Paya",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "507",
-    "NOMMUNICIP": "OTANCHE"
+    "id": 15537,
+    "Nombre": "Paz de Río",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "511",
-    "NOMMUNICIP": "PACHAVITA"
+    "id": 15542,
+    "Nombre": "Pesca",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "514",
-    "NOMMUNICIP": "PAEZ"
+    "id": 15550,
+    "Nombre": "Pisba",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "516",
-    "NOMMUNICIP": "PAIPA"
+    "id": 15572,
+    "Nombre": "Puerto Boyacá",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "518",
-    "NOMMUNICIP": "PAJARITO"
+    "id": 15580,
+    "Nombre": "Quípama",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "522",
-    "NOMMUNICIP": "PANQUEBA"
+    "id": 15599,
+    "Nombre": "Ramiriquí",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "531",
-    "NOMMUNICIP": "PAUNA"
+    "id": 15600,
+    "Nombre": "Ráquira",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "533",
-    "NOMMUNICIP": "PAYA"
+    "id": 15621,
+    "Nombre": "Rondón",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "537",
-    "NOMMUNICIP": "PAZ DEL RIO"
+    "id": 15632,
+    "Nombre": "Saboyá",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "542",
-    "NOMMUNICIP": "PESCA"
+    "id": 15638,
+    "Nombre": "Sáchica",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "550",
-    "NOMMUNICIP": "PISBA"
+    "id": 15646,
+    "Nombre": "Samacá",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "572",
-    "NOMMUNICIP": "PUERTO BOYACA"
+    "id": 15660,
+    "Nombre": "San Eduardo",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "580",
-    "NOMMUNICIP": "QUIPAMA"
+    "id": 15667,
+    "Nombre": "San Luis de Gaceno",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "599",
-    "NOMMUNICIP": "RAMIRIQUI"
+    "id": 15673,
+    "Nombre": "San Mateo",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "600",
-    "NOMMUNICIP": "RAQUIRA"
+    "id": 15681,
+    "Nombre": "San Pablo de Borbur",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "621",
-    "NOMMUNICIP": "RONDON"
+    "id": 15690,
+    "Nombre": "Santa María",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "632",
-    "NOMMUNICIP": "SABOYA"
+    "id": 15693,
+    "Nombre": "Santa Rosa de Viterbo",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "315",
-    "NOMMUNICIP": "SACAMA"
+    "id": 15696,
+    "Nombre": "Santa Sofía",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "638",
-    "NOMMUNICIP": "SACHICA"
+    "id": 15686,
+    "Nombre": "Santana",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "646",
-    "NOMMUNICIP": "SAMACA"
+    "id": 15720,
+    "Nombre": "Sativanorte",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "660",
-    "NOMMUNICIP": "SAN EDUARDO"
+    "id": 15723,
+    "Nombre": "Sativasur",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "664",
-    "NOMMUNICIP": "SAN JOSE DE PARE"
+    "id": 15740,
+    "Nombre": "Siachoque",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "667",
-    "NOMMUNICIP": "SAN LUIS DE GACENO"
+    "id": 15753,
+    "Nombre": "Soatá",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "673",
-    "NOMMUNICIP": "SAN MATEO"
+    "id": 15757,
+    "Nombre": "Socha",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "676",
-    "NOMMUNICIP": "SAN MIGUEL DE SEMA"
+    "id": 15755,
+    "Nombre": "Socotá",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "681",
-    "NOMMUNICIP": "SAN PABLO DE BORBUR"
+    "id": 15759,
+    "Nombre": "Sogamoso",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "690",
-    "NOMMUNICIP": "SANTA MARIA"
+    "id": 15761,
+    "Nombre": "Somondoco",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "693",
-    "NOMMUNICIP": "SANTA ROSA DE VITERBO"
+    "id": 15762,
+    "Nombre": "Sora",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "696",
-    "NOMMUNICIP": "SANTA SOFIA"
+    "id": 15764,
+    "Nombre": "Soracá",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "686",
-    "NOMMUNICIP": "SANTANA"
+    "id": 15763,
+    "Nombre": "Sotaquirá",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "720",
-    "NOMMUNICIP": "SATIVANORTE"
+    "id": 15774,
+    "Nombre": "Susacón",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "723",
-    "NOMMUNICIP": "SATIVASUR"
+    "id": 15776,
+    "Nombre": "Sutamarchán",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "740",
-    "NOMMUNICIP": "SIACHOQUE"
+    "id": 15778,
+    "Nombre": "Sutatenza",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "753",
-    "NOMMUNICIP": "SOATA"
+    "id": 15790,
+    "Nombre": "Tasco",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "757",
-    "NOMMUNICIP": "SOCHA"
+    "id": 15798,
+    "Nombre": "Tenza",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "755",
-    "NOMMUNICIP": "SOCOTA"
+    "id": 15804,
+    "Nombre": "Tibaná",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "759",
-    "NOMMUNICIP": "SOGAMOSO"
+    "id": 15806,
+    "Nombre": "Tibasosa",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "761",
-    "NOMMUNICIP": "SOMONDOCO"
+    "id": 15808,
+    "Nombre": "Tinjacá",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "762",
-    "NOMMUNICIP": "SORA"
+    "id": 15810,
+    "Nombre": "Tipacoque",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "764",
-    "NOMMUNICIP": "SORACA"
+    "id": 15814,
+    "Nombre": "Toca",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "763",
-    "NOMMUNICIP": "SOTAQUIRA"
+    "id": 15816,
+    "Nombre": "Togüí",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "774",
-    "NOMMUNICIP": "SUSACON"
+    "id": 15820,
+    "Nombre": "Tópaga",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "776",
-    "NOMMUNICIP": "SUTAMARCHAN"
+    "id": 15822,
+    "Nombre": "Tota",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "778",
-    "NOMMUNICIP": "SUTATENZA"
+    "id": 15001,
+    "Nombre": "Tunja",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "790",
-    "NOMMUNICIP": "TASCO"
+    "id": 15832,
+    "Nombre": "Tununguá",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "798",
-    "NOMMUNICIP": "TENZA"
+    "id": 15835,
+    "Nombre": "Turmequé",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "804",
-    "NOMMUNICIP": "TIBANA"
+    "id": 15839,
+    "Nombre": "Tutazá",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "806",
-    "NOMMUNICIP": "TIBASOSA"
+    "id": 15842,
+    "Nombre": "Umbita",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "808",
-    "NOMMUNICIP": "TINJACA"
+    "id": 15861,
+    "Nombre": "Ventaquemada",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "810",
-    "NOMMUNICIP": "TIPACOQUE"
+    "id": 15407,
+    "Nombre": "Villa de Leyva",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "814",
-    "NOMMUNICIP": "TOCA"
+    "id": 15879,
+    "Nombre": "Viracachá",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "816",
-    "NOMMUNICIP": "TOGUI"
+    "id": 15897,
+    "Nombre": "Zetaquira",
+    "IdDepartamento": 15
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "820",
-    "NOMMUNICIP": "TOPAGA"
+    "id": 17013,
+    "Nombre": "Aguadas",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "822",
-    "NOMMUNICIP": "TOTA"
+    "id": 17042,
+    "Nombre": "Anserma",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "TUNJA"
+    "id": 17050,
+    "Nombre": "Aranzazu",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "832",
-    "NOMMUNICIP": "TUNUNGUA"
+    "id": 17088,
+    "Nombre": "Belalcázar",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "835",
-    "NOMMUNICIP": "TURMEQUE"
+    "id": 17174,
+    "Nombre": "Chinchiná",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "837",
-    "NOMMUNICIP": "TUTA"
+    "id": 17272,
+    "Nombre": "Filadelfia",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "839",
-    "NOMMUNICIP": "TUTASA"
+    "id": 17380,
+    "Nombre": "La Dorada",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "842",
-    "NOMMUNICIP": "UMBITA"
+    "id": 17388,
+    "Nombre": "La Merced",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "861",
-    "NOMMUNICIP": "VENTA QUEMADA"
+    "id": 17001,
+    "Nombre": "Manizales",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "407",
-    "NOMMUNICIP": "VILLA DE LEYVA"
+    "id": 17433,
+    "Nombre": "Manzanares",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "879",
-    "NOMMUNICIP": "VIRACACHA"
+    "id": 17442,
+    "Nombre": "Marmato",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "15",
-    "CODMUNICIP": "897",
-    "NOMMUNICIP": "ZETAQUIRA"
+    "id": 17444,
+    "Nombre": "Marquetalia",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "013",
-    "NOMMUNICIP": "AGUADAS"
+    "id": 17446,
+    "Nombre": "Marulanda",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "042",
-    "NOMMUNICIP": "ANSERMA"
+    "id": 17486,
+    "Nombre": "Neira",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "050",
-    "NOMMUNICIP": "ARANZAZU"
+    "id": 17495,
+    "Nombre": "Norcasia",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "088",
-    "NOMMUNICIP": "BELALCAZAR"
+    "id": 17513,
+    "Nombre": "Pácora",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "174",
-    "NOMMUNICIP": "CHINCHINA"
+    "id": 17524,
+    "Nombre": "Palestina",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "272",
-    "NOMMUNICIP": "FILADELFIA"
+    "id": 17541,
+    "Nombre": "Pensilvania",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "380",
-    "NOMMUNICIP": "LA DORADA"
+    "id": 17614,
+    "Nombre": "Riosucio",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "388",
-    "NOMMUNICIP": "LA MERCED"
+    "id": 17616,
+    "Nombre": "Risaralda",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "867",
-    "NOMMUNICIP": "LA VICTORIA"
+    "id": 17653,
+    "Nombre": "Salamina",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "MANIZALES"
+    "id": 17662,
+    "Nombre": "Samaná",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "433",
-    "NOMMUNICIP": "MANZANARES"
+    "id": 17665,
+    "Nombre": "San José",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "442",
-    "NOMMUNICIP": "MARMATO"
+    "id": 17777,
+    "Nombre": "Supía",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "444",
-    "NOMMUNICIP": "MARQUETALIA"
+    "id": 17867,
+    "Nombre": "Victoria",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "446",
-    "NOMMUNICIP": "MARULANDA"
+    "id": 17873,
+    "Nombre": "Villamaría",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "486",
-    "NOMMUNICIP": "NEIRA"
+    "id": 17877,
+    "Nombre": "Viterbo",
+    "IdDepartamento": 17
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "513",
-    "NOMMUNICIP": "PACORA"
+    "id": 18029,
+    "Nombre": "Albania",
+    "IdDepartamento": 18
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "524",
-    "NOMMUNICIP": "PALESTINA"
+    "id": 18094,
+    "Nombre": "Belén de Los Andaquies",
+    "IdDepartamento": 18
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "541",
-    "NOMMUNICIP": "PENSILVANIA"
+    "id": 18205,
+    "Nombre": "Curillo",
+    "IdDepartamento": 18
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "614",
-    "NOMMUNICIP": "RIOSUCIO"
+    "id": 18247,
+    "Nombre": "El Doncello",
+    "IdDepartamento": 18
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "616",
-    "NOMMUNICIP": "RISARALDA"
+    "id": 18256,
+    "Nombre": "El Paujil",
+    "IdDepartamento": 18
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "653",
-    "NOMMUNICIP": "SALAMINA"
+    "id": 18001,
+    "Nombre": "Florencia",
+    "IdDepartamento": 18
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "662",
-    "NOMMUNICIP": "SAMANA"
+    "id": 18410,
+    "Nombre": "La Montañita",
+    "IdDepartamento": 18
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "777",
-    "NOMMUNICIP": "SUPIA"
+    "id": 18460,
+    "Nombre": "Milán",
+    "IdDepartamento": 18
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "873",
-    "NOMMUNICIP": "VILLA MARIA"
+    "id": 18479,
+    "Nombre": "Morelia",
+    "IdDepartamento": 18
   },
   {
-    "CODDEPTO": "17",
-    "CODMUNICIP": "877",
-    "NOMMUNICIP": "VITERBO"
+    "id": 18592,
+    "Nombre": "Puerto Rico",
+    "IdDepartamento": 18
   },
   {
-    "CODDEPTO": "18",
-    "CODMUNICIP": "029",
-    "NOMMUNICIP": "ALBANIA"
+    "id": 18610,
+    "Nombre": "San José del Fragua",
+    "IdDepartamento": 18
   },
   {
-    "CODDEPTO": "18",
-    "CODMUNICIP": "094",
-    "NOMMUNICIP": "BELEN DE LOS ANDAQUIES"
+    "id": 18753,
+    "Nombre": "San Vicente del Caguán",
+    "IdDepartamento": 18
   },
   {
-    "CODDEPTO": "18",
-    "CODMUNICIP": "150",
-    "NOMMUNICIP": "CARTAGENA DEL CHAIRA"
+    "id": 18756,
+    "Nombre": "Solano",
+    "IdDepartamento": 18
   },
   {
-    "CODDEPTO": "18",
-    "CODMUNICIP": "205",
-    "NOMMUNICIP": "CURILLO"
+    "id": 18785,
+    "Nombre": "Solita",
+    "IdDepartamento": 18
   },
   {
-    "CODDEPTO": "18",
-    "CODMUNICIP": "247",
-    "NOMMUNICIP": "EL DONCELLO"
+    "id": 18860,
+    "Nombre": "Valparaíso",
+    "IdDepartamento": 18
   },
   {
-    "CODDEPTO": "18",
-    "CODMUNICIP": "256",
-    "NOMMUNICIP": "EL PAUJIL"
+    "id": 19022,
+    "Nombre": "Almaguer",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "18",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "FLORENCIA"
+    "id": 19050,
+    "Nombre": "Argelia",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "18",
-    "CODMUNICIP": "460",
-    "NOMMUNICIP": "MILAN"
+    "id": 19075,
+    "Nombre": "Balboa",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "18",
-    "CODMUNICIP": "410",
-    "NOMMUNICIP": "MONTAÑITA"
+    "id": 19100,
+    "Nombre": "Bolívar",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "18",
-    "CODMUNICIP": "479",
-    "NOMMUNICIP": "MORELIA"
+    "id": 19110,
+    "Nombre": "Buenos Aires",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "18",
-    "CODMUNICIP": "592",
-    "NOMMUNICIP": "PUERTO RICO"
+    "id": 19130,
+    "Nombre": "Cajibío",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "18",
-    "CODMUNICIP": "610",
-    "NOMMUNICIP": "SAN JOSE DE FRAGUA"
+    "id": 19137,
+    "Nombre": "Caldono",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "18",
-    "CODMUNICIP": "753",
-    "NOMMUNICIP": "SAN VICENTE DEL CAGUAN"
+    "id": 19142,
+    "Nombre": "Caloto",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "18",
-    "CODMUNICIP": "765",
-    "NOMMUNICIP": "SOLANO"
+    "id": 19212,
+    "Nombre": "Corinto",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "18",
-    "CODMUNICIP": "860",
-    "NOMMUNICIP": "VALPARAISO"
+    "id": 19256,
+    "Nombre": "El Tambo",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "022",
-    "NOMMUNICIP": "ALMAGUER"
+    "id": 19290,
+    "Nombre": "Florencia",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "050",
-    "NOMMUNICIP": "ARGELIA"
+    "id": 19300,
+    "Nombre": "Guachené",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "075",
-    "NOMMUNICIP": "BALBOA"
+    "id": 19318,
+    "Nombre": "Guapi",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "100",
-    "NOMMUNICIP": "BOLIVAR"
+    "id": 19355,
+    "Nombre": "Inzá",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "110",
-    "NOMMUNICIP": "BUENOS AIRES"
+    "id": 19364,
+    "Nombre": "Jambaló",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "130",
-    "NOMMUNICIP": "CAJIBIO"
+    "id": 19392,
+    "Nombre": "La Sierra",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "137",
-    "NOMMUNICIP": "CALDONO"
+    "id": 19397,
+    "Nombre": "La Vega",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "142",
-    "NOMMUNICIP": "CALOTO"
+    "id": 19418,
+    "Nombre": "López",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "212",
-    "NOMMUNICIP": "CORINTO"
+    "id": 19450,
+    "Nombre": "Mercaderes",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "256",
-    "NOMMUNICIP": "EL TAMBO"
+    "id": 19455,
+    "Nombre": "Miranda",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "290",
-    "NOMMUNICIP": "FLORENCIA"
+    "id": 19473,
+    "Nombre": "Morales",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "318",
-    "NOMMUNICIP": "GUAPI"
+    "id": 19513,
+    "Nombre": "Padilla",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "355",
-    "NOMMUNICIP": "INZA"
+    "id": 19517,
+    "Nombre": "Páez",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "364",
-    "NOMMUNICIP": "JAMBALO"
+    "id": 19532,
+    "Nombre": "Patía",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "392",
-    "NOMMUNICIP": "LA SIERRA"
+    "id": 19533,
+    "Nombre": "Piamonte",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "397",
-    "NOMMUNICIP": "LA VEGA"
+    "id": 19548,
+    "Nombre": "Piendamó",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "418",
-    "NOMMUNICIP": "LOPEZ DE MICAY"
+    "id": 19001,
+    "Nombre": "Popayán",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "450",
-    "NOMMUNICIP": "MERCADERES"
+    "id": 19573,
+    "Nombre": "Puerto Tejada",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "455",
-    "NOMMUNICIP": "MIRANDA"
+    "id": 19585,
+    "Nombre": "Puracé",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "473",
-    "NOMMUNICIP": "MORALES"
+    "id": 19622,
+    "Nombre": "Rosas",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "513",
-    "NOMMUNICIP": "PADILLA"
+    "id": 19701,
+    "Nombre": "Santa Rosa",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "517",
-    "NOMMUNICIP": "PAEZ BELALCAZAR"
+    "id": 19698,
+    "Nombre": "Santander de Quilichao",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "532",
-    "NOMMUNICIP": "PATIA"
+    "id": 19743,
+    "Nombre": "Silvia",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "548",
-    "NOMMUNICIP": "PIENDAMO"
+    "id": 19760,
+    "Nombre": "Sotara",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "POPAYAN"
+    "id": 19780,
+    "Nombre": "Suárez",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "573",
-    "NOMMUNICIP": "PUERTO TEJADA"
+    "id": 19785,
+    "Nombre": "Sucre",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "585",
-    "NOMMUNICIP": "PURACE COCONUCO"
+    "id": 19807,
+    "Nombre": "Timbío",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "622",
-    "NOMMUNICIP": "ROSAS"
+    "id": 19809,
+    "Nombre": "Timbiquí",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "693",
-    "NOMMUNICIP": "SAN SEBASTIAN"
+    "id": 19821,
+    "Nombre": "Toribio",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "701",
-    "NOMMUNICIP": "SANTA ROSA"
+    "id": 19824,
+    "Nombre": "Totoró",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "698",
-    "NOMMUNICIP": "SANTANDER DE QUILICHAO"
+    "id": 19845,
+    "Nombre": "Villa Rica",
+    "IdDepartamento": 19
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "743",
-    "NOMMUNICIP": "SILVIA"
+    "id": 20011,
+    "Nombre": "Aguachica",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "760",
-    "NOMMUNICIP": "SOTARA"
+    "id": 20013,
+    "Nombre": "Agustín Codazzi",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "780",
-    "NOMMUNICIP": "SUAREZ"
+    "id": 20032,
+    "Nombre": "Astrea",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "807",
-    "NOMMUNICIP": "TIMBIO"
+    "id": 20045,
+    "Nombre": "Becerril",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "809",
-    "NOMMUNICIP": "TIMBIQUI"
+    "id": 20060,
+    "Nombre": "Bosconia",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "821",
-    "NOMMUNICIP": "TORIBIO"
+    "id": 20175,
+    "Nombre": "Chimichagua",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "19",
-    "CODMUNICIP": "824",
-    "NOMMUNICIP": "TOTORO"
+    "id": 20178,
+    "Nombre": "Chiriguaná",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "011",
-    "NOMMUNICIP": "AGUACHICA"
+    "id": 20228,
+    "Nombre": "Curumaní",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "013",
-    "NOMMUNICIP": "AGUSTIN CODAZZI"
+    "id": 20238,
+    "Nombre": "El Copey",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "032",
-    "NOMMUNICIP": "ASTREA"
+    "id": 20250,
+    "Nombre": "El Paso",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "045",
-    "NOMMUNICIP": "BECERRIL"
+    "id": 20295,
+    "Nombre": "Gamarra",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "060",
-    "NOMMUNICIP": "BOSCONIA"
+    "id": 20310,
+    "Nombre": "González",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "175",
-    "NOMMUNICIP": "CHIMICHAGUA"
+    "id": 20383,
+    "Nombre": "La Gloria",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "178",
-    "NOMMUNICIP": "CHIRIGUANA"
+    "id": 20400,
+    "Nombre": "La Jagua de Ibirico",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "228",
-    "NOMMUNICIP": "CURUMANI"
+    "id": 20621,
+    "Nombre": "La Paz",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "238",
-    "NOMMUNICIP": "EL COPEY"
+    "id": 20443,
+    "Nombre": "Manaure",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "250",
-    "NOMMUNICIP": "EL PASO"
+    "id": 20517,
+    "Nombre": "Pailitas",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "295",
-    "NOMMUNICIP": "GAMARRA"
+    "id": 20550,
+    "Nombre": "Pelaya",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "310",
-    "NOMMUNICIP": "GONZALEZ"
+    "id": 20570,
+    "Nombre": "Pueblo Bello",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "383",
-    "NOMMUNICIP": "LA GLORIA"
+    "id": 20614,
+    "Nombre": "Río de Oro",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "400",
-    "NOMMUNICIP": "LA JAGUA DE IBIRICO"
+    "id": 20710,
+    "Nombre": "San Alberto",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "621",
-    "NOMMUNICIP": "LA PAZ (ROBLES)"
+    "id": 20750,
+    "Nombre": "San Diego",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "443",
-    "NOMMUNICIP": "MANAURE"
+    "id": 20770,
+    "Nombre": "San Martín",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "517",
-    "NOMMUNICIP": "PAILITAS"
+    "id": 20787,
+    "Nombre": "Tamalameque",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "550",
-    "NOMMUNICIP": "PELAYA"
+    "id": 20001,
+    "Nombre": "Valledupar",
+    "IdDepartamento": 20
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "614",
-    "NOMMUNICIP": "RIO DE ORO"
+    "id": 23068,
+    "Nombre": "Ayapel",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "710",
-    "NOMMUNICIP": "SAN ALBERTO"
+    "id": 23079,
+    "Nombre": "Buenavista",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "750",
-    "NOMMUNICIP": "SAN DIEGO"
+    "id": 23090,
+    "Nombre": "Canalete",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "770",
-    "NOMMUNICIP": "SAN MARTIN"
+    "id": 23162,
+    "Nombre": "Cereté",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "787",
-    "NOMMUNICIP": "TAMALAMEQUE"
+    "id": 23168,
+    "Nombre": "Chimá",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "20",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "VALLEDUPAR"
+    "id": 23182,
+    "Nombre": "Chinú",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "068",
-    "NOMMUNICIP": "AYAPEL"
+    "id": 23300,
+    "Nombre": "Cotorra",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "079",
-    "NOMMUNICIP": "BUENAVISTA"
+    "id": 23350,
+    "Nombre": "La Apartada",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "090",
-    "NOMMUNICIP": "CANALATE"
+    "id": 23417,
+    "Nombre": "Lorica",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "162",
-    "NOMMUNICIP": "CERETE"
+    "id": 23419,
+    "Nombre": "Los Córdobas",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "168",
-    "NOMMUNICIP": "CHIMA"
+    "id": 23464,
+    "Nombre": "Momil",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "182",
-    "NOMMUNICIP": "CHINU"
+    "id": 23466,
+    "Nombre": "Montelíbano",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "189",
-    "NOMMUNICIP": "CIENAGA DE ORO"
+    "id": 23001,
+    "Nombre": "Montería",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "417",
-    "NOMMUNICIP": "LORICA"
+    "id": 23500,
+    "Nombre": "Moñitos",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "419",
-    "NOMMUNICIP": "LOS CORDOBAS"
+    "id": 23555,
+    "Nombre": "Planeta Rica",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "464",
-    "NOMMUNICIP": "MOMIL"
+    "id": 23570,
+    "Nombre": "Pueblo Nuevo",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "500",
-    "NOMMUNICIP": "MONITOS"
+    "id": 23574,
+    "Nombre": "Puerto Escondido",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "466",
-    "NOMMUNICIP": "MONTELIBANO"
+    "id": 23580,
+    "Nombre": "Puerto Libertador",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "MONTERIA"
+    "id": 23586,
+    "Nombre": "Purísima",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "555",
-    "NOMMUNICIP": "PLANETA RICA"
+    "id": 23660,
+    "Nombre": "Sahagún",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "570",
-    "NOMMUNICIP": "PUEBLO NUEVO"
+    "id": 23670,
+    "Nombre": "San Andrés Sotavento",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "574",
-    "NOMMUNICIP": "PUERTO ESCONDIDO"
+    "id": 23672,
+    "Nombre": "San Antero",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "580",
-    "NOMMUNICIP": "PUERTO LIBERTADOR"
+    "id": 23675,
+    "Nombre": "San Bernardo del Viento",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "586",
-    "NOMMUNICIP": "PURISIMA"
+    "id": 23686,
+    "Nombre": "San Pelayo",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "660",
-    "NOMMUNICIP": "SAHAGUN"
+    "id": 23807,
+    "Nombre": "Tierralta",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "670",
-    "NOMMUNICIP": "SAN ANDRES DE SOTAVENTO"
+    "id": 23815,
+    "Nombre": "Tuchín",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "672",
-    "NOMMUNICIP": "SAN ANTERO"
+    "id": 23855,
+    "Nombre": "Valencia",
+    "IdDepartamento": 23
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "675",
-    "NOMMUNICIP": "SAN BERNARDO DEL VIENTO"
+    "id": 25019,
+    "Nombre": "Albán",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "678",
-    "NOMMUNICIP": "SAN CARLOS"
+    "id": 25035,
+    "Nombre": "Anapoima",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "686",
-    "NOMMUNICIP": "SAN PELAYO"
+    "id": 25040,
+    "Nombre": "Anolaima",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "807",
-    "NOMMUNICIP": "TIERRA ALTA"
+    "id": 25599,
+    "Nombre": "Apulo",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "23",
-    "CODMUNICIP": "855",
-    "NOMMUNICIP": "VALENCIA"
+    "id": 25053,
+    "Nombre": "Arbeláez",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "AGUA DE DIOS"
+    "id": 25086,
+    "Nombre": "Beltrán",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "019",
-    "NOMMUNICIP": "ALBAN"
+    "id": 25095,
+    "Nombre": "Bituima",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "035",
-    "NOMMUNICIP": "ANAPOIMA"
+    "id": 25099,
+    "Nombre": "Bojacá",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "040",
-    "NOMMUNICIP": "ANOLAIMA"
+    "id": 25120,
+    "Nombre": "Cabrera",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "599",
-    "NOMMUNICIP": "APULO"
+    "id": 25123,
+    "Nombre": "Cachipay",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "053",
-    "NOMMUNICIP": "ARBELAEZ"
+    "id": 25126,
+    "Nombre": "Cajicá",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "086",
-    "NOMMUNICIP": "BELTRAN"
+    "id": 25148,
+    "Nombre": "Caparrapí",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "095",
-    "NOMMUNICIP": "BITUIMA"
+    "id": 25151,
+    "Nombre": "Caqueza",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "000",
-    "NOMMUNICIP": "BOGOTA"
+    "id": 25168,
+    "Nombre": "Chaguaní",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "099",
-    "NOMMUNICIP": "BOJACA"
+    "id": 25175,
+    "Nombre": "Chía",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "120",
-    "NOMMUNICIP": "CABRERA"
+    "id": 25178,
+    "Nombre": "Chipaque",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "123",
-    "NOMMUNICIP": "CACHIPAY"
+    "id": 25181,
+    "Nombre": "Choachí",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "126",
-    "NOMMUNICIP": "CAJICA"
+    "id": 25183,
+    "Nombre": "Chocontá",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "148",
-    "NOMMUNICIP": "CAPARRAPI"
+    "id": 25200,
+    "Nombre": "Cogua",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "151",
-    "NOMMUNICIP": "CAQUEZA"
+    "id": 25214,
+    "Nombre": "Cota",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "154",
-    "NOMMUNICIP": "CARMEN DE CARUPA"
+    "id": 25224,
+    "Nombre": "Cucunubá",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "168",
-    "NOMMUNICIP": "CHAGUANI"
+    "id": 25245,
+    "Nombre": "El Colegio",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "175",
-    "NOMMUNICIP": "CHIA"
+    "id": 25258,
+    "Nombre": "El Peñón",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "178",
-    "NOMMUNICIP": "CHIPAQUE"
+    "id": 25260,
+    "Nombre": "El Rosal",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "181",
-    "NOMMUNICIP": "CHOACHI"
+    "id": 25269,
+    "Nombre": "Facatativá",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "183",
-    "NOMMUNICIP": "CHOCONTA"
+    "id": 25279,
+    "Nombre": "Fomeque",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "200",
-    "NOMMUNICIP": "COGUA"
+    "id": 25281,
+    "Nombre": "Fosca",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "214",
-    "NOMMUNICIP": "COTA"
+    "id": 25286,
+    "Nombre": "Funza",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "224",
-    "NOMMUNICIP": "CUCUNUBA"
+    "id": 25288,
+    "Nombre": "Fúquene",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "245",
-    "NOMMUNICIP": "EL COLEGIO"
+    "id": 25290,
+    "Nombre": "Fusagasugá",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "258",
-    "NOMMUNICIP": "EL PEÑON"
+    "id": 25293,
+    "Nombre": "Gachala",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "269",
-    "NOMMUNICIP": "FACATATIVA"
+    "id": 25295,
+    "Nombre": "Gachancipá",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "279",
-    "NOMMUNICIP": "FOMEQUE"
+    "id": 25297,
+    "Nombre": "Gachetá",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "281",
-    "NOMMUNICIP": "FOSCA"
+    "id": 25299,
+    "Nombre": "Gama",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "286",
-    "NOMMUNICIP": "FUNZA"
+    "id": 25307,
+    "Nombre": "Girardot",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "288",
-    "NOMMUNICIP": "FUQUENE"
+    "id": 25312,
+    "Nombre": "Granada",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "290",
-    "NOMMUNICIP": "FUSAGASUGA"
+    "id": 25317,
+    "Nombre": "Guachetá",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "293",
-    "NOMMUNICIP": "GACHALA"
+    "id": 25320,
+    "Nombre": "Guaduas",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "295",
-    "NOMMUNICIP": "GACHANCIPA"
+    "id": 25322,
+    "Nombre": "Guasca",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "297",
-    "NOMMUNICIP": "GACHETA"
+    "id": 25324,
+    "Nombre": "Guataquí",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "299",
-    "NOMMUNICIP": "GAMA"
+    "id": 25326,
+    "Nombre": "Guatavita",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "307",
-    "NOMMUNICIP": "GIRARDOT"
+    "id": 25328,
+    "Nombre": "Guayabal de Siquima",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "999",
-    "NOMMUNICIP": "GRANADA"
+    "id": 25335,
+    "Nombre": "Guayabetal",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "317",
-    "NOMMUNICIP": "GUACHETA"
+    "id": 25339,
+    "Nombre": "Gutiérrez",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "320",
-    "NOMMUNICIP": "GUADUAS"
+    "id": 25368,
+    "Nombre": "Jerusalén",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "322",
-    "NOMMUNICIP": "GUASCA"
+    "id": 25372,
+    "Nombre": "Junín",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "324",
-    "NOMMUNICIP": "GUATAQUI"
+    "id": 25377,
+    "Nombre": "La Calera",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "326",
-    "NOMMUNICIP": "GUATAVITA"
+    "id": 25386,
+    "Nombre": "La Mesa",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "328",
-    "NOMMUNICIP": "GUAYABAL DE SIQUIMA"
+    "id": 25394,
+    "Nombre": "La Palma",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "335",
-    "NOMMUNICIP": "GUAYABETAL"
+    "id": 25398,
+    "Nombre": "La Peña",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "339",
-    "NOMMUNICIP": "GUTIERREZ"
+    "id": 25402,
+    "Nombre": "La Vega",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "368",
-    "NOMMUNICIP": "JERUSALEN"
+    "id": 25407,
+    "Nombre": "Lenguazaque",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "372",
-    "NOMMUNICIP": "JUNIN"
+    "id": 25426,
+    "Nombre": "Macheta",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "377",
-    "NOMMUNICIP": "LA CALERA"
+    "id": 25430,
+    "Nombre": "Madrid",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "386",
-    "NOMMUNICIP": "LA MESA"
+    "id": 25436,
+    "Nombre": "Manta",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "394",
-    "NOMMUNICIP": "LA PALMA"
+    "id": 25438,
+    "Nombre": "Medina",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "398",
-    "NOMMUNICIP": "LA PEÑA"
+    "id": 25473,
+    "Nombre": "Mosquera",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "402",
-    "NOMMUNICIP": "LA VEGA"
+    "id": 25483,
+    "Nombre": "Nariño",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "407",
-    "NOMMUNICIP": "LENGUAZAQUE"
+    "id": 25486,
+    "Nombre": "Nemocón",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "426",
-    "NOMMUNICIP": "MACHETA"
+    "id": 25488,
+    "Nombre": "Nilo",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "430",
-    "NOMMUNICIP": "MADRID"
+    "id": 25489,
+    "Nombre": "Nimaima",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "436",
-    "NOMMUNICIP": "MANTA"
+    "id": 25491,
+    "Nombre": "Nocaima",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "438",
-    "NOMMUNICIP": "MEDINA"
+    "id": 25513,
+    "Nombre": "Pacho",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "473",
-    "NOMMUNICIP": "MOSQUERA"
+    "id": 25518,
+    "Nombre": "Paime",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "483",
-    "NOMMUNICIP": "NARIÑO"
+    "id": 25524,
+    "Nombre": "Pandi",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "486",
-    "NOMMUNICIP": "NEMOCON"
+    "id": 25530,
+    "Nombre": "Paratebueno",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "488",
-    "NOMMUNICIP": "NILO"
+    "id": 25535,
+    "Nombre": "Pasca",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "489",
-    "NOMMUNICIP": "NIMAIMA"
+    "id": 25572,
+    "Nombre": "Puerto Salgar",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "491",
-    "NOMMUNICIP": "NOCAIMA"
+    "id": 25580,
+    "Nombre": "Pulí",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "513",
-    "NOMMUNICIP": "PACHO"
+    "id": 25592,
+    "Nombre": "Quebradanegra",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "518",
-    "NOMMUNICIP": "PAIME"
+    "id": 25594,
+    "Nombre": "Quetame",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "524",
-    "NOMMUNICIP": "PANDI"
+    "id": 25596,
+    "Nombre": "Quipile",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "530",
-    "NOMMUNICIP": "PARATEBUENO"
+    "id": 25612,
+    "Nombre": "Ricaurte",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "535",
-    "NOMMUNICIP": "PASCA"
+    "id": 25649,
+    "Nombre": "San Bernardo",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "572",
-    "NOMMUNICIP": "PUERTO SALGAR"
+    "id": 25653,
+    "Nombre": "San Cayetano",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "580",
-    "NOMMUNICIP": "PULI"
+    "id": 25658,
+    "Nombre": "San Francisco",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "592",
-    "NOMMUNICIP": "QUEBRADA NEGRA"
+    "id": 25662,
+    "Nombre": "San Juan de Río Seco",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "594",
-    "NOMMUNICIP": "QUETAME"
+    "id": 25718,
+    "Nombre": "Sasaima",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "596",
-    "NOMMUNICIP": "QUIPILE"
+    "id": 25736,
+    "Nombre": "Sesquilé",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "612",
-    "NOMMUNICIP": "RICAURTE"
+    "id": 25740,
+    "Nombre": "Sibaté",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "645",
-    "NOMMUNICIP": "SAN ANTONIO DEL TEQUENDAMA"
+    "id": 25743,
+    "Nombre": "Silvania",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "649",
-    "NOMMUNICIP": "SAN BERNARDO"
+    "id": 25745,
+    "Nombre": "Simijaca",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "653",
-    "NOMMUNICIP": "SAN CAYETANO"
+    "id": 25754,
+    "Nombre": "Soacha",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "658",
-    "NOMMUNICIP": "SAN FRANCISCO"
+    "id": 25758,
+    "Nombre": "Sopó",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "662",
-    "NOMMUNICIP": "SAN JUAN DE RIO SECO"
+    "id": 25769,
+    "Nombre": "Subachoque",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "718",
-    "NOMMUNICIP": "SASAIMA"
+    "id": 25772,
+    "Nombre": "Suesca",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "736",
-    "NOMMUNICIP": "SESQUILE"
+    "id": 25777,
+    "Nombre": "Supatá",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "740",
-    "NOMMUNICIP": "SIBATE"
+    "id": 25779,
+    "Nombre": "Susa",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "743",
-    "NOMMUNICIP": "SILVANIA"
+    "id": 25781,
+    "Nombre": "Sutatausa",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "745",
-    "NOMMUNICIP": "SIMIJACA"
+    "id": 25785,
+    "Nombre": "Tabio",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "754",
-    "NOMMUNICIP": "SOACHA"
+    "id": 25793,
+    "Nombre": "Tausa",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "758",
-    "NOMMUNICIP": "SOPO"
+    "id": 25797,
+    "Nombre": "Tena",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "769",
-    "NOMMUNICIP": "SUBACHOQUE"
+    "id": 25799,
+    "Nombre": "Tenjo",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "772",
-    "NOMMUNICIP": "SUESCA"
+    "id": 25805,
+    "Nombre": "Tibacuy",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "777",
-    "NOMMUNICIP": "SUPATA"
+    "id": 25807,
+    "Nombre": "Tibirita",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "779",
-    "NOMMUNICIP": "SUSA"
+    "id": 25815,
+    "Nombre": "Tocaima",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "781",
-    "NOMMUNICIP": "SUTATAUSA"
+    "id": 25817,
+    "Nombre": "Tocancipá",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "785",
-    "NOMMUNICIP": "TABIO"
+    "id": 25823,
+    "Nombre": "Topaipí",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "793",
-    "NOMMUNICIP": "TAUSA"
+    "id": 25839,
+    "Nombre": "Ubalá",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "797",
-    "NOMMUNICIP": "TENA"
+    "id": 25841,
+    "Nombre": "Ubaque",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "799",
-    "NOMMUNICIP": "TENJO"
+    "id": 25845,
+    "Nombre": "Une",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "805",
-    "NOMMUNICIP": "TIBACUY"
+    "id": 25851,
+    "Nombre": "Útica",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "807",
-    "NOMMUNICIP": "TIBIRITA"
+    "id": 25506,
+    "Nombre": "Venecia",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "815",
-    "NOMMUNICIP": "TOCAIMA"
+    "id": 25867,
+    "Nombre": "Vianí",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "817",
-    "NOMMUNICIP": "TOCANCIPA"
+    "id": 25843,
+    "Nombre": "Villa de San Diego de Ubate",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "823",
-    "NOMMUNICIP": "TOPAIPI"
+    "id": 25871,
+    "Nombre": "Villagómez",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "839",
-    "NOMMUNICIP": "UBALA"
+    "id": 25873,
+    "Nombre": "Villapinzón",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "841",
-    "NOMMUNICIP": "UBAQUE"
+    "id": 25875,
+    "Nombre": "Villeta",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "843",
-    "NOMMUNICIP": "UBATE"
+    "id": 25878,
+    "Nombre": "Viotá",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "845",
-    "NOMMUNICIP": "UNE"
+    "id": 25885,
+    "Nombre": "Yacopí",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "851",
-    "NOMMUNICIP": "UTICA"
+    "id": 25898,
+    "Nombre": "Zipacón",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "506",
-    "NOMMUNICIP": "VENECIA"
+    "id": 25899,
+    "Nombre": "Zipaquirá",
+    "IdDepartamento": 25
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "862",
-    "NOMMUNICIP": "VERGARA"
+    "id": 27006,
+    "Nombre": "Acandí",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "867",
-    "NOMMUNICIP": "VIANI"
+    "id": 27025,
+    "Nombre": "Alto Baudo",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "873",
-    "NOMMUNICIP": "VILLA PINZON"
+    "id": 27050,
+    "Nombre": "Atrato",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "871",
-    "NOMMUNICIP": "VILLAGOMEZ"
+    "id": 27073,
+    "Nombre": "Bagadó",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "875",
-    "NOMMUNICIP": "VILLETA"
+    "id": 27075,
+    "Nombre": "Bahía Solano",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "878",
-    "NOMMUNICIP": "VIOTA"
+    "id": 27077,
+    "Nombre": "Bajo Baudó",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "885",
-    "NOMMUNICIP": "YACOPI"
+    "id": 27099,
+    "Nombre": "Bojaya",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "898",
-    "NOMMUNICIP": "ZIPACON"
+    "id": 27150,
+    "Nombre": "Carmen del Darien",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "25",
-    "CODMUNICIP": "899",
-    "NOMMUNICIP": "ZIPAQUIRA"
+    "id": 27160,
+    "Nombre": "Cértegui",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "27",
-    "CODMUNICIP": "006",
-    "NOMMUNICIP": "ACANDI"
+    "id": 27205,
+    "Nombre": "Condoto",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "27",
-    "CODMUNICIP": "025",
-    "NOMMUNICIP": "ALTO BAUDO"
+    "id": 27135,
+    "Nombre": "El Cantón del San Pablo",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "27",
-    "CODMUNICIP": "073",
-    "NOMMUNICIP": "BAGADO"
+    "id": 27250,
+    "Nombre": "El Litoral del San Juan",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "27",
-    "CODMUNICIP": "075",
-    "NOMMUNICIP": "BAHIA SOLANO"
+    "id": 27361,
+    "Nombre": "Istmina",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "27",
-    "CODMUNICIP": "077",
-    "NOMMUNICIP": "BAJO BAUDO"
+    "id": 27372,
+    "Nombre": "Juradó",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "27",
-    "CODMUNICIP": "099",
-    "NOMMUNICIP": "BOJAYA"
+    "id": 27413,
+    "Nombre": "Lloró",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "27",
-    "CODMUNICIP": "205",
-    "NOMMUNICIP": "CONDOTO"
+    "id": 27425,
+    "Nombre": "Medio Atrato",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "27",
-    "CODMUNICIP": "135",
-    "NOMMUNICIP": "EL CANTON DE SAN PABLO"
+    "id": 27430,
+    "Nombre": "Medio Baudó",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "27",
-    "CODMUNICIP": "245",
-    "NOMMUNICIP": "EL CARMEN"
+    "id": 27450,
+    "Nombre": "Medio San Juan",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "27",
-    "CODMUNICIP": "250",
-    "NOMMUNICIP": "EL LITORAL DEL SAN JUAN"
+    "id": 27491,
+    "Nombre": "Nóvita",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "27",
-    "CODMUNICIP": "361",
-    "NOMMUNICIP": "ISTMINA"
+    "id": 27495,
+    "Nombre": "Nuquí",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "27",
-    "CODMUNICIP": "372",
-    "NOMMUNICIP": "JURADO"
+    "id": 27001,
+    "Nombre": "Quibdó",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "27",
-    "CODMUNICIP": "413",
-    "NOMMUNICIP": "LLORO"
+    "id": 27580,
+    "Nombre": "Río Iro",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "27",
-    "CODMUNICIP": "491",
-    "NOMMUNICIP": "NOVITA"
+    "id": 27600,
+    "Nombre": "Río Quito",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "27",
-    "CODMUNICIP": "495",
-    "NOMMUNICIP": "NUQUI"
+    "id": 27615,
+    "Nombre": "Riosucio",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "27",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "QUIBDO"
+    "id": 27745,
+    "Nombre": "Sipí",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "27",
-    "CODMUNICIP": "615",
-    "NOMMUNICIP": "RIOSUCIO"
+    "id": 27787,
+    "Nombre": "Tadó",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "27",
-    "CODMUNICIP": "745",
-    "NOMMUNICIP": "SIPI"
+    "id": 27800,
+    "Nombre": "Unguía",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "27",
-    "CODMUNICIP": "787",
-    "NOMMUNICIP": "TADO"
+    "id": 27810,
+    "Nombre": "Unión Panamericana",
+    "IdDepartamento": 27
   },
   {
-    "CODDEPTO": "27",
-    "CODMUNICIP": "800",
-    "NOMMUNICIP": "UNGUIA"
+    "id": 41006,
+    "Nombre": "Acevedo",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "006",
-    "NOMMUNICIP": "ACEVEDO"
+    "id": 41013,
+    "Nombre": "Agrado",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "013",
-    "NOMMUNICIP": "AGRADO"
+    "id": 41016,
+    "Nombre": "Aipe",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "016",
-    "NOMMUNICIP": "AIPE"
+    "id": 41020,
+    "Nombre": "Algeciras",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "020",
-    "NOMMUNICIP": "ALGECIRAS"
+    "id": 41026,
+    "Nombre": "Altamira",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "026",
-    "NOMMUNICIP": "ALTAMIRA"
+    "id": 41078,
+    "Nombre": "Baraya",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "078",
-    "NOMMUNICIP": "BARAYA"
+    "id": 41132,
+    "Nombre": "Campoalegre",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "132",
-    "NOMMUNICIP": "CAMPOALEGRE"
+    "id": 41206,
+    "Nombre": "Colombia",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "206",
-    "NOMMUNICIP": "COLOMBIA"
+    "id": 41244,
+    "Nombre": "Elías",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "244",
-    "NOMMUNICIP": "ELIAS"
+    "id": 41298,
+    "Nombre": "Garzón",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "298",
-    "NOMMUNICIP": "GARZON"
+    "id": 41306,
+    "Nombre": "Gigante",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "306",
-    "NOMMUNICIP": "GIGANTE"
+    "id": 41319,
+    "Nombre": "Guadalupe",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "319",
-    "NOMMUNICIP": "GUADALUPE"
+    "id": 41349,
+    "Nombre": "Hobo",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "349",
-    "NOMMUNICIP": "HOBO"
+    "id": 41357,
+    "Nombre": "Iquira",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "357",
-    "NOMMUNICIP": "IQUIRA"
+    "id": 41359,
+    "Nombre": "Isnos",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "359",
-    "NOMMUNICIP": "ISNOS"
+    "id": 41378,
+    "Nombre": "La Argentina",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "378",
-    "NOMMUNICIP": "LA ARGENTINA"
+    "id": 41396,
+    "Nombre": "La Plata",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "396",
-    "NOMMUNICIP": "LA PLATA"
+    "id": 41483,
+    "Nombre": "Nátaga",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "483",
-    "NOMMUNICIP": "NATAGA"
+    "id": 41001,
+    "Nombre": "Neiva",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "NEIVA"
+    "id": 41503,
+    "Nombre": "Oporapa",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "503",
-    "NOMMUNICIP": "OPORAPA"
+    "id": 41518,
+    "Nombre": "Paicol",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "518",
-    "NOMMUNICIP": "PAICOL"
+    "id": 41524,
+    "Nombre": "Palermo",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "524",
-    "NOMMUNICIP": "PALERMO"
+    "id": 41530,
+    "Nombre": "Palestina",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "548",
-    "NOMMUNICIP": "PITAL"
+    "id": 41548,
+    "Nombre": "Pital",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "551",
-    "NOMMUNICIP": "PITALITO"
+    "id": 41551,
+    "Nombre": "Pitalito",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "615",
-    "NOMMUNICIP": "RIVERA"
+    "id": 41615,
+    "Nombre": "Rivera",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "660",
-    "NOMMUNICIP": "SALADOBLANCO"
+    "id": 41660,
+    "Nombre": "Saladoblanco",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "668",
-    "NOMMUNICIP": "SAN AGUSTIN"
+    "id": 41676,
+    "Nombre": "Santa María",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "676",
-    "NOMMUNICIP": "SANTA MARIA"
+    "id": 41770,
+    "Nombre": "Suaza",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "770",
-    "NOMMUNICIP": "SUAZA"
+    "id": 41791,
+    "Nombre": "Tarqui",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "791",
-    "NOMMUNICIP": "TARQUI"
+    "id": 41799,
+    "Nombre": "Tello",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "799",
-    "NOMMUNICIP": "TELLO"
+    "id": 41801,
+    "Nombre": "Teruel",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "801",
-    "NOMMUNICIP": "TERUEL"
+    "id": 41797,
+    "Nombre": "Tesalia",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "797",
-    "NOMMUNICIP": "TESALIA"
+    "id": 41807,
+    "Nombre": "Timaná",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "807",
-    "NOMMUNICIP": "TIMANA"
+    "id": 41872,
+    "Nombre": "Villavieja",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "872",
-    "NOMMUNICIP": "VILLA VIEJA"
+    "id": 41885,
+    "Nombre": "Yaguará",
+    "IdDepartamento": 41
   },
   {
-    "CODDEPTO": "41",
-    "CODMUNICIP": "885",
-    "NOMMUNICIP": "YAGUARA"
+    "id": 44035,
+    "Nombre": "Albania",
+    "IdDepartamento": 44
   },
   {
-    "CODDEPTO": "44",
-    "CODMUNICIP": "078",
-    "NOMMUNICIP": "BARRANCAS"
+    "id": 44078,
+    "Nombre": "Barrancas",
+    "IdDepartamento": 44
   },
   {
-    "CODDEPTO": "44",
-    "CODMUNICIP": "090",
-    "NOMMUNICIP": "DIBULLA"
+    "id": 44090,
+    "Nombre": "Dibula",
+    "IdDepartamento": 44
   },
   {
-    "CODDEPTO": "44",
-    "CODMUNICIP": "098",
-    "NOMMUNICIP": "DISTRACCION"
+    "id": 44098,
+    "Nombre": "Distracción",
+    "IdDepartamento": 44
   },
   {
-    "CODDEPTO": "44",
-    "CODMUNICIP": "110",
-    "NOMMUNICIP": "EL MOLINO"
+    "id": 44110,
+    "Nombre": "El Molino",
+    "IdDepartamento": 44
   },
   {
-    "CODDEPTO": "44",
-    "CODMUNICIP": "279",
-    "NOMMUNICIP": "FONSECA"
+    "id": 44279,
+    "Nombre": "Fonseca",
+    "IdDepartamento": 44
   },
   {
-    "CODDEPTO": "44",
-    "CODMUNICIP": "378",
-    "NOMMUNICIP": "HATO NUEVO"
+    "id": 44378,
+    "Nombre": "Hatonuevo",
+    "IdDepartamento": 44
   },
   {
-    "CODDEPTO": "44",
-    "CODMUNICIP": "430",
-    "NOMMUNICIP": "MAICAO"
+    "id": 44420,
+    "Nombre": "La Jagua del Pilar",
+    "IdDepartamento": 44
   },
   {
-    "CODDEPTO": "44",
-    "CODMUNICIP": "560",
-    "NOMMUNICIP": "MANAURE"
+    "id": 44430,
+    "Nombre": "Maicao",
+    "IdDepartamento": 44
   },
   {
-    "CODDEPTO": "44",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "RIOHACHA"
+    "id": 44560,
+    "Nombre": "Manaure",
+    "IdDepartamento": 44
   },
   {
-    "CODDEPTO": "44",
-    "CODMUNICIP": "650",
-    "NOMMUNICIP": "SAN JUAN DEL CESAR"
+    "id": 44001,
+    "Nombre": "Riohacha",
+    "IdDepartamento": 44
   },
   {
-    "CODDEPTO": "44",
-    "CODMUNICIP": "847",
-    "NOMMUNICIP": "URIBIA"
+    "id": 44847,
+    "Nombre": "Uribia",
+    "IdDepartamento": 44
   },
   {
-    "CODDEPTO": "44",
-    "CODMUNICIP": "855",
-    "NOMMUNICIP": "URUMITA"
+    "id": 44855,
+    "Nombre": "Urumita",
+    "IdDepartamento": 44
   },
   {
-    "CODDEPTO": "44",
-    "CODMUNICIP": "874",
-    "NOMMUNICIP": "VILLANUEVA"
+    "id": 44874,
+    "Nombre": "Villanueva",
+    "IdDepartamento": 44
   },
   {
-    "CODDEPTO": "47",
-    "CODMUNICIP": "053",
-    "NOMMUNICIP": "ARACATACA"
+    "id": 47030,
+    "Nombre": "Algarrobo",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "47",
-    "CODMUNICIP": "058",
-    "NOMMUNICIP": "ARIGUANI"
+    "id": 47053,
+    "Nombre": "Aracataca",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "47",
-    "CODMUNICIP": "161",
-    "NOMMUNICIP": "CERRO DE SAN ANTONIO"
+    "id": 47058,
+    "Nombre": "Ariguaní",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "47",
-    "CODMUNICIP": "170",
-    "NOMMUNICIP": "CHIVOLO"
+    "id": 47161,
+    "Nombre": "Cerro San Antonio",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "47",
-    "CODMUNICIP": "189",
-    "NOMMUNICIP": "CIENAGA"
+    "id": 47170,
+    "Nombre": "Chivolo",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "47",
-    "CODMUNICIP": "245",
-    "NOMMUNICIP": "EL BANCO"
+    "id": 47189,
+    "Nombre": "Ciénaga",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "47",
-    "CODMUNICIP": "258",
-    "NOMMUNICIP": "EL PIÑON"
+    "id": 47205,
+    "Nombre": "Concordia",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "47",
-    "CODMUNICIP": "288",
-    "NOMMUNICIP": "FUNDACION"
+    "id": 47245,
+    "Nombre": "El Banco",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "47",
-    "CODMUNICIP": "318",
-    "NOMMUNICIP": "GUAMAL"
+    "id": 47258,
+    "Nombre": "El Piñon",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "47",
-    "CODMUNICIP": "541",
-    "NOMMUNICIP": "PEDRAZA"
+    "id": 47268,
+    "Nombre": "El Retén",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "47",
-    "CODMUNICIP": "551",
-    "NOMMUNICIP": "PIVIJAY"
+    "id": 47288,
+    "Nombre": "Fundación",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "47",
-    "CODMUNICIP": "555",
-    "NOMMUNICIP": "PLATO"
+    "id": 47318,
+    "Nombre": "Guamal",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "47",
-    "CODMUNICIP": "570",
-    "NOMMUNICIP": "PUEBLO VIEJO"
+    "id": 47460,
+    "Nombre": "Nueva Granada",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "47",
-    "CODMUNICIP": "605",
-    "NOMMUNICIP": "REMOLINO"
+    "id": 47541,
+    "Nombre": "Pedraza",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "47",
-    "CODMUNICIP": "675",
-    "NOMMUNICIP": "SALAMINA"
+    "id": 47551,
+    "Nombre": "Pivijay",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "47",
-    "CODMUNICIP": "692",
-    "NOMMUNICIP": "SAN SEBASTIAN DE BUENAVISTA"
+    "id": 47555,
+    "Nombre": "Plato",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "47",
-    "CODMUNICIP": "703",
-    "NOMMUNICIP": "SAN ZENON"
+    "id": 47570,
+    "Nombre": "Pueblo Viejo",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "47",
-    "CODMUNICIP": "707",
-    "NOMMUNICIP": "SANTA ANA"
+    "id": 47605,
+    "Nombre": "Remolino",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "47",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "SANTA MARTA"
+    "id": 47660,
+    "Nombre": "Sabanas de San Angel",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "47",
-    "CODMUNICIP": "745",
-    "NOMMUNICIP": "SITIO NUEVO"
+    "id": 47675,
+    "Nombre": "Salamina",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "47",
-    "CODMUNICIP": "798",
-    "NOMMUNICIP": "TENERIFE"
+    "id": 47692,
+    "Nombre": "San Sebastián de Buenavista",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "006",
-    "NOMMUNICIP": "ACACIAS"
+    "id": 47703,
+    "Nombre": "San Zenón",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "110",
-    "NOMMUNICIP": "BARRANCA DE UPIA"
+    "id": 47707,
+    "Nombre": "Santa Ana",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "124",
-    "NOMMUNICIP": "CABUYARO"
+    "id": 47720,
+    "Nombre": "Santa Bárbara de Pinto",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "150",
-    "NOMMUNICIP": "CASTILLA LA NUEVA"
+    "id": 47001,
+    "Nombre": "Santa Marta",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "223",
-    "NOMMUNICIP": "CUBARRAL"
+    "id": 47745,
+    "Nombre": "Sitionuevo",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "226",
-    "NOMMUNICIP": "CUMARAL"
+    "id": 47798,
+    "Nombre": "Tenerife",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "245",
-    "NOMMUNICIP": "EL CALVARIO"
+    "id": 47960,
+    "Nombre": "Zapayán",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "251",
-    "NOMMUNICIP": "EL CASTILLO"
+    "id": 47980,
+    "Nombre": "Zona Bananera",
+    "IdDepartamento": 47
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "270",
-    "NOMMUNICIP": "EL DORADO"
+    "id": 50006,
+    "Nombre": "Acacias",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "287",
-    "NOMMUNICIP": "FUENTE DE ORO"
+    "id": 50110,
+    "Nombre": "Barranca de Upía",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "313",
-    "NOMMUNICIP": "GRANADA"
+    "id": 50124,
+    "Nombre": "Cabuyaro",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "318",
-    "NOMMUNICIP": "GUAMAL"
+    "id": 50150,
+    "Nombre": "Castilla la Nueva",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "350",
-    "NOMMUNICIP": "LA MACARENA"
+    "id": 50223,
+    "Nombre": "Cubarral",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "370",
-    "NOMMUNICIP": "LA URIBE"
+    "id": 50226,
+    "Nombre": "Cumaral",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "400",
-    "NOMMUNICIP": "LEJANIAS"
+    "id": 50245,
+    "Nombre": "El Calvario",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "325",
-    "NOMMUNICIP": "MAPIRIPAN"
+    "id": 50251,
+    "Nombre": "El Castillo",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "330",
-    "NOMMUNICIP": "MECETAS"
+    "id": 50270,
+    "Nombre": "El Dorado",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "450",
-    "NOMMUNICIP": "PUERTO CONCORDIA"
+    "id": 50287,
+    "Nombre": "Fuente de Oro",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "568",
-    "NOMMUNICIP": "PUERTO GAITAN"
+    "id": 50313,
+    "Nombre": "Granada",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "577",
-    "NOMMUNICIP": "PUERTO LLERAS"
+    "id": 50318,
+    "Nombre": "Guamal",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "573",
-    "NOMMUNICIP": "PUERTO LOPEZ"
+    "id": 50350,
+    "Nombre": "La Macarena",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "590",
-    "NOMMUNICIP": "PUERTO RICO"
+    "id": 50400,
+    "Nombre": "Lejanías",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "606",
-    "NOMMUNICIP": "RESTREPO"
+    "id": 50325,
+    "Nombre": "Mapiripán",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "680",
-    "NOMMUNICIP": "SAN CARLOS DE GUAROA"
+    "id": 50330,
+    "Nombre": "Mesetas",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "683",
-    "NOMMUNICIP": "SAN JUAN DE ARAMA"
+    "id": 50450,
+    "Nombre": "Puerto Concordia",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "686",
-    "NOMMUNICIP": "SAN JUANITO"
+    "id": 50568,
+    "Nombre": "Puerto Gaitán",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "689",
-    "NOMMUNICIP": "SAN MARTIN"
+    "id": 50577,
+    "Nombre": "Puerto Lleras",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "VILLAVICENCIO"
+    "id": 50573,
+    "Nombre": "Puerto López",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "50",
-    "CODMUNICIP": "711",
-    "NOMMUNICIP": "VISTA HERMOSA"
+    "id": 50590,
+    "Nombre": "Puerto Rico",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "019",
-    "NOMMUNICIP": "ALBAN SAN JOSE"
+    "id": 50606,
+    "Nombre": "Restrepo",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "022",
-    "NOMMUNICIP": "ALDANA"
+    "id": 50680,
+    "Nombre": "San Carlos de Guaroa",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "036",
-    "NOMMUNICIP": "ANCUYA"
+    "id": 50686,
+    "Nombre": "San Juanito",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "079",
-    "NOMMUNICIP": "BARBACOAS"
+    "id": 50689,
+    "Nombre": "San Martín",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "083",
-    "NOMMUNICIP": "BELEN"
+    "id": 50370,
+    "Nombre": "Uribe",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "110",
-    "NOMMUNICIP": "BUESACO"
+    "id": 50001,
+    "Nombre": "Villavicencio",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "240",
-    "NOMMUNICIP": "CHACHAGUI"
+    "id": 50711,
+    "Nombre": "Vista Hermosa",
+    "IdDepartamento": 50
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "203",
-    "NOMMUNICIP": "COLON"
+    "id": 52019,
+    "Nombre": "Albán",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "207",
-    "NOMMUNICIP": "CONSACA"
+    "id": 52022,
+    "Nombre": "Aldana",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "210",
-    "NOMMUNICIP": "CONTADERO"
+    "id": 52036,
+    "Nombre": "Ancuyá",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "215",
-    "NOMMUNICIP": "CORDOBA"
+    "id": 52051,
+    "Nombre": "Arboleda",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "224",
-    "NOMMUNICIP": "CUASPUD"
+    "id": 52079,
+    "Nombre": "Barbacoas",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "227",
-    "NOMMUNICIP": "CUMBAL"
+    "id": 52083,
+    "Nombre": "Belén",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "233",
-    "NOMMUNICIP": "CUMBITARA"
+    "id": 52110,
+    "Nombre": "Buesaco",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "250",
-    "NOMMUNICIP": "EL CHARCO"
+    "id": 52240,
+    "Nombre": "Chachagüí",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "256",
-    "NOMMUNICIP": "EL ROSARIO"
+    "id": 52203,
+    "Nombre": "Colón",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "258",
-    "NOMMUNICIP": "EL TABLON"
+    "id": 52207,
+    "Nombre": "Consaca",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "260",
-    "NOMMUNICIP": "EL TAMBO"
+    "id": 52210,
+    "Nombre": "Contadero",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "520",
-    "NOMMUNICIP": "FRANCISCO PIZARRO"
+    "id": 52215,
+    "Nombre": "Córdoba",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "287",
-    "NOMMUNICIP": "FUNES"
+    "id": 52224,
+    "Nombre": "Cuaspud",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "317",
-    "NOMMUNICIP": "GUACHUCAL"
+    "id": 52227,
+    "Nombre": "Cumbal",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "320",
-    "NOMMUNICIP": "GUAITARILLA"
+    "id": 52233,
+    "Nombre": "Cumbitara",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "323",
-    "NOMMUNICIP": "GUALMATAN"
+    "id": 52250,
+    "Nombre": "El Charco",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "352",
-    "NOMMUNICIP": "ILES"
+    "id": 52254,
+    "Nombre": "El Peñol",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "354",
-    "NOMMUNICIP": "IMUES"
+    "id": 52256,
+    "Nombre": "El Rosario",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "356",
-    "NOMMUNICIP": "IPIALES"
+    "id": 52260,
+    "Nombre": "El Tambo",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "378",
-    "NOMMUNICIP": "LA CRUZ"
+    "id": 52520,
+    "Nombre": "Francisco Pizarro",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "381",
-    "NOMMUNICIP": "LA FLORIDA"
+    "id": 52287,
+    "Nombre": "Funes",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "385",
-    "NOMMUNICIP": "LA LLANADA"
+    "id": 52317,
+    "Nombre": "Guachucal",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "390",
-    "NOMMUNICIP": "LA TOLA"
+    "id": 52320,
+    "Nombre": "Guaitarilla",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "399",
-    "NOMMUNICIP": "LA UNION"
+    "id": 52323,
+    "Nombre": "Gualmatán",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "405",
-    "NOMMUNICIP": "LEIVA"
+    "id": 52352,
+    "Nombre": "Iles",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "411",
-    "NOMMUNICIP": "LINARES"
+    "id": 52354,
+    "Nombre": "Imués",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "418",
-    "NOMMUNICIP": "LOS ANDES"
+    "id": 52356,
+    "Nombre": "Ipiales",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "427",
-    "NOMMUNICIP": "MAGUI"
+    "id": 52378,
+    "Nombre": "La Cruz",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "435",
-    "NOMMUNICIP": "MALLAMA"
+    "id": 52381,
+    "Nombre": "La Florida",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "456",
-    "NOMMUNICIP": "MISTRATO"
+    "id": 52385,
+    "Nombre": "La Llanada",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "473",
-    "NOMMUNICIP": "MOSQUERA"
+    "id": 52390,
+    "Nombre": "La Tola",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "490",
-    "NOMMUNICIP": "OLAYA HERRERA"
+    "id": 52399,
+    "Nombre": "La Unión",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "506",
-    "NOMMUNICIP": "OSPINA"
+    "id": 52405,
+    "Nombre": "Leiva",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "PASTO"
+    "id": 52411,
+    "Nombre": "Linares",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "540",
-    "NOMMUNICIP": "POLICARPA"
+    "id": 52418,
+    "Nombre": "Los Andes",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "560",
-    "NOMMUNICIP": "POTOSI"
+    "id": 52427,
+    "Nombre": "Magüí",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "565",
-    "NOMMUNICIP": "PROVIDENCIA"
+    "id": 52435,
+    "Nombre": "Mallama",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "573",
-    "NOMMUNICIP": "PUERRES"
+    "id": 52473,
+    "Nombre": "Mosquera",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "585",
-    "NOMMUNICIP": "PUPIALES"
+    "id": 52480,
+    "Nombre": "Nariño",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "612",
-    "NOMMUNICIP": "RICAURTE"
+    "id": 52490,
+    "Nombre": "Olaya Herrera",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "621",
-    "NOMMUNICIP": "ROBERTO PAYAN"
+    "id": 52506,
+    "Nombre": "Ospina",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "678",
-    "NOMMUNICIP": "SAMANIEGO"
+    "id": 52001,
+    "Nombre": "Pasto",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "685",
-    "NOMMUNICIP": "SAN BERNARDO"
+    "id": 52540,
+    "Nombre": "Policarpa",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "687",
-    "NOMMUNICIP": "SAN LORENZO"
+    "id": 52560,
+    "Nombre": "Potosí",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "693",
-    "NOMMUNICIP": "SAN PABLO"
+    "id": 52565,
+    "Nombre": "Providencia",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "694",
-    "NOMMUNICIP": "SAN PEDRO DE CARTAGO"
+    "id": 52573,
+    "Nombre": "Puerres",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "683",
-    "NOMMUNICIP": "SANDONA"
+    "id": 52585,
+    "Nombre": "Pupiales",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "696",
-    "NOMMUNICIP": "SANTA BARBARA"
+    "id": 52612,
+    "Nombre": "Ricaurte",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "699",
-    "NOMMUNICIP": "SANTA CRUZ"
+    "id": 52621,
+    "Nombre": "Roberto Payán",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "720",
-    "NOMMUNICIP": "SAPUYES"
+    "id": 52678,
+    "Nombre": "Samaniego",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "786",
-    "NOMMUNICIP": "TAMINANGO"
+    "id": 52835,
+    "Nombre": "San Andrés de Tumaco",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "788",
-    "NOMMUNICIP": "TANGUA"
+    "id": 52685,
+    "Nombre": "San Bernardo",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "835",
-    "NOMMUNICIP": "TUMACO"
+    "id": 52687,
+    "Nombre": "San Lorenzo",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "838",
-    "NOMMUNICIP": "TUQUERRES"
+    "id": 52693,
+    "Nombre": "San Pablo",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "52",
-    "CODMUNICIP": "885",
-    "NOMMUNICIP": "YACUANQUER"
+    "id": 52683,
+    "Nombre": "Sandoná",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "003",
-    "NOMMUNICIP": "ABREGO"
+    "id": 52696,
+    "Nombre": "Santa Bárbara",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "051",
-    "NOMMUNICIP": "ARBOLEDAS"
+    "id": 52699,
+    "Nombre": "Santacruz",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "099",
-    "NOMMUNICIP": "BOCHALEMA"
+    "id": 52720,
+    "Nombre": "Sapuyes",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "109",
-    "NOMMUNICIP": "BUCARASICA"
+    "id": 52786,
+    "Nombre": "Taminango",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "128",
-    "NOMMUNICIP": "CACHIRA (NORTE DE SANTANDER)"
+    "id": 52788,
+    "Nombre": "Tangua",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "125",
-    "NOMMUNICIP": "CACOTA"
+    "id": 52838,
+    "Nombre": "Túquerres",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "172",
-    "NOMMUNICIP": "CHINACOTA"
+    "id": 52885,
+    "Nombre": "Yacuanquer",
+    "IdDepartamento": 52
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "174",
-    "NOMMUNICIP": "CHITAGA"
+    "id": 54001,
+    "Nombre": "Cúcuta",
+    "IdDepartamento": 54
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "206",
-    "NOMMUNICIP": "CONVENCION"
+    "id": 54245,
+    "Nombre": "El Carmen",
+    "IdDepartamento": 54
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "CUCUTA"
+    "id": 54518,
+    "Nombre": "Pamplona",
+    "IdDepartamento": 54
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "223",
-    "NOMMUNICIP": "CUCUTILLA"
+    "id": 54520,
+    "Nombre": "Pamplonita",
+    "IdDepartamento": 54
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "239",
-    "NOMMUNICIP": "DURANIA"
+    "id": 63001,
+    "Nombre": "Armenia",
+    "IdDepartamento": 63
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "245",
-    "NOMMUNICIP": "EL CARMEN"
+    "id": 63111,
+    "Nombre": "Buenavista",
+    "IdDepartamento": 63
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "250",
-    "NOMMUNICIP": "EL TARRA"
+    "id": 63130,
+    "Nombre": "Calarcá",
+    "IdDepartamento": 63
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "261",
-    "NOMMUNICIP": "EL ZULIA"
+    "id": 63190,
+    "Nombre": "Circasia",
+    "IdDepartamento": 63
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "313",
-    "NOMMUNICIP": "GRAMALOTE"
+    "id": 63212,
+    "Nombre": "Córdoba",
+    "IdDepartamento": 63
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "344",
-    "NOMMUNICIP": "HACARI"
+    "id": 63272,
+    "Nombre": "Filandia",
+    "IdDepartamento": 63
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "347",
-    "NOMMUNICIP": "HERRAN"
+    "id": 63302,
+    "Nombre": "Génova",
+    "IdDepartamento": 63
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "385",
-    "NOMMUNICIP": "LA ESPERANZA (NORTE DE SANTANDER)"
+    "id": 63401,
+    "Nombre": "La Tebaida",
+    "IdDepartamento": 63
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "398",
-    "NOMMUNICIP": "LA PLAYA"
+    "id": 63470,
+    "Nombre": "Montenegro",
+    "IdDepartamento": 63
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "377",
-    "NOMMUNICIP": "LABATECA"
+    "id": 63548,
+    "Nombre": "Pijao",
+    "IdDepartamento": 63
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "405",
-    "NOMMUNICIP": "LOS PATIOS"
+    "id": 63594,
+    "Nombre": "Quimbaya",
+    "IdDepartamento": 63
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "418",
-    "NOMMUNICIP": "LOURDES"
+    "id": 63690,
+    "Nombre": "Salento",
+    "IdDepartamento": 63
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "480",
-    "NOMMUNICIP": "MUTISCUA"
+    "id": 66045,
+    "Nombre": "Apía",
+    "IdDepartamento": 66
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "498",
-    "NOMMUNICIP": "OCAÑA"
+    "id": 66075,
+    "Nombre": "Balboa",
+    "IdDepartamento": 66
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "000",
-    "NOMMUNICIP": "OCAÑA"
+    "id": 66170,
+    "Nombre": "Dosquebradas",
+    "IdDepartamento": 66
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "518",
-    "NOMMUNICIP": "PAMPLONA"
+    "id": 66318,
+    "Nombre": "Guática",
+    "IdDepartamento": 66
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "520",
-    "NOMMUNICIP": "PAMPLONITA"
+    "id": 66383,
+    "Nombre": "La Celia",
+    "IdDepartamento": 66
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "599",
-    "NOMMUNICIP": "RAGONVALIA"
+    "id": 66400,
+    "Nombre": "La Virginia",
+    "IdDepartamento": 66
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "660",
-    "NOMMUNICIP": "SALAZAR"
+    "id": 66440,
+    "Nombre": "Marsella",
+    "IdDepartamento": 66
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "670",
-    "NOMMUNICIP": "SAN CALIXTO"
+    "id": 66456,
+    "Nombre": "Mistrató",
+    "IdDepartamento": 66
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "673",
-    "NOMMUNICIP": "SAN CAYETANO"
+    "id": 66001,
+    "Nombre": "Pereira",
+    "IdDepartamento": 66
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "680",
-    "NOMMUNICIP": "SANTIAGO"
+    "id": 66572,
+    "Nombre": "Pueblo Rico",
+    "IdDepartamento": 66
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "720",
-    "NOMMUNICIP": "SARDINATA"
+    "id": 66594,
+    "Nombre": "Quinchía",
+    "IdDepartamento": 66
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "743",
-    "NOMMUNICIP": "SILOS"
+    "id": 66682,
+    "Nombre": "Santa Rosa de Cabal",
+    "IdDepartamento": 66
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "800",
-    "NOMMUNICIP": "TEORAMA"
+    "id": 66687,
+    "Nombre": "Santuario",
+    "IdDepartamento": 66
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "810",
-    "NOMMUNICIP": "TIBU"
+    "id": 68013,
+    "Nombre": "Aguada",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "820",
-    "NOMMUNICIP": "TOLEDO"
+    "id": 68020,
+    "Nombre": "Albania",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "871",
-    "NOMMUNICIP": "VILLA CARO"
+    "id": 68051,
+    "Nombre": "Aratoca",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "54",
-    "CODMUNICIP": "874",
-    "NOMMUNICIP": "VILLA DEL ROSARIO"
+    "id": 68077,
+    "Nombre": "Barbosa",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "63",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "ARMENIA"
+    "id": 68079,
+    "Nombre": "Barichara",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "63",
-    "CODMUNICIP": "111",
-    "NOMMUNICIP": "BUENAVISTA"
+    "id": 68081,
+    "Nombre": "Barrancabermeja",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "63",
-    "CODMUNICIP": "130",
-    "NOMMUNICIP": "CALARCA"
+    "id": 68092,
+    "Nombre": "Betulia",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "63",
-    "CODMUNICIP": "190",
-    "NOMMUNICIP": "CIRCASIA"
+    "id": 68101,
+    "Nombre": "Bolívar",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "63",
-    "CODMUNICIP": "212",
-    "NOMMUNICIP": "CORDOBA"
+    "id": 68001,
+    "Nombre": "Bucaramanga",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "63",
-    "CODMUNICIP": "272",
-    "NOMMUNICIP": "FILANDIA"
+    "id": 68121,
+    "Nombre": "Cabrera",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "63",
-    "CODMUNICIP": "302",
-    "NOMMUNICIP": "GENOVA"
+    "id": 68132,
+    "Nombre": "California",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "63",
-    "CODMUNICIP": "401",
-    "NOMMUNICIP": "LA TEBAIDA"
+    "id": 68147,
+    "Nombre": "Capitanejo",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "63",
-    "CODMUNICIP": "470",
-    "NOMMUNICIP": "MONTENEGRO"
+    "id": 68152,
+    "Nombre": "Carcasí",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "63",
-    "CODMUNICIP": "548",
-    "NOMMUNICIP": "PIJAO"
+    "id": 68160,
+    "Nombre": "Cepitá",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "63",
-    "CODMUNICIP": "594",
-    "NOMMUNICIP": "QUIMBAYA"
+    "id": 68162,
+    "Nombre": "Cerrito",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "63",
-    "CODMUNICIP": "690",
-    "NOMMUNICIP": "SALENTO"
+    "id": 68167,
+    "Nombre": "Charalá",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "66",
-    "CODMUNICIP": "045",
-    "NOMMUNICIP": "APIA"
+    "id": 68169,
+    "Nombre": "Charta",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "66",
-    "CODMUNICIP": "075",
-    "NOMMUNICIP": "BALBOA"
+    "id": 68176,
+    "Nombre": "Chimá",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "66",
-    "CODMUNICIP": "088",
-    "NOMMUNICIP": "BELEN DE UMBRIA"
+    "id": 68179,
+    "Nombre": "Chipatá",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "66",
-    "CODMUNICIP": "170",
-    "NOMMUNICIP": "DOS QUEBRADAS"
+    "id": 68190,
+    "Nombre": "Cimitarra",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "66",
-    "CODMUNICIP": "318",
-    "NOMMUNICIP": "GUATICA"
+    "id": 68207,
+    "Nombre": "Concepción",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "66",
-    "CODMUNICIP": "363",
-    "NOMMUNICIP": "LA CELIA"
+    "id": 68209,
+    "Nombre": "Confines",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "66",
-    "CODMUNICIP": "383",
-    "NOMMUNICIP": "LA CELIA"
+    "id": 68211,
+    "Nombre": "Contratación",
+    "IdDepartamento": 68
   },
   {
-    "CODDEPTO": "66",
-    "CODMUNICIP": "400",
-    "NOMMUNICIP": "LA VIRGINIA"
-  },
-  {
-    "CODDEPTO": "66",
-    "CODMUNICIP": "440",
-    "NOMMUNICIP": "MARSELLA"
-  },
-  {
-    "CODDEPTO": "66",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "PEREIRA"
-  },
-  {
-    "CODDEPTO": "66",
-    "CODMUNICIP": "572",
-    "NOMMUNICIP": "PUEBLO RICO"
-  },
-  {
-    "CODDEPTO": "66",
-    "CODMUNICIP": "594",
-    "NOMMUNICIP": "QUINCHIA"
-  },
-  {
-    "CODDEPTO": "66",
-    "CODMUNICIP": "682",
-    "NOMMUNICIP": "SANTA ROSA DE CABAL"
-  },
-  {
-    "CODDEPTO": "66",
-    "CODMUNICIP": "687",
-    "NOMMUNICIP": "SANTUARIO"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "013",
-    "NOMMUNICIP": "AGUADA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "020",
-    "NOMMUNICIP": "ALBANIA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "051",
-    "NOMMUNICIP": "ARATOCA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "077",
-    "NOMMUNICIP": "BARBOSA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "079",
-    "NOMMUNICIP": "BARICHARA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "081",
-    "NOMMUNICIP": "BARRANCABERMEJA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "092",
-    "NOMMUNICIP": "BETULIA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "101",
-    "NOMMUNICIP": "BOLIVAR"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "BUCARAMANGA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "121",
-    "NOMMUNICIP": "CABRERA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "132",
-    "NOMMUNICIP": "CALIFORNIA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "147",
-    "NOMMUNICIP": "CAPITANEJO"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "152",
-    "NOMMUNICIP": "CARCASI"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "160",
-    "NOMMUNICIP": "CEPITA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "162",
-    "NOMMUNICIP": "CERRITO"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "167",
-    "NOMMUNICIP": "CHARALA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "169",
-    "NOMMUNICIP": "CHARTA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "176",
-    "NOMMUNICIP": "CHIMA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "179",
-    "NOMMUNICIP": "CHIPATA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "190",
-    "NOMMUNICIP": "CIMITARRA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "207",
-    "NOMMUNICIP": "CONCEPCION"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "209",
-    "NOMMUNICIP": "CONFINES"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "211",
-    "NOMMUNICIP": "CONTRATACION"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "217",
-    "NOMMUNICIP": "COROMORO"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "229",
-    "NOMMUNICIP": "CURITI"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "235",
-    "NOMMUNICIP": "EL CARMEN"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "245",
-    "NOMMUNICIP": "EL GUACAMAYO"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "250",
-    "NOMMUNICIP": "EL PEÑON"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "255",
-    "NOMMUNICIP": "EL PLAYON"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "264",
-    "NOMMUNICIP": "ENCINO"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "266",
-    "NOMMUNICIP": "ENCISO"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "271",
-    "NOMMUNICIP": "FLORIAN"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "276",
-    "NOMMUNICIP": "FLORIDA BLANCA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "296",
-    "NOMMUNICIP": "GALAN"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "298",
-    "NOMMUNICIP": "GAMBITA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "307",
-    "NOMMUNICIP": "GIRON"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "318",
-    "NOMMUNICIP": "GUACA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "320",
-    "NOMMUNICIP": "GUADALUPE"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "322",
-    "NOMMUNICIP": "GUAPOTA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "324",
-    "NOMMUNICIP": "GUAVATA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "327",
-    "NOMMUNICIP": "GUEPSA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "344",
-    "NOMMUNICIP": "HATO"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "368",
-    "NOMMUNICIP": "JESUS MARIA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "370",
-    "NOMMUNICIP": "JORDAN"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "377",
-    "NOMMUNICIP": "LA BELLEZA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "397",
-    "NOMMUNICIP": "LA PAZ"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "385",
-    "NOMMUNICIP": "LANDAZURI"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "406",
-    "NOMMUNICIP": "LEBRIJA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "418",
-    "NOMMUNICIP": "LOS SANTOS"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "425",
-    "NOMMUNICIP": "MACARAVITA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "432",
-    "NOMMUNICIP": "MALAGA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "444",
-    "NOMMUNICIP": "MATANZA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "464",
-    "NOMMUNICIP": "MOGOTES"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "468",
-    "NOMMUNICIP": "MOLAGAVITA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "498",
-    "NOMMUNICIP": "OCAMONTE"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "500",
-    "NOMMUNICIP": "OIBA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "502",
-    "NOMMUNICIP": "ONZAGA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "522",
-    "NOMMUNICIP": "PALMAR"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "524",
-    "NOMMUNICIP": "PALMAS DEL SOCORRO"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "533",
-    "NOMMUNICIP": "PARAMO"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "547",
-    "NOMMUNICIP": "PIE DE CUESTA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "549",
-    "NOMMUNICIP": "PINCHOTE"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "572",
-    "NOMMUNICIP": "PUENTE NACIONAL"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "573",
-    "NOMMUNICIP": "PUERTO PARRA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "575",
-    "NOMMUNICIP": "PUERTO WILCHES"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "615",
-    "NOMMUNICIP": "RIONEGRO"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "655",
-    "NOMMUNICIP": "SABANA DE TORRES"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "669",
-    "NOMMUNICIP": "SAN ANDRES B/MANGA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "673",
-    "NOMMUNICIP": "SAN BENITO"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "679",
-    "NOMMUNICIP": "SAN GIL"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "682",
-    "NOMMUNICIP": "SAN JOAQUIN"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "684",
-    "NOMMUNICIP": "SAN JOSE DE MIRANDA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "686",
-    "NOMMUNICIP": "SAN MIGUEL"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "689",
-    "NOMMUNICIP": "SAN VICENTE DE CHUCURY"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "705",
-    "NOMMUNICIP": "SANTA BARBARA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "720",
-    "NOMMUNICIP": "SANTA HELENA DEL OPON"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "745",
-    "NOMMUNICIP": "SIMACOTA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "755",
-    "NOMMUNICIP": "SOCORRO"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "770",
-    "NOMMUNICIP": "SUAITA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "773",
-    "NOMMUNICIP": "SUCRE"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "780",
-    "NOMMUNICIP": "SURATA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "820",
-    "NOMMUNICIP": "TONA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "855",
-    "NOMMUNICIP": "VALLE SAN JOSE"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "861",
-    "NOMMUNICIP": "VELEZ"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "867",
-    "NOMMUNICIP": "VETAS"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "872",
-    "NOMMUNICIP": "VILLA NUEVA"
-  },
-  {
-    "CODDEPTO": "68",
-    "CODMUNICIP": "895",
-    "NOMMUNICIP": "ZAPATOCA"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "110",
-    "NOMMUNICIP": "BUENAVISTA"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "124",
-    "NOMMUNICIP": "CAIMITO"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "230",
-    "NOMMUNICIP": "CHALAN"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "204",
-    "NOMMUNICIP": "COLOSO"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "215",
-    "NOMMUNICIP": "COROZAL"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "235",
-    "NOMMUNICIP": "GALERAS"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "265",
-    "NOMMUNICIP": "GUARANDA"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "400",
-    "NOMMUNICIP": "LA UNION"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "418",
-    "NOMMUNICIP": "LOS PALMITOS"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "429",
-    "NOMMUNICIP": "MAJAGUAL"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "473",
-    "NOMMUNICIP": "MORROA"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "508",
-    "NOMMUNICIP": "OVEJAS"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "523",
-    "NOMMUNICIP": "PALMITO"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "670",
-    "NOMMUNICIP": "SAMPUES"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "678",
-    "NOMMUNICIP": "SAN BENITO ABAD"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "702",
-    "NOMMUNICIP": "SAN JUAN BETULIA"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "708",
-    "NOMMUNICIP": "SAN MARCOS"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "713",
-    "NOMMUNICIP": "SAN ONOFRE"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "717",
-    "NOMMUNICIP": "SAN PEDRO"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "742",
-    "NOMMUNICIP": "SINCE"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "SINCELEJO"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "771",
-    "NOMMUNICIP": "SUCRE"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "820",
-    "NOMMUNICIP": "TOLU"
-  },
-  {
-    "CODDEPTO": "70",
-    "CODMUNICIP": "823",
-    "NOMMUNICIP": "TOLU VIEJO"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "024",
-    "NOMMUNICIP": "ALPUJARRA"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "026",
-    "NOMMUNICIP": "ALVARADO"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "030",
-    "NOMMUNICIP": "AMBALEMA"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "043",
-    "NOMMUNICIP": "ANZOATEGUI"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "067",
-    "NOMMUNICIP": "ATACO"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "124",
-    "NOMMUNICIP": "CAJAMARCA"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "148",
-    "NOMMUNICIP": "CARMEN DE APICALA"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "152",
-    "NOMMUNICIP": "CASABIANCA"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "168",
-    "NOMMUNICIP": "CHAPARRAL"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "200",
-    "NOMMUNICIP": "COELLO"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "217",
-    "NOMMUNICIP": "COYAIMA"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "226",
-    "NOMMUNICIP": "CUNDAY"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "236",
-    "NOMMUNICIP": "DOLORES"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "268",
-    "NOMMUNICIP": "ESPINAL"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "270",
-    "NOMMUNICIP": "FALAN"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "275",
-    "NOMMUNICIP": "FLANDES"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "283",
-    "NOMMUNICIP": "FRESNO"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "319",
-    "NOMMUNICIP": "GUAMO"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "055",
-    "NOMMUNICIP": "GUAYABAL"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "347",
-    "NOMMUNICIP": "HERVEO"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "349",
-    "NOMMUNICIP": "HONDA"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "IBAGUE"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "352",
-    "NOMMUNICIP": "ICONONZO"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "408",
-    "NOMMUNICIP": "LERIDA"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "411",
-    "NOMMUNICIP": "LIBANO"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "443",
-    "NOMMUNICIP": "MARIQUITA"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "449",
-    "NOMMUNICIP": "MELGAR"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "461",
-    "NOMMUNICIP": "MURILLO"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "483",
-    "NOMMUNICIP": "NATAGAIMA"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "504",
-    "NOMMUNICIP": "ORTEGA"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "547",
-    "NOMMUNICIP": "PIEDRAS"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "555",
-    "NOMMUNICIP": "PLANADAS"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "563",
-    "NOMMUNICIP": "PRADO"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "585",
-    "NOMMUNICIP": "PURIFICACION"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "616",
-    "NOMMUNICIP": "RIO BLANCO"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "622",
-    "NOMMUNICIP": "RONCESVALLES"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "624",
-    "NOMMUNICIP": "ROVIRA"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "671",
-    "NOMMUNICIP": "SALDAÑA"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "675",
-    "NOMMUNICIP": "SAN ANTONIO"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "678",
-    "NOMMUNICIP": "SAN LUIS"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "686",
-    "NOMMUNICIP": "SANTA ISABEL"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "770",
-    "NOMMUNICIP": "SUAREZ"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "854",
-    "NOMMUNICIP": "VALLE DE SAN JUAN"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "861",
-    "NOMMUNICIP": "VENADILLO"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "870",
-    "NOMMUNICIP": "VILLA HERMOSA"
-  },
-  {
-    "CODDEPTO": "73",
-    "CODMUNICIP": "873",
-    "NOMMUNICIP": "VILLA RICA"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "020",
-    "NOMMUNICIP": "ALCALA"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "036",
-    "NOMMUNICIP": "ANDALUCIA"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "041",
-    "NOMMUNICIP": "ANSERMA NUEVO"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "054",
-    "NOMMUNICIP": "ARGELIA"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "100",
-    "NOMMUNICIP": "BOLIVAR"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "109",
-    "NOMMUNICIP": "BUENAVENTURA"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "111",
-    "NOMMUNICIP": "BUGA"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "113",
-    "NOMMUNICIP": "BUGALAGRANDE"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "122",
-    "NOMMUNICIP": "CAICEDONIA"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "CALI"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "126",
-    "NOMMUNICIP": "CALIMA"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "130",
-    "NOMMUNICIP": "CANDELARIA"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "147",
-    "NOMMUNICIP": "CARTAGO"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "233",
-    "NOMMUNICIP": "DAGUA"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "243",
-    "NOMMUNICIP": "EL AGUILA"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "246",
-    "NOMMUNICIP": "EL CAIRO"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "248",
-    "NOMMUNICIP": "EL CERRITO"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "250",
-    "NOMMUNICIP": "EL DOVIO"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "275",
-    "NOMMUNICIP": "FLORIDA"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "306",
-    "NOMMUNICIP": "GINEBRA"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "318",
-    "NOMMUNICIP": "GUACARI"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "364",
-    "NOMMUNICIP": "JAMUNDI"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "377",
-    "NOMMUNICIP": "LA CUMBRE"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "400",
-    "NOMMUNICIP": "LA UNION"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "403",
-    "NOMMUNICIP": "LA VICTORIA"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "497",
-    "NOMMUNICIP": "OBANDO"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "520",
-    "NOMMUNICIP": "PALMIRA"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "563",
-    "NOMMUNICIP": "PRADERA"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "606",
-    "NOMMUNICIP": "RESTREPO"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "616",
-    "NOMMUNICIP": "RIOFRIO"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "622",
-    "NOMMUNICIP": "ROLDANILLO"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "660",
-    "NOMMUNICIP": "SAN JOSE DEL PALMAR"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "570",
-    "NOMMUNICIP": "SAN PEDRO"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "736",
-    "NOMMUNICIP": "SEVILLA"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "823",
-    "NOMMUNICIP": "TORO"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "828",
-    "NOMMUNICIP": "TRUJILLO"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "834",
-    "NOMMUNICIP": "TULUA"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "845",
-    "NOMMUNICIP": "ULLOA"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "863",
-    "NOMMUNICIP": "VERSALLES"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "869",
-    "NOMMUNICIP": "VIJES"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "890",
-    "NOMMUNICIP": "YOTOCO"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "892",
-    "NOMMUNICIP": "YUMBO"
-  },
-  {
-    "CODDEPTO": "76",
-    "CODMUNICIP": "895",
-    "NOMMUNICIP": "ZARZAL"
-  },
-  {
-    "CODDEPTO": "81",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "ARAUCA"
-  },
-  {
-    "CODDEPTO": "81",
-    "CODMUNICIP": "065",
-    "NOMMUNICIP": "ARAUQUITA"
-  },
-  {
-    "CODDEPTO": "81",
-    "CODMUNICIP": "220",
-    "NOMMUNICIP": "CRAVO NORTE"
-  },
-  {
-    "CODDEPTO": "81",
-    "CODMUNICIP": "300",
-    "NOMMUNICIP": "FORTUL"
-  },
-  {
-    "CODDEPTO": "81",
-    "CODMUNICIP": "591",
-    "NOMMUNICIP": "PUERTO RONDON"
-  },
-  {
-    "CODDEPTO": "81",
-    "CODMUNICIP": "736",
-    "NOMMUNICIP": "SARAVENA"
-  },
-  {
-    "CODDEPTO": "81",
-    "CODMUNICIP": "794",
-    "NOMMUNICIP": "TAME"
-  },
-  {
-    "CODDEPTO": "85",
-    "CODMUNICIP": "010",
-    "NOMMUNICIP": "AGUAZUL"
-  },
-  {
-    "CODDEPTO": "85",
-    "CODMUNICIP": "015",
-    "NOMMUNICIP": "CHAMEZA"
-  },
-  {
-    "CODDEPTO": "85",
-    "CODMUNICIP": "125",
-    "NOMMUNICIP": "HATO COROZAL"
-  },
-  {
-    "CODDEPTO": "85",
-    "CODMUNICIP": "139",
-    "NOMMUNICIP": "MANI"
-  },
-  {
-    "CODDEPTO": "85",
-    "CODMUNICIP": "162",
-    "NOMMUNICIP": "MONTERREY"
-  },
-  {
-    "CODDEPTO": "85",
-    "CODMUNICIP": "225",
-    "NOMMUNICIP": "NUNCHIA"
-  },
-  {
-    "CODDEPTO": "85",
-    "CODMUNICIP": "230",
-    "NOMMUNICIP": "OROCUE"
-  },
-  {
-    "CODDEPTO": "85",
-    "CODMUNICIP": "250",
-    "NOMMUNICIP": "PAZ DE ARIPORO"
-  },
-  {
-    "CODDEPTO": "85",
-    "CODMUNICIP": "263",
-    "NOMMUNICIP": "PORE"
-  },
-  {
-    "CODDEPTO": "85",
-    "CODMUNICIP": "279",
-    "NOMMUNICIP": "RECETOR"
-  },
-  {
-    "CODDEPTO": "85",
-    "CODMUNICIP": "300",
-    "NOMMUNICIP": "SABANALARGA"
-  },
-  {
-    "CODDEPTO": "85",
-    "CODMUNICIP": "325",
-    "NOMMUNICIP": "SAN LUIS DE PALENQUE"
-  },
-  {
-    "CODDEPTO": "85",
-    "CODMUNICIP": "400",
-    "NOMMUNICIP": "TAMARA"
-  },
-  {
-    "CODDEPTO": "85",
-    "CODMUNICIP": "410",
-    "NOMMUNICIP": "TAURAMENA"
-  },
-  {
-    "CODDEPTO": "85",
-    "CODMUNICIP": "430",
-    "NOMMUNICIP": "TRINIDAD"
-  },
-  {
-    "CODDEPTO": "85",
-    "CODMUNICIP": "440",
-    "NOMMUNICIP": "VILLANUEVA"
-  },
-  {
-    "CODDEPTO": "85",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "YOPAL"
-  },
-  {
-    "CODDEPTO": "86",
-    "CODMUNICIP": "219",
-    "NOMMUNICIP": "COLON"
-  },
-  {
-    "CODDEPTO": "86",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "MOCOA"
-  },
-  {
-    "CODDEPTO": "86",
-    "CODMUNICIP": "320",
-    "NOMMUNICIP": "ORITO"
-  },
-  {
-    "CODDEPTO": "86",
-    "CODMUNICIP": "568",
-    "NOMMUNICIP": "PUERTO ASIS"
-  },
-  {
-    "CODDEPTO": "86",
-    "CODMUNICIP": "569",
-    "NOMMUNICIP": "PUERTO CAICEDO"
-  },
-  {
-    "CODDEPTO": "86",
-    "CODMUNICIP": "571",
-    "NOMMUNICIP": "PUERTO GUZMAN"
-  },
-  {
-    "CODDEPTO": "86",
-    "CODMUNICIP": "573",
-    "NOMMUNICIP": "PUERTO LEGUIZAMO"
-  },
-  {
-    "CODDEPTO": "86",
-    "CODMUNICIP": "755",
-    "NOMMUNICIP": "SAN FRANCISCO"
-  },
-  {
-    "CODDEPTO": "86",
-    "CODMUNICIP": "757",
-    "NOMMUNICIP": "SAN MIGUEL"
-  },
-  {
-    "CODDEPTO": "86",
-    "CODMUNICIP": "760",
-    "NOMMUNICIP": "SIBUNDOY"
-  },
-  {
-    "CODDEPTO": "86",
-    "CODMUNICIP": "749",
-    "NOMMUNICIP": "SIBUNDOY"
-  },
-  {
-    "CODDEPTO": "86",
-    "CODMUNICIP": "865",
-    "NOMMUNICIP": "VALLE DE GUAMEZ"
-  },
-  {
-    "CODDEPTO": "86",
-    "CODMUNICIP": "885",
-    "NOMMUNICIP": "VILLA GARZON"
-  },
-  {
-    "CODDEPTO": "88",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "SAN ANDRES ISLAS"
-  },
-  {
-    "CODDEPTO": "91",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "LETICIA"
-  },
-  {
-    "CODDEPTO": "91",
-    "CODMUNICIP": "669",
-    "NOMMUNICIP": "PUERTO SANTANDER"
-  },
-  {
-    "CODDEPTO": "94",
-    "CODMUNICIP": "343",
-    "NOMMUNICIP": "BARRANCOMINAS"
-  },
-  {
-    "CODDEPTO": "94",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "PUERTO INIRIDA"
-  },
-  {
-    "CODDEPTO": "94",
-    "CODMUNICIP": "883",
-    "NOMMUNICIP": "SAN FELIPE"
-  },
-  {
-    "CODDEPTO": "95",
-    "CODMUNICIP": "015",
-    "NOMMUNICIP": "CALAMAR"
-  },
-  {
-    "CODDEPTO": "95",
-    "CODMUNICIP": "025",
-    "NOMMUNICIP": "EL RETORNO"
-  },
-  {
-    "CODDEPTO": "95",
-    "CODMUNICIP": "200",
-    "NOMMUNICIP": "MIRAFLORES"
-  },
-  {
-    "CODDEPTO": "95",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "SAN JOSE DEL GUAVIARE"
-  },
-  {
-    "CODDEPTO": "97",
-    "CODMUNICIP": "161",
-    "NOMMUNICIP": "CARURU"
-  },
-  {
-    "CODDEPTO": "97",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "MITU"
-  },
-  {
-    "CODDEPTO": "97",
-    "CODMUNICIP": "802",
-    "NOMMUNICIP": "TARAIRA"
-  },
-  {
-    "CODDEPTO": "99",
-    "CODMUNICIP": "524",
-    "NOMMUNICIP": "LA PRIMAVERA"
-  },
-  {
-    "CODDEPTO": "99",
-    "CODMUNICIP": "001",
-    "NOMMUNICIP": "PUERTO CARREÑO"
-  },
-  {
-    "CODDEPTO": "99",
-    "CODMUNICIP": "572",
-    "NOMMUNICIP": "SANTA RITA"
-  },
-  {
-    "CODDEPTO": "99",
-    "CODMUNICIP": "624",
-    "NOMMUNICIP": "SANTA ROSALIA"
+    "id": 68217,
+    "Nombre": "Coromoro",
+    "IdDepartamento": 68
   }
 ]

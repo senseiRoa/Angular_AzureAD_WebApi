@@ -172,7 +172,7 @@
                     <td><b>Departamento de Ubicación</b></td>
                     <td>
                       <div *ngIf="entity.Data.Accionante.DepartamentoAux">
-                        {{entity.Data.Accionante.DepartamentoAux.NOMDEPTO}}
+                        {{entity.Data.Accionante.DepartamentoAux.Nombre}}
                       </div>
 
                     </td>
@@ -181,7 +181,7 @@
                     <td><b>Municipio de Ubicación</b></td>
                     <td>
                       <div *ngIf="entity.Data.Accionante.MunicipioAux">
-                        {{entity.Data.Accionante.MunicipioAux.NOMMUNICIP}}
+                        {{entity.Data.Accionante.MunicipioAux.Nombre}}
                       </div>
 
                     </td>
@@ -272,7 +272,7 @@
                     <td><b>Archivo</b></td>
                     <td>
                       <div class="ui-g-12 break">
-                        {{fileUploadName}}
+                        {{entity.fileName}}
                       </div>
                     </td>
                   </tr>
@@ -283,7 +283,8 @@
           </div>
         </p-panel>
         <div class="ui-g-12">
-          <p-captcha siteKey="6Ldfv-YUAAAAAIVk-Oi-tmHuH50ly9ZWAcZoOi_6" (onResponse)="showResponse($event)"></p-captcha>
+          <p-captcha *ngIf="!formComponent.invalid" siteKey="6Ldfv-YUAAAAAIVk-Oi-tmHuH50ly9ZWAcZoOi_6"
+            (onResponse)="showResponse($event)"></p-captcha>
           <button pButton label="Enviar" (click)="send($event)" icon="pi pi-check" style="float: right;"
             [disabled]='formComponent.invalid ' class="ui-button-success"></button>
 
@@ -296,8 +297,24 @@
 
       </app-step>
     </app-steps>
+
   </form>
 </div>
 
+<p-dialog header="Confirmación" [(visible)]="displayConfirmacion" [closeOnEscape]="false" [closable]="false"
+   [draggable]="false" [baseZIndex]="10000"
+  [style]="{width: '350px', minWidth: '200px'}" [minY]="70" >
+  <p>El proceso de radicación se completo satisfactoriamente,
+    se ha enviado un correo electronico al correo: {{entity.Data.Accionante.CorreoElectronico}}, por favor revise su
+    bandeja de entrada (aqui falta alistar el servidor de correos)
+  </p>
+  <p-footer>
+    <button type="button" pButton icon="pi pi-check" (click)="terminar()" label="Aceptar"></button>
 
-{{ entity.Data | json }}
+  </p-footer>
+</p-dialog>
+
+<!-- {{ entity.Data | json }} -->
+<!-- <button (click)="refresh()">Refresh</button> -->
+<!-- <button (click)="displayConfirmacion=true">showConf</button> -->
+

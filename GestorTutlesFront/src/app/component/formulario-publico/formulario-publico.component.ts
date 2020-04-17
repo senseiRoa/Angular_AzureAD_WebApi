@@ -10,7 +10,7 @@ import { FormGroup, FormBuilder, Validators, FormArray } from '@angular/forms';
 import { RegistroExpediente } from 'src/app/modelos/registro-expediente';
 import { DepartamentoService } from 'src/app/servicios/departamento.service';
 import { MunicipioService } from 'src/app/servicios/municipio.service';
-import { DemoPublicService } from 'src/service/DemoPublic.service';
+import { ExpedienteDigitalService } from 'src/service/ExpedienteDigital.service';
 @Component({
   selector: 'app-formulario-publico',
   templateUrl: './formulario-publico.component.html',
@@ -27,7 +27,8 @@ export class FormularioPublicoComponent implements OnInit {
   especialidadsAux: any;
   private uploadFile: File;
   fileUploadName: string;
-
+  displayConfirmacion = false;
+  displayModal = false;
 
 
   constructor(private messageService: MessageService, private fb: FormBuilder,
@@ -35,7 +36,7 @@ export class FormularioPublicoComponent implements OnInit {
     private municipioService: MunicipioService,
     private derechoFundamentalService: DerechoFundamentalService,
     private especialidadService: EspecialidadService,
-    private publicService: DemoPublicService
+    private publicService: ExpedienteDigitalService
   ) {
   }
 
@@ -47,7 +48,7 @@ export class FormularioPublicoComponent implements OnInit {
   async cargarData() {
     try {
       const dep = await this.departamentoService.getAllAsync();
-      this.departamentosAux = dep.map(i => ({ label: i.NOMDEPTO, value: i }));
+      this.departamentosAux = dep.map(i => ({ label: i.Nombre, value: i }));
 
       const derechoFund = await this.derechoFundamentalService.getAllAsync();
       this.derechoFundamentalsAux = derechoFund.map(i => ({ label: i.value, value: i }));
@@ -134,13 +135,16 @@ export class FormularioPublicoComponent implements OnInit {
     }
 
   }
-
+  refresh(): void {
+    window.location.reload();
+  }
   async depChange() {
     try {
+
       const mun = await this.municipioService.getAllAsync();
 
-      this.municipiosAux = mun.filter(i => i.CODDEPTO === this.entity.Data.IdDepartamentoRadicado)
-        .map(i => ({ label: i.NOMMUNICIP, value: i.CODMUNICIP }));
+      this.municipiosAux = mun.filter(i => i.id === this.entity.Data.IdDepartamentoRadicado)
+        .map(i => ({ label: i.Nombre, value: i.id }));
     } catch (error) {
       console.log(error);
       this.messageService.add({ severity: 'error', summary: 'Error', detail: 'Hubo un error cargando los información, intentelo de nuevo' });
@@ -172,6 +176,9 @@ export class FormularioPublicoComponent implements OnInit {
     console.log(event);
   }
 
+  terminar() {
+    this.refresh();
+  }
 
   async send(event) {
     try {
@@ -180,10 +187,12 @@ export class FormularioPublicoComponent implements OnInit {
 
       if (rta.status) {
         this.messageService.add({ severity: 'success', summary: 'Exito', detail: rta.message });
-        this.inicializarEntity();
-        this.uploadFile = null;
-        this.formComponent.reset();
-        this.activeIndex = 0;
+        // this.inicializarEntity();
+        // this.uploadFile = null;
+        // this.formComponent.reset();
+        // this.activeIndex = 0;
+        this.displayConfirmacion = true;
+
       } else {
 
         this.messageService.add({ severity: 'error', summary: 'Error', detail: rta.message });
@@ -198,6 +207,7 @@ export class FormularioPublicoComponent implements OnInit {
     this.entity = {} as RegistroExpediente;
     this.entity.Data = {} as RegistroExpedienteData;
     this.entity.Data.Accionado = {} as Persona;
+    this.entity.Data.Accionado.tipoDocAux = {};
     this.entity.Data.Accionante = {} as Persona;
     this.entity.Data.Intervinientes = [];
   }

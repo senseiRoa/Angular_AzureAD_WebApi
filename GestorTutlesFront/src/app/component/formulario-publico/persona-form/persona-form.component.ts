@@ -52,16 +52,16 @@ export class PersonaFormComponent implements OnInit {
     this.parentForm.get('apellidos').updateValueAndValidity();
   }
   munChange() {
-    this.entity.IdMunicipioResidencia = this.entity.MunicipioAux ? this.entity.MunicipioAux.CODMUNICIP : null;
+    this.entity.IdMunicipioResidencia = this.entity.MunicipioAux ? this.entity.MunicipioAux.id : null;
   }
   async depChange() {
     try {
 
-      this.entity.IdDepartamentoResidencia = this.entity.DepartamentoAux ? this.entity.DepartamentoAux.CODDEPTO : null;
+      this.entity.IdDepartamentoResidencia = this.entity.DepartamentoAux ? this.entity.DepartamentoAux.id : null;
       const mun = await this.municipioService.getAllAsync();
 
-      this.municipiosAux = mun.filter(i => i.CODDEPTO === this.entity.DepartamentoAux.CODDEPTO)
-        .map(i => ({ label: i.NOMMUNICIP, value: i }));
+      this.municipiosAux = mun.filter(i => i.IdDepartamento === this.entity.DepartamentoAux.id)
+        .map(i => ({ label: i.Nombre, value: i }));
     } catch (error) {
       console.log(error);
       this.messageService.add({ severity: 'error', summary: 'Error', detail: 'Hubo un error cargando los información, intentelo de nuevo' });

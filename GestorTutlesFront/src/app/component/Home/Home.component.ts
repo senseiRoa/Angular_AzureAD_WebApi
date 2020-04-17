@@ -1,4 +1,4 @@
-import { DemoPublicService } from './../../../service/DemoPublic.service';
+import { ExpedienteDigitalService } from '../../../service/ExpedienteDigital.service';
 import { DemoService } from './../../../service/Demo.service';
 import { Component, OnInit } from '@angular/core';
 import { RootObject } from 'src/service/RootObject';
@@ -11,7 +11,7 @@ import { RootObject } from 'src/service/RootObject';
 export class HomeComponent implements OnInit {
   data: RootObject[];
 
-  constructor(private demoService: DemoPublicService) { }
+  constructor(private demoService: ExpedienteDigitalService) { }
 
   ngOnInit() {
     // this.demoService.getPublic().subscribe(r => {

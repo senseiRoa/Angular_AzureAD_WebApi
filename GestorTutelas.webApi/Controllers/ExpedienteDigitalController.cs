@@ -13,18 +13,16 @@ using Microsoft.AspNetCore.Mvc;
 namespace GestorTutelas.webApi.Controllers
 {
     [ApiController]
-    //[Authorize]
+    [Authorize]
     [Route("api/[controller]")]
     public class ExpedienteDigitalController : ControllerBase
     {
         private ExpedienteDigitalRepository _ExpedienteDigitalRepository;
 
-        private ExpedienteService _ExpedienteService;
-
-        public ExpedienteDigitalController(ExpedienteDigitalRepository expedienteDigitalRepository, ExpedienteService expedienteService)
+        public ExpedienteDigitalController(ExpedienteDigitalRepository expedienteDigitalRepository )
         {
             this._ExpedienteDigitalRepository = expedienteDigitalRepository;
-            this._ExpedienteService = expedienteService;
+
         }
 
         [HttpGet]
@@ -60,35 +58,7 @@ namespace GestorTutelas.webApi.Controllers
 
         }
         //     ejemplo tomado de :https://dottutorials.net/dotnet-core-web-api-multipart-form-data-upload-file/    
-        [HttpPost]
-        [AllowAnonymous]
-        public async Task<ActionResult> PostFormData([FromForm]RegistroExpedienteFormModel r)
-        {
 
-
-            string capchaResponse = r.CapchaResponse;
-            string response = string.Empty;
-            if (capchaResponse.Equals("3cac5401-95e3-4ea7-bfc4-cdc16a885d6b"))
-            {
-                response = "true";
-            }
-            else
-            {
-                response = ReCaptchaClass.Validate(capchaResponse);
-            }
-
-            if (Boolean.Parse(response))
-            {
-                var result=await this._ExpedienteService.guardarExpediente(r);
-                return Ok(new { status = result, message = "registro recibido Correctamente" });
-            }
-            else
-            {
-                return BadRequest(new { status = false, message = "Error, la solicitud no es valida" });
-            }
-
-
-        }
 
         [HttpPut]
         public ActionResult Put(ExpedienteDigitalEntity entity)

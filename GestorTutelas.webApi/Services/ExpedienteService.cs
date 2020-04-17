@@ -43,7 +43,7 @@ namespace GestorTutelas.webApi.Services
                     var fileName = $"{r.Especialidad.ToString()}_{r.DerechoFundamental.ToString()}_{file_.FileName}";
                     string extension = Path.GetExtension(file_.FileName);
                     var filestoreName = DateTime.Now.ToString("yyyy_MM_dd");
-                    
+
                     var contentType = file_.ContentType;
                     var tamanho = file_.Length / 1024;
 
@@ -58,7 +58,7 @@ namespace GestorTutelas.webApi.Services
                     {
                         try
                         {
-                           
+
                             List<PersonaEntity> personas = new List<PersonaEntity>();
 
 
@@ -98,7 +98,7 @@ namespace GestorTutelas.webApi.Services
                                 fechaCreacion = DateTime.Now,
                                 fechaEdicion = DateTime.Now,
                                 FechaRadicado = DateTime.Now,
-                                IdMunicipioRadicado = r.IdMunicipioRadicado,
+                                IdMunicipioRadicado = (int)accionante.IdMunicipioResidencia,// r.IdMunicipioRadicado,
                                 UsuarioCrea = SISTEMA,
                                 usuarioModifica = string.Empty,
                                 TerminosyCondiciones = r.TerminosyCondiciones
@@ -124,7 +124,7 @@ namespace GestorTutelas.webApi.Services
                             this._ApiDbContext.SaveChanges();
 
                             //actualizar archivo expediente
-                          var  archivoExpediente = new ArchivoExpedienteEntity()
+                            var archivoExpediente = new ArchivoExpedienteEntity()
                             {
 
                                 Id = Guid.NewGuid(),
@@ -144,7 +144,7 @@ namespace GestorTutelas.webApi.Services
                             archivoExpediente.idExpediente = expediente.Id;
                             this._ApiDbContext.Add(archivoExpediente);
                             this._ApiDbContext.SaveChanges();
-                                                       
+
 
                             //commit transaction
                             radicado = true;
@@ -154,7 +154,7 @@ namespace GestorTutelas.webApi.Services
                         catch (Exception ex)
                         {
                             transaction.Rollback();
-                            throw new Exception("hubo un error guardando el Expediente Digital=>"+ex.Message);
+                            throw new Exception("hubo un error guardando el Expediente Digital=>" + ex.Message);
                         }
                     }
                 }
@@ -171,6 +171,7 @@ namespace GestorTutelas.webApi.Services
 
         private PersonaEntity getPersona(PersonaExpedienteModel p)
         {
+
             PersonaEntity persona = new PersonaEntity
             {
                 Id = Guid.NewGuid(),
@@ -179,7 +180,7 @@ namespace GestorTutelas.webApi.Services
                 Celular = p.Celular,
                 Direccion = p.Direccion,
                 Documento = p.Documento,
-                IdMunicipioResidencia = p.IdMunicipioResidencia,
+                IdMunicipioResidencia =  p.IdMunicipioResidencia,
                 Telefono = p.Telefono,
                 CorreoElectronico = p.CorreoElectronico,
                 TipoDocumento = p.TipoDocumento,

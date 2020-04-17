@@ -1,3 +1,4 @@
+import { environment } from '../environments/environment';
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpBackend } from '@angular/common/http';
 import { RootObject } from './RootObject';
@@ -7,8 +8,8 @@ import { RegistroExpediente } from 'src/app/modelos/registro-expediente';
 @Injectable({
   providedIn: 'root'
 })
-export class DemoPublicService {
-  private resourceUrl = 'https://localhost:5001/Public/';
+export class ExpedienteDigitalService {
+  private resourceUrl = environment.publicApiUrl + "ExpedienteDigitalPublic/";
 
 
   constructor(private http: HttpClient) {
@@ -17,9 +18,7 @@ export class DemoPublicService {
   }
 
 
-  getPublic(): Observable<RootObject[]> {
-    return this.http.get<RootObject[]>(`https://localhost:5001/Public/`);
-  }
+
   uploadFormDataAsync(uploadFile: File, entity: RegistroExpediente) {
     const formData = new FormData();
     formData.append('Data', JSON.stringify(entity.Data));

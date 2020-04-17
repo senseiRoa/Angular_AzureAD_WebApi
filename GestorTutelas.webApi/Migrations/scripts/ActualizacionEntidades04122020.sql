@@ -15,3 +15,5 @@ ALTER TABLE "Persona" ADD CONSTRAINT "FK_Persona_Municipio_IdMunicipioResidencia
 INSERT INTO "__EFMigrationsHistory" ("MigrationId", "ProductVersion")
 VALUES ('20200412183604_ActualizacionEntidades', '3.1.3');
 
+ALTER TABLE public."Persona" ALTER COLUMN "IdMunicipioResidencia" DROP NOT NULL;
+

@@ -1,138 +1,134 @@
 [
   {
-    "CODDEPTO": "91",
-    "NOMDEPTO": "AMAZONAS"
+    "id": 91,
+    "Nombre": "Amazonas"
   },
   {
-    "CODDEPTO": "05",
-    "NOMDEPTO": "ANTIOQUIA"
+    "id": 5,
+    "Nombre": "Antioquia"
   },
   {
-    "CODDEPTO": "07",
-    "NOMDEPTO": "ARAUCA"
+    "id": 81,
+    "Nombre": "Arauca"
   },
   {
-    "CODDEPTO": "81",
-    "NOMDEPTO": "ARAUCA"
+    "id": 88,
+    "Nombre": "Archipiélago de San Andrés"
   },
   {
-    "CODDEPTO": "08",
-    "NOMDEPTO": "ATLANTICO"
+    "id": 8,
+    "Nombre": "Atlántico"
   },
   {
-    "CODDEPTO": "13",
-    "NOMDEPTO": "BOLIVAR "
+    "id": 11,
+    "Nombre": "Bogota"
   },
   {
-    "CODDEPTO": "15",
-    "NOMDEPTO": "BOYACA"
+    "id": 13,
+    "Nombre": "Bolívar"
   },
   {
-    "CODDEPTO": "17",
-    "NOMDEPTO": "CALDAS"
+    "id": 15,
+    "Nombre": "Boyacá"
   },
   {
-    "CODDEPTO": "18",
-    "NOMDEPTO": "CAQUETA "
+    "id": 17,
+    "Nombre": "Caldas"
   },
   {
-    "CODDEPTO": "85",
-    "NOMDEPTO": "CASANARE"
+    "id": 18,
+    "Nombre": "Caquetá"
   },
   {
-    "CODDEPTO": "19",
-    "NOMDEPTO": "CAUCA "
+    "id": 85,
+    "Nombre": "Casanare"
   },
   {
-    "CODDEPTO": "20",
-    "NOMDEPTO": "CESAR "
+    "id": 19,
+    "Nombre": "Cauca"
   },
   {
-    "CODDEPTO": "27",
-    "NOMDEPTO": "CHOCO "
+    "id": 20,
+    "Nombre": "Cesar"
   },
   {
-    "CODDEPTO": "23",
-    "NOMDEPTO": "CORDOBA "
+    "id": 27,
+    "Nombre": "Chocó"
   },
   {
-    "CODDEPTO": "25",
-    "NOMDEPTO": "CUNDINAMARCA                                    "
+    "id": 23,
+    "Nombre": "Córdoba"
   },
   {
-    "CODDEPTO": "11",
-    "NOMDEPTO": "DISTRITO CAPITAL                                "
+    "id": 25,
+    "Nombre": "Cundinamarca"
   },
   {
-    "CODDEPTO": "94",
-    "NOMDEPTO": "GUAINIA "
+    "id": 94,
+    "Nombre": "Guainía"
   },
   {
-    "CODDEPTO": "95",
-    "NOMDEPTO": "GUAVIARE"
+    "id": 95,
+    "Nombre": "Guaviare"
   },
   {
-    "CODDEPTO": "41",
-    "NOMDEPTO": "HUILA "
+    "id": 41,
+    "Nombre": "Huila"
   },
   {
-    "CODDEPTO": "44",
-    "NOMDEPTO": "LA GUAJIRA                                      "
+    "id": 44,
+    "Nombre": "La Guajira"
   },
   {
-    "CODDEPTO": "47",
-    "NOMDEPTO": "MAGDALENA"
+    "id": 47,
+    "Nombre": "Magdalena"
   },
   {
-    "CODDEPTO": "50",
-    "NOMDEPTO": "META  "
+    "id": 50,
+    "Nombre": "Meta"
   },
   {
-    "CODDEPTO": "52",
-    "NOMDEPTO": "NARIÑO"
+    "id": 52,
+    "Nombre": "Nariño"
   },
   {
-    "CODDEPTO": "54",
-    "NOMDEPTO": "NORTE DE SANTANDER                              "
+    "id": 54,
+    "Nombre": "Norte de Santander"
   },
   {
-    "CODDEPTO": "86",
-    "NOMDEPTO": "PUTUMAYO"
+    "id": 86,
+    "Nombre": "Putumayo"
   },
   {
-    "CODDEPTO": "63",
-    "NOMDEPTO": "QUINDIO "
+    "id": 63,
+    "Nombre": "Quindío"
   },
   {
-    "CODDEPTO": "66",
-    "NOMDEPTO": "RISARALDA"
+    "id": 66,
+    "Nombre": "Risaralda"
   },
   {
-    "CODDEPTO": "88",
-    "NOMDEPTO": "SAN ANDRES,SANTA CATALINA Y PROVIDENCIA         "
+    "id": 68,
+    "Nombre": "Santander"
   },
   {
-    "CODDEPTO": "68",
-    "NOMDEPTO": "SANTANDER"
+    "id": 70,
+    "Nombre": "Sucre"
   },
   {
-    "CODDEPTO": "70",
-    "NOMDEPTO": "SUCRE "
+    "id": 73,
+    "Nombre": "Tolima"
   },
   {
-    "CODDEPTO": "73",
-    "NOMDEPTO": "TOLIMA"
+    "id": 76,
+    "Nombre": "Valle del Cauca"
   },
   {
-    "CODDEPTO": "76",
-    "NOMDEPTO": "VALLE "
+    "id": 97,
+    "Nombre": "Vaupés"
   },
   {
-    "CODDEPTO": "97",
-    "NOMDEPTO": "VAUPES"
-  },
-  {
-    "CODDEPTO": "99",
-    "NOMDEPTO": "VICHADA "
+    "id": 99,
+    "Nombre": "Vichada"
   }
 ]

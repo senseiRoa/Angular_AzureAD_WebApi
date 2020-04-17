@@ -10,6 +10,6 @@ export const environment = {
   authority: 'https://login.microsoftonline.com/622cba98-80f8-41f3-8df5-8eb99901598b',
 
   aadUserReadScope: 'user.read',
-  apiBaseUrl: 'https://localhost:5001/',
-  apiUrl: 'https://localhost:5001/',
+  privateApiUrl: 'https://localhost:5001/api/',
+  publicApiUrl: 'https://localhost:5001/pubapi/',
 };

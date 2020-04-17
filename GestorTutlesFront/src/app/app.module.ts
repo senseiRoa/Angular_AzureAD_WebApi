@@ -36,15 +36,15 @@ import { InputTextareaModule } from 'primeng/inputtextarea';
 import {InputTextModule} from 'primeng/inputtext';
 import { CaptchaModule } from 'primeng/captcha';
 import { FileUploadModule } from 'primeng/fileupload';
-import { DemoPublicService } from 'src/service/DemoPublic.service';
+import { ExpedienteDigitalService } from 'src/service/ExpedienteDigital.service';
 import { PersonaFormComponent } from './component/formulario-publico/persona-form/persona-form.component';
-
+import {DialogModule} from 'primeng/dialog';
 
 
 function MSALAngularConfigFactory(): MsalAngularConfiguration {
   return {
     consentScopes: [environment.aadUserReadScope, environment.clientIdAPI],
-    protectedResourceMap: [[environment.apiBaseUrl, [environment.clientIdAPI]]]
+    protectedResourceMap: [[environment.privateApiUrl, [environment.clientIdAPI]]]
   }
 }
 
@@ -91,13 +91,14 @@ function MSALAngularConfigFactory(): MsalAngularConfiguration {
     InputTextareaModule,
     InputTextModule,
     FileUploadModule,
-    CaptchaModule
+    CaptchaModule,
+    DialogModule
 
   ],
 
   providers: [
     DemoService,
-    DemoPublicService,
+    ExpedienteDigitalService,
     {
       provide: MSAL_CONFIG_ANGULAR,
       useFactory: MSALAngularConfigFactory

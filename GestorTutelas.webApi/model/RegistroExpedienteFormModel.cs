@@ -51,7 +51,7 @@ public class PersonaExpedienteModel
     public string Direccion { get; set; }
     public string Telefono { get; set; }
     public string Celular { get; set; }
-    public Int32 IdMunicipioResidencia { get; set; }
+    public Int32? IdMunicipioResidencia { get; set; }
 }
 
  
