@@ -19,3 +19,7 @@ FROM mcr.microsoft.com/dotnet/core/aspnet:3.1 AS final
 WORKDIR /app
 COPY --from=build /app/out .
 ENTRYPOINT ["dotnet", "GestorTutelas.webApi.dll"]
+
+
+#docker build -t prueba
+# docker run -d -p 8082:80 pruebaback

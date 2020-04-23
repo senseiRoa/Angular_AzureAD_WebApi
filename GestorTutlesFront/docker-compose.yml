@@ -1,0 +1,14 @@
+version: '3.7'
+
+services:
+
+  expediente:
+    container_name: expedientedigital
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - '.:/app'
+      - '/app/node_modules'
+    ports:
+      - '8088:4200'

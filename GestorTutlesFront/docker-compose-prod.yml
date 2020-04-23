@@ -1,0 +1,15 @@
+
+version: '3.7'
+
+services:
+
+  expedientedig-prod:
+    container_name: expedientedig-prod
+    build:
+      context: .
+      dockerfile: Dockerfile-prod
+    ports:
+      - '8087:80'
+
+
+#docker-compose -f docker-compose-prod.yml up -d --build
