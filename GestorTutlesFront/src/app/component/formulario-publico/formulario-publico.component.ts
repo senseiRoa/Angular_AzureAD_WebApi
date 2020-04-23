@@ -127,6 +127,9 @@ export class FormularioPublicoComponent implements OnInit {
     return this.formComponent.controls;
   }
 
+   formData(control) {
+    return this.formComponent.get(control) as FormArray;
+  }
 
 
   onChange(label: string) {

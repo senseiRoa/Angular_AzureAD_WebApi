@@ -9,7 +9,7 @@ services:
       context: .
       dockerfile: Dockerfile-prod
     ports:
-      - '8087:80'
+      - '8089:80'
 
 
-#docker-compose -f docker-compose-prod.yml up -d --build
+#docker-compose -f docker-compose-prod.yml up --build -d

@@ -78,7 +78,7 @@ export class StepsComponent implements OnInit, AfterContentInit, OnChanges {
     }
   }
 
-  private previous() {
+  previous() {
     console.log('previous');
     this.activeIndex--;
     // emit currently selected index (two-way binding)
@@ -94,9 +94,8 @@ export class StepsComponent implements OnInit, AfterContentInit, OnChanges {
     });
   }
 
-  private next(event) {
+  next() {
     console.log('next');
-    console.log(event);
     this.activeIndex++;
     // emit currently selected index (two-way binding)
     //this.activeIndexChange.emit(this.activeIndex);

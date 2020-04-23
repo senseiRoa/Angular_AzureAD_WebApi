@@ -8,7 +8,7 @@
         <p-panel header="Accionante" class="ui-g-12">
           <div class="ui-g" formArrayName="Accionante">
 
-            <app-persona-form [parentForm]="formComponent.get('Accionante').controls[0]"
+            <app-persona-form [parentForm]="formData('Accionante').controls[0]"
               [entity]="entity.Data.Accionante" form_GroupName="Accionante" [departamentosAux]="departamentosAux">
             </app-persona-form>
 
@@ -23,7 +23,7 @@
         <p-panel header="Accionado" class="ui-g-12">
           <div class="ui-g" formArrayName="Accionado">
 
-            <app-persona-form [parentForm]="formComponent.get('Accionado').controls[0]" [entity]="entity.Data.Accionado"
+            <app-persona-form [parentForm]="formData('Accionado').controls[0]" [entity]="entity.Data.Accionado"
               form_GroupName="Accionado" [departamentosAux]="departamentosAux"></app-persona-form>
 
           </div>
@@ -41,9 +41,9 @@
 
 
 
-            <ng-container *ngFor="let item of formComponent.get('Intervinientes').controls; let i=index;">
+            <ng-container *ngFor="let item of formData('Intervinientes').controls; let i=index;">
               <div class="ui-g-10">
-                <app-persona-form [parentForm]="formComponent.get('Intervinientes').controls[i]"
+                <app-persona-form [parentForm]="formData('Intervinientes').controls[i]"
                   [entity]="entity.Data.Intervinientes[i]" form_GroupName="Intervinientes"
                   [departamentosAux]="departamentosAux">
                 </app-persona-form>

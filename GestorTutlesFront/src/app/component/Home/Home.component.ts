@@ -10,6 +10,7 @@ import { RootObject } from 'src/service/RootObject';
 })
 export class HomeComponent implements OnInit {
   data: RootObject[];
+  sidebarActive: any;
 
   constructor(private demoService: ExpedienteDigitalService) { }
 

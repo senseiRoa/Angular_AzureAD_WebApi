@@ -39,9 +39,10 @@ import { FileUploadModule } from 'primeng/fileupload';
 import { ExpedienteDigitalService } from 'src/service/ExpedienteDigital.service';
 import { PersonaFormComponent } from './component/formulario-publico/persona-form/persona-form.component';
 import {DialogModule} from 'primeng/dialog';
+import { AppSubMenuComponent } from './component/app.sub-menu/app.sub-menu.component';
 
 
-function MSALAngularConfigFactory(): MsalAngularConfiguration {
+export function MSALAngularConfigFactory(): MsalAngularConfiguration {
   return {
     consentScopes: [environment.aadUserReadScope, environment.clientIdAPI],
     protectedResourceMap: [[environment.privateApiUrl, [environment.clientIdAPI]]]
@@ -54,6 +55,7 @@ function MSALAngularConfigFactory(): MsalAngularConfiguration {
   declarations: [
     AppComponent,
     HomeComponent,
+    AppSubMenuComponent,
     LoginComponent,
     AppFooterComponent,
     AppTopBarComponent,
