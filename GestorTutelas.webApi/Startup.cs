@@ -40,7 +40,9 @@ namespace GestorTutelas.webApi
                builder.SetIsOriginAllowed(_ => true)
                .AllowAnyMethod()
                .AllowAnyHeader()
-               .AllowCredentials());
+               .AllowCredentials()
+               .WithOrigins("http:localhost:4200", "http://accionesvirtuales.cortesuprema.gov.co/")
+               );
             }));
 
             var conectionStringPostgres = Configuration.GetValue<string>("ConnectionStrings:DBPostgres");
@@ -60,7 +62,8 @@ namespace GestorTutelas.webApi
             services.AddScoped<UsuarioRepository>();
             services.AddScoped<ExpedienteService>();
 
-            services.AddScoped<IFileClient, LocalFileClient>(client => {
+            services.AddScoped<IFileClient, LocalFileClient>(client =>
+            {
                 var fileRoot = Configuration.GetValue<string>("fileRoot");
                 return new LocalFileClient(fileRoot);
             });
@@ -102,10 +105,11 @@ namespace GestorTutelas.webApi
             // {
             //     endpoints.MapControllers();
             // });
-            app.UseMvc(routes=>{
+            app.UseMvc(routes =>
+            {
                 routes.MapRoute(
-                    name:"default",
-                    template:"{controller=Home}/{action=Index}/{id?}"
+                    name: "default",
+                    template: "{controller=Home}/{action=Index}/{id?}"
                     );
             });
         }
