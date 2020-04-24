@@ -23,8 +23,35 @@ namespace GestorTutelas.webApi.Controllers
             {
                 // var entityList = this._RolRepository.GetAll();
                 // return Ok(new { status = true, message = entityList });
-
+                Console.WriteLine("Recibiendo peticion post");
                 var conectionStringPostgres2 = "hola";// 
+
+                var x = new
+                {
+                    val1 = Environment.GetEnvironmentVariable("hola"),
+                    val2 = conectionStringPostgres2
+                };
+                return Ok(x);
+            }
+            catch (Exception ex)
+            {
+
+                return BadRequest(new { status = true, message = ex.Message });
+            }
+
+        }
+
+
+
+        [HttpPost]
+        public ActionResult Post()
+        {
+            try
+            {
+                // var entityList = this._RolRepository.GetAll();
+                // return Ok(new { status = true, message = entityList });
+                Console.WriteLine("Recibiendo peticion post");
+                var conectionStringPostgres2 = "hola post";// 
 
                 var x = new
                 {
