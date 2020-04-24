@@ -38,11 +38,12 @@ namespace GestorTutelas.webApi
             {
                 options.AddDefaultPolicy(builder =>
                builder.SetIsOriginAllowed(_ => true)
-               .AllowAnyMethod()
-               .AllowAnyHeader()
-               .AllowCredentials()
-               .WithOrigins("http:localhost:4200", "http://accionesvirtuales.cortesuprema.gov.co/")
-               );
+               .AllowAnyOrigin()
+                // .WithOrigins("http:localhost:4200", "http://accionesvirtuales.cortesuprema.gov.co/")
+                .AllowAnyMethod()
+                .AllowAnyHeader()
+                //.AllowCredentials()
+                );
             }));
 
             var conectionStringPostgres = Configuration.GetValue<string>("ConnectionStrings:DBPostgres");

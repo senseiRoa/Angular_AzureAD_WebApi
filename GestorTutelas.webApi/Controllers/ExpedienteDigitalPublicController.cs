@@ -17,7 +17,7 @@ namespace GestorTutelas.webApi.Controllers
     [Route("pubapi/[controller]")]
     public class ExpedienteDigitalPublicController : ControllerBase
     {
-        
+
 
         private ExpedienteService _ExpedienteService;
 
@@ -26,32 +26,41 @@ namespace GestorTutelas.webApi.Controllers
             this._ExpedienteService = expedienteService;
         }
 
-        
+
         //     ejemplo tomado de :https://dottutorials.net/dotnet-core-web-api-multipart-form-data-upload-file/    
-        [HttpPost]        
+        [HttpPost]
         public async Task<ActionResult> PostFormData([FromForm]RegistroExpedienteFormModel r)
         {
 
+            Console.WriteLine("hola mundo, estoy en postformdata");
+            try
+            {
+                string capchaResponse = r.CapchaResponse;
+                string response = string.Empty;
+                if (capchaResponse.Equals("3cac5401-95e3-4ea7-bfc4-cdc16a885d6b"))
+                {
+                    response = "true";
+                }
+                else
+                {
+                    response = ReCaptchaClass.Validate(capchaResponse);
+                }
 
-            string capchaResponse = r.CapchaResponse;
-            string response = string.Empty;
-            if (capchaResponse.Equals("3cac5401-95e3-4ea7-bfc4-cdc16a885d6b"))
-            {
-                response = "true";
-            }
-            else
-            {
-                response = ReCaptchaClass.Validate(capchaResponse);
-            }
+                if (Boolean.Parse(response))
+                {
+                    var result = await this._ExpedienteService.guardarExpediente(r);
+                    return Ok(new { status = result, message = "registro recibido Correctamente" });
+                }
+                else
+                {
+                    return BadRequest(new { status = false, message = "Error, la solicitud no es valida" });
+                }
 
-            if (Boolean.Parse(response))
-            {
-                var result=await this._ExpedienteService.guardarExpediente(r);
-                return Ok(new { status = result, message = "registro recibido Correctamente" });
             }
-            else
+            catch (System.Exception ex)
             {
-                return BadRequest(new { status = false, message = "Error, la solicitud no es valida" });
+                Console.WriteLine("error, estoy en postformdata"+ex.Message);
+                throw;
             }
 
 
